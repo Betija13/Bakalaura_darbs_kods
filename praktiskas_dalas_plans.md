@@ -26,6 +26,8 @@ flowchart LR
     id5[STT modelis] --> id4[Transkripts 3]
     
 ```
+Mērķis: samazināt CER/WER Transkriptam 3 attiecībā pret Transkriptu 2
+
 STT - Speech to text
 
 SST - Speech style transfer
