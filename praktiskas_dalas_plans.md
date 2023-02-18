@@ -4,9 +4,7 @@ flowchart LR
     direction LR
     A[Runātājs 1 Lasa tekstu] --> B[STT modelis] --> C[Transkripts 1]
     end
-```
-```mermaid
-flowchart LR
+    
     subgraph inference
     direction LR
     D[Runātājs 2 Lasa tekstu] --> E[STT modelis] --> F[Transkripts 2]
