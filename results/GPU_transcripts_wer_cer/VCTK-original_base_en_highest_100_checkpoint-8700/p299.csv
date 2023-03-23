@@ -1,0 +1,406 @@
+name,transcription,prediction,ev_wer,ev_cer,my_wer,my_cer
+p299_001,Please call Stella., Please call stella,33.33333333333333,10.526315789473683,0.0,10.526315789473683
+p299_002,Ask her to bring these things with her from the store., asked could it bring these things with her from the store?,36.36363636363637,20.37037037037037,36.36363636363637,27.77777777777778
+p299_003,"Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob."," Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob",5.0,0.9803921568627451,0.0,0.9803921568627451
+p299_004,We also need a small plastic snake and a big toy frog for the kids., We also need a small plastic snake and a big toy frog for the kids,6.666666666666667,1.4925373134328357,0.0,1.4925373134328357
+p299_005,"She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.", She can scoop these things into three red bags and we will go meet her Wednesday at the train station,10.0,1.9417475728155338,0.0,1.9417475728155338
+p299_006,"When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow."," When the sunlight strikes, rain drops in the air, the act is a prism and form a rainbow",35.294117647058826,5.747126436781609,23.52941176470588,16.091954022988507
+p299_007,The rainbow is a division of white light into many beautiful colors., The rainbow is a division of white light into many beautiful colors,8.333333333333332,1.4705882352941175,0.0,1.4705882352941175
+p299_008,"These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon."," These take the shape of a long round arch, with its path high above, and its true ends apparently beyond the horizon",9.090909090909092,3.4482758620689653,4.545454545454546,3.4482758620689653
+p299_009,"There is , according to legend, a boiling pot of gold at one end."," There is , according to legend, a boiling pot of gold at one end",7.142857142857142,1.5384615384615385,0.0,1.5384615384615385
+p299_010,"People look, but no one ever finds it."," people look, but no one ever finds it",25.0,5.263157894736842,0.0,34.21052631578947
+p299_011,"When a man looks for something beyond his reach, his friends say he's looking for the pot of gold at the end of the rainbow."," When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow",12.0,2.4193548387096775,8.0,4.032258064516129
+p299_012,Throughout the centuries people have explained the rainbow in various ways.," Throughout the centuries, people have explained the rainbow in various ways",18.181818181818183,2.666666666666667,0.0,2.666666666666667
+p299_013,Some have accepted it as a miracle without physical explanation., Some have accepted it as a miracle without physical explanation,10.0,1.5625,0.0,1.5625
+p299_014,To the Hebrews it was a token that there would be no more universal floods.," To the Hebrews, it was a token that there would be no more universal floods",13.333333333333334,2.666666666666667,0.0,2.666666666666667
+p299_015,The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain., The Greeks used to imagine that it was a sign from the gods to fritel war or heavy rain,10.526315789473683,4.444444444444445,5.263157894736842,8.88888888888889
+p299_016,The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky., The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky,4.761904761904762,0.9009009009009009,0.0,0.9009009009009009
+p299_017,Others have tried to explain the phenomenon physically., others have tried to explain the phenomenon physically,25.0,3.6363636363636362,0.0,23.636363636363637
+p299_018,Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain., Aristotle thought that the rainbow is caused by reflection of the sense raised by the rain,25.0,10.0,18.75,11.11111111111111
+p299_019,"Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows."," Since then, physicists have found that there is not reflection, but reflection by the raindrops which causes the rainbows",21.052631578947366,7.627118644067797,10.526315789473683,7.627118644067797
+p299_020,Many complicated ideas about the rainbow have been formed., Many complicated ideas about the rainbow have been formed,11.11111111111111,1.7241379310344827,0.0,1.7241379310344827
+p299_021,"The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases."," The difference in the rainbow depends considerably upon the size of the drops, and the width of the colour band increases as the size of the drops increases",7.142857142857142,2.5316455696202533,3.571428571428571,2.5316455696202533
+p299_022,The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows., The actual primary rainbow observed said to be the effect of super in position of a number of bows,27.77777777777778,6.9306930693069315,33.33333333333333,31.683168316831683
+p299_023,"If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow."," If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.",0.0,0.0,0.0,0.0
+p299_024,"This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue."," This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue",4.761904761904762,0.9803921568627451,0.0,0.9803921568627451
+p299_025,I just went for it over the weekend., i just went for it over the weekend,25.0,5.555555555555555,0.0,8.333333333333332
+p299_026,I managed to take her completely by surprise., i managed to take her completely by surprise,25.0,4.444444444444445,0.0,6.666666666666667
+p299_027,"It is only one night, after all."," it is only one night, after all",28.57142857142857,6.25,0.0,15.625
+p299_028,Gilbert was not amused., gillbert was not amused,50.0,13.043478260869565,50.0,69.56521739130434
+p299_029,My first season in Scotland was fantastic., My first season in scotland was fantastic,28.57142857142857,4.761904761904762,0.0,4.761904761904762
+p299_030,"I was left-handed, but it was just a matter of practice."," i was left-handed, but it was just a matter of practice",18.181818181818183,3.571428571428571,0.0,5.357142857142857
+p299_031,It has moved on in the last week., It has moved on in the last week,12.5,3.0303030303030303,0.0,3.0303030303030303
+p299_032,It's easy to see why., its easy to see why,40.0,14.285714285714285,40.0,38.095238095238095
+p299_033,I am proud of moments like that., i am proud of moments like that,28.57142857142857,6.25,0.0,9.375
+p299_034,This is a totally different order of agreement., This is a totally different order of agreement,12.5,2.127659574468085,0.0,2.127659574468085
+p299_035,Nine of the tourists were killed instantly., Nine of the tourists were killed instantly,14.285714285714285,2.3255813953488373,0.0,2.3255813953488373
+p299_036,"He was arrested, but later released without charge."," He is arrested, but later released without charge",25.0,5.88235294117647,12.5,7.8431372549019605
+p299_037,Ministers received the report with frosty reticence., ministers received a report with frosty reticents,42.857142857142854,13.461538461538462,28.57142857142857,46.15384615384615
+p299_038,This is a big advantage., This is a big advantage,20.0,4.166666666666666,0.0,4.166666666666666
+p299_039,I think we have a very strong case., i think we have a very strong case,25.0,5.714285714285714,0.0,8.571428571428571
+p299_040,We agreed to disagree., We agreed to disagree,25.0,4.545454545454546,0.0,4.545454545454546
+p299_041,"If you have to pay for treatment, you pay for treatment."," if you have to pay for treatment, you pay for treatment",18.181818181818183,3.571428571428571,0.0,8.928571428571429
+p299_042,If you look at the beginning of Alien., if you look at the beginning of aliain,25.0,13.157894736842104,12.5,21.052631578947366
+p299_043,I've learned from my mistakes.,ive learned from my mistakes,40.0,10.0,20.0,16.666666666666664
+p299_044,Today is not about contracts., Today is not about contracts,20.0,3.4482758620689653,0.0,3.4482758620689653
+p299_045,"It should be a great game, though."," It should be a great game, though",14.285714285714285,2.941176470588235,0.0,2.941176470588235
+p299_046,That says something for his strength of character., That says something for a strength of character,25.0,8.0,12.5,8.0
+p299_047,"You see, it wasn't a tournament of equals."," You see, it wasn't a tournament of equals",12.5,2.380952380952381,0.0,2.380952380952381
+p299_048,It's to do with play., its to do with play,40.0,14.285714285714285,40.0,38.095238095238095
+p299_049,"Usually, you should leave it alone in the box."," Usually, you should leave it alone in the box",11.11111111111111,2.1739130434782608,0.0,2.1739130434782608
+p299_050,I've just got to do this., i have just got to do this,50.0,20.0,50.0,40.0
+p299_051,Rangers will have a massive support in Glasgow., rangers will have a massive support in glass go,37.5,12.76595744680851,25.0,44.680851063829785
+p299_052,That was the problem., That was the problem,25.0,4.761904761904762,0.0,4.761904761904762
+p299_053,Ministers are not involved in these discussions., ministers are not involved in these discussions,28.57142857142857,4.166666666666666,0.0,39.58333333333333
+p299_054,I have been here for only three months., i have been here for only three months,25.0,5.128205128205128,0.0,7.6923076923076925
+p299_055,Everything else is second., Everything else is second,25.0,3.8461538461538463,0.0,3.8461538461538463
+p299_056,I think it is a sensible change., i think it is a sensible change,28.57142857142857,6.25,0.0,9.375
+p299_057,Sex is fun?, Sex is fun,33.33333333333333,9.090909090909092,0.0,9.090909090909092
+p299_058,"They were not doing it too well, either.", They were not doing it too well either,25.0,5.0,0.0,5.0
+p299_059,"He added, It's not a racial problem."," He added, its not a racial problem",28.57142857142857,8.333333333333332,14.285714285714285,11.11111111111111
+p299_060,He had played well in that central role., He had played well in that central role,12.5,2.5,0.0,2.5
+p299_061,We hope this scheme will change that., We hope this scheme will change that,14.285714285714285,2.7027027027027026,0.0,2.7027027027027026
+p299_062,It was created by genocide., It was created by genocide,20.0,3.7037037037037033,0.0,3.7037037037037033
+p299_063,"It was, for me, like a week in heaven."," It was, for me, like a week in heaven",11.11111111111111,2.631578947368421,0.0,2.631578947368421
+p299_064,How could anyone take issue with that?, How could anyone take issue with that?,0.0,0.0,0.0,0.0
+p299_065,He takes time out for everyone., He takes time out for everyone,16.666666666666664,3.225806451612903,0.0,3.225806451612903
+p299_066,The decision is an absolute disgrace., The decision is an absolute disgrace,16.666666666666664,2.7027027027027026,0.0,2.7027027027027026
+p299_067,"Now, just two games into the season, he has gone."," Now, just two games into the season, he has gone",10.0,2.0408163265306123,0.0,2.0408163265306123
+p299_068,A number of people could not speak English., a number of people could not speak english,25.0,6.976744186046512,0.0,9.30232558139535
+p299_069,They have got off with murder., They have got off with murder,16.666666666666664,3.3333333333333335,0.0,3.3333333333333335
+p299_070,They had had time for little else., They had had time for little else,14.285714285714285,2.941176470588235,0.0,2.941176470588235
+p299_071,Both of those promises have already been honoured., Both of those promises have already been honoured,12.5,2.0,0.0,2.0
+p299_072,We have reports of this throughout Scotland., We have reports of this throughout scotland,14.285714285714285,4.545454545454546,0.0,4.545454545454546
+p299_073,"It probably didn't feel anything, she added."," it probably didnt feel anything, she added",42.857142857142854,6.8181818181818175,14.285714285714285,15.909090909090908
+p299_074,The settlement could run to millions., The settlement could run to millions,16.666666666666664,2.7027027027027026,0.0,2.7027027027027026
+p299_075,It does not stop at the border., it does not stop at the border,28.57142857142857,6.451612903225806,0.0,16.129032258064516
+p299_076,"We've always had three options, and none of them are perfect."," We have always had three options, and none of them are perfect",27.27272727272727,6.557377049180328,27.27272727272727,19.672131147540984
+p299_077,How can they say that?, How can they see that?,20.0,9.090909090909092,20.0,9.090909090909092
+p299_078,Robert is a special talent., robert is a special talent,40.0,7.4074074074074066,0.0,48.148148148148145
+p299_079,"John Reid, the Northern Ireland secretary, yesterday appealed for restraint."," John Reed, the northern ireland secretary, yesterday appealed for restraint",40.0,5.263157894736842,10.0,5.263157894736842
+p299_080,"She added, It is a huge problem."," she added, it is a huge problem",42.857142857142854,9.375,0.0,25.0
+p299_081,You can't keep them separate., You cant keep them separate,40.0,6.896551724137931,20.0,10.344827586206897
+p299_082,I still feel like a wee boy., i still feel like a wee boy,28.57142857142857,7.142857142857142,0.0,10.714285714285714
+p299_083,He will be sentenced tomorrow by Lord Dawson., He will be sentenced tomorrow by Lord Dawson,12.5,2.2222222222222223,0.0,2.2222222222222223
+p299_084,But there was a shift., but there is a shift,60.0,18.181818181818183,20.0,45.45454545454545
+p299_085,Israel has done very little until now., israel has done very little into now,42.857142857142854,13.157894736842104,14.285714285714285,42.10526315789473
+p299_086,Debate was impassioned and furious., debate was impassioned in furious,60.0,11.428571428571429,20.0,42.857142857142854
+p299_087,We are losing this war., We are losing this war!,20.0,4.3478260869565215,0.0,4.3478260869565215
+p299_088,A decision is expected today., a decision is expected today,40.0,6.896551724137931,0.0,10.344827586206897
+p299_089,The death rates are still as high., The death rates are still as high,14.285714285714285,2.941176470588235,0.0,2.941176470588235
+p299_090,"For one veteran, the memories remain vivid."," For one veteran, the memories remain vivid",14.285714285714285,2.3255813953488373,0.0,2.3255813953488373
+p299_091,There is a growing anger among the group., there is a ground anger among the group,37.5,12.195121951219512,12.5,36.58536585365854
+p299_092,We certainly will need to watch him., We certainly will need to watch him,14.285714285714285,2.7777777777777777,0.0,2.7777777777777777
+p299_093,I don't think it could be clearer., i dont think it could be clearer,42.857142857142854,8.823529411764707,14.285714285714285,32.35294117647059
+p299_094,He put some colour into Scottish history., He put some colour into scottish history,28.57142857142857,4.878048780487805,0.0,4.878048780487805
+p299_095,Our offer will remain on the table., Our offer will remain on the table,14.285714285714285,2.857142857142857,0.0,2.857142857142857
+p299_096,We are trying to establish a date., We are trying to establish a date,14.285714285714285,2.941176470588235,0.0,2.941176470588235
+p299_097,He is a man who lives to work., He is a man who lives to work,12.5,3.3333333333333335,0.0,3.3333333333333335
+p299_098,The website is now being amended., The website is now being amended,16.666666666666664,3.0303030303030303,0.0,3.0303030303030303
+p299_099,It was a bit of a struggle today., It was a bit of a struggle today,12.5,3.0303030303030303,0.0,3.0303030303030303
+p299_100,"If you could have dinner with anyone, who would it be?"," if he could have dinner with anyone, who would it be?",18.181818181818183,7.4074074074074066,9.090909090909092,12.962962962962962
+p299_101,It's amazing it happened in the daytime., its amazing it happened in the daytime,28.57142857142857,7.5,28.57142857142857,20.0
+p299_102,This is thought to mean sometime next week., This is thought to mean sometime next week,12.5,2.3255813953488373,0.0,2.3255813953488373
+p299_103,He had a heart problem., He had a heart problem,20.0,4.3478260869565215,0.0,4.3478260869565215
+p299_104,The breakdown was much later in her life., The breakdown was much later in her life,12.5,2.4390243902439024,0.0,2.4390243902439024
+p299_105,"I tried to be cautious, but it's hard in that role."," i tried to be cautious, but its hard in that role",27.27272727272727,5.88235294117647,9.090909090909092,9.803921568627452
+p299_106,That was the light relief., That was the light relief,20.0,3.8461538461538463,0.0,3.8461538461538463
+p299_107,I am a wealthy person., i am a wealthy person,40.0,9.090909090909092,0.0,13.636363636363635
+p299_108,He has one son and one daughter., He has one son and one daughter,14.285714285714285,3.125,0.0,3.125
+p299_109,"He's delighted, too, with the new premises."," He is delighted, too, with the new premises",42.857142857142854,6.976744186046512,42.857142857142854,20.930232558139537
+p299_110,"That, he claimed, was essential."," That, he claimed, was essential",20.0,3.125,0.0,3.125
+p299_111,I have great respect for all my players., i have great respect for all my players,25.0,5.0,0.0,7.5
+p299_112,"Hopefully, it will come from someone on our side."," Hopefully, it will come from someone on our side",11.11111111111111,2.0408163265306123,0.0,2.0408163265306123
+p299_113,He had other things on his mind., He had other things on his mind,14.285714285714285,3.125,0.0,3.125
+p299_114,I hadn't seen them in eight years., i hadnt seen them in eight years,42.857142857142854,8.823529411764707,14.285714285714285,38.23529411764706
+p299_115,"Don Hutchison, too, is a threat."," Don hutchison, too, is a threat",33.33333333333333,6.25,0.0,6.25
+p299_116,The next few months will tell., The next few months will tell,16.666666666666664,3.3333333333333335,0.0,3.3333333333333335
+p299_117,It felt like my support system was leaving., It felt like my support system was leaving,12.5,2.3255813953488373,0.0,2.3255813953488373
+p299_118,It is crucial for both teams., It is crucial for both teams,16.666666666666664,3.4482758620689653,0.0,3.4482758620689653
+p299_119,I am happy with my form., i am happy with my form,33.33333333333333,8.333333333333332,0.0,12.5
+p299_120,You can see their point., You can see their point,20.0,4.166666666666666,0.0,4.166666666666666
+p299_121,"Council officials are involved, along with the transport industry."," council officials are involved, along with the transport industry",22.22222222222222,3.0303030303030303,0.0,22.727272727272727
+p299_122,They married in August last year., They married in August last year,16.666666666666664,3.0303030303030303,0.0,3.0303030303030303
+p299_123,"However, in Scotland this figure was four weeks."," However, in scotland, this figure was four weeks",25.0,6.25,0.0,6.25
+p299_124,Yet he chose to do something different., Yet he chose to do something different,14.285714285714285,2.564102564102564,0.0,2.564102564102564
+p299_125,"He was happy, the BBC was happy, the listeners were happy."," He was happy the bbc was happy, the listeners were happy",27.27272727272727,8.620689655172415,0.0,8.620689655172415
+p299_126,There were no casualties., There are no casualties,50.0,12.0,25.0,20.0
+p299_127,I've just got to build on this now., i have just got to build on this now,37.5,14.285714285714285,37.5,28.57142857142857
+p299_128,I was pleased with my own game., i was pleased with my own game,28.57142857142857,6.451612903225806,0.0,9.67741935483871
+p299_129,The case will now go to appeal., the case will now go to appeal,28.57142857142857,6.451612903225806,0.0,22.58064516129032
+p299_130,They really did a great job., They really did a great job,16.666666666666664,3.571428571428571,0.0,3.571428571428571
+p299_131,"A teacher is, really, about unity.", A teacher is really about unity,50.0,8.823529411764707,0.0,8.823529411764707
+p299_132,Where is the anthrax?, Where is the anthrax?,0.0,0.0,0.0,0.0
+p299_133,Bombing is the easy option., bombing is the easy option,40.0,7.4074074074074066,0.0,55.55555555555556
+p299_134,I love you so very much., i love you so very much,33.33333333333333,8.333333333333332,0.0,12.5
+p299_135,Lord Johnston will give a decision later., Lord Johnson will give a decision later,28.57142857142857,4.878048780487805,14.285714285714285,9.75609756097561
+p299_136,The road was closed for several hours., The road was closed for several hours,14.285714285714285,2.631578947368421,0.0,2.631578947368421
+p299_137,They can be time consuming., They can be time consuming,20.0,3.7037037037037033,0.0,3.7037037037037033
+p299_138,"In time, may prove a worthy successor to Billy Dodds."," In time, may prove a worthy successor to Billy Dodds",10.0,1.8867924528301887,0.0,1.8867924528301887
+p299_139,I had a tie in my hand., i had a tie in my hand,28.57142857142857,8.695652173913043,0.0,13.043478260869565
+p299_140,"A world away from Rangers, you might say."," a world away from major, as you might say",50.0,24.390243902439025,25.0,29.268292682926827
+p299_141,Sean Connery did not disappoint., Sean Connery did not disappoint,20.0,3.125,0.0,3.125
+p299_142,Such a city does not exist., Such a city does not exist,16.666666666666664,3.7037037037037033,0.0,3.7037037037037033
+p299_143,My aim is a top six finish., My aim is a top six finish,14.285714285714285,3.7037037037037033,0.0,3.7037037037037033
+p299_144,We would welcome a greater emphasis on carcasses., We would welcome a greater emphasis on carcasses,12.5,2.0408163265306123,0.0,2.0408163265306123
+p299_145,This has a number of benefits., This has a number of benefits,16.666666666666664,3.3333333333333335,0.0,3.3333333333333335
+p299_146,There is too much at stake for that., There is too much at stake for that,12.5,2.7777777777777777,0.0,2.7777777777777777
+p299_147,That is in the very nature of farming., That is in the very nature of farming,12.5,2.631578947368421,0.0,2.631578947368421
+p299_148,These matters are now behind us., These matters are now behind us,16.666666666666664,3.125,0.0,3.125
+p299_149,"To which the only answer is, don't hold your breath."," to which the only answer is, dont hold your breath",30.0,5.769230769230769,10.0,13.461538461538462
+p299_150,Thousands of homes were left without power supplies., Thousands of homes were left without power supplies,12.5,1.9230769230769231,0.0,1.9230769230769231
+p299_151,I love the tradition of vaudeville., i love the tradition of vaudeville,33.33333333333333,5.714285714285714,0.0,8.571428571428571
+p299_152,It was then into overtime., It was then into overtime,20.0,3.8461538461538463,0.0,3.8461538461538463
+p299_153,Most of the public are behind me., most of the public are behind me,28.57142857142857,6.0606060606060606,0.0,27.27272727272727
+p299_154,"Yet it is unlikely to be either full, or final.", Yet it is unlikely to be either full or final,20.0,4.25531914893617,0.0,4.25531914893617
+p299_155,Nor does it have a stock of medicines., nor does it have a stock of medicines,25.0,5.263157894736842,0.0,18.421052631578945
+p299_156,I am still very much a director., i am still very much a director,28.57142857142857,6.25,0.0,9.375
+p299_157,"I might have been sitting at home, with her out here.", i might have been sitting at home with her out here,27.27272727272727,5.660377358490567,0.0,7.547169811320755
+p299_158,But we are severely limited in funds., but we are severely limited in funds,28.57142857142857,5.405405405405405,0.0,18.91891891891892
+p299_159,"In some cases, the nation should be grateful."," In some cases, the nation should be grateful",12.5,2.2222222222222223,0.0,2.2222222222222223
+p299_160,"Meanwhile, the problems of Ball continue to multiply."," Meanwhile, the problems of ball continue to multiply",25.0,3.7735849056603774,0.0,3.7735849056603774
+p299_161,My house was shaking at the time., My house is shaking at the time,28.57142857142857,9.090909090909092,14.285714285714285,12.121212121212121
+p299_162,They will know they deserve to be there., They will know they deserved to be there,25.0,5.0,12.5,5.0
+p299_163,Of course he is., Of course he is!,25.0,6.25,0.0,6.25
+p299_164,This is a huge confidence boost., This is a huge confidence boost,16.666666666666664,3.125,0.0,3.125
+p299_165,They recorded their debut album in New York., They recorded their debut album in New York,12.5,2.272727272727273,0.0,2.272727272727273
+p299_166,And does it?, and does it?,33.33333333333333,8.333333333333332,0.0,50.0
+p299_167,That's how it worked in Bosnia., That is how it worked in Bosnia,50.0,9.67741935483871,50.0,41.935483870967744
+p299_168,Nobody even knew it had happened., Nobody even knew it had happened,16.666666666666664,3.0303030303030303,0.0,3.0303030303030303
+p299_169,Freedom from Serbia is a growing objective., freedom from Serbia is a growing objective,28.57142857142857,4.651162790697675,0.0,34.883720930232556
+p299_170,She is a very lucky lady., she is a very lucky lady,33.33333333333333,8.0,0.0,28.000000000000004
+p299_171,Was it a foul?, Was it a fowl?,25.0,7.142857142857142,25.0,7.142857142857142
+p299_172,Jamming would be equally difficult., jamming would be equally difficult,40.0,5.714285714285714,0.0,42.857142857142854
+p299_173,We've been there for seven years., We have been there for seven years,50.0,12.121212121212121,50.0,36.36363636363637
+p299_174,He was as good as his word., He was as good as his word,14.285714285714285,3.7037037037037033,0.0,3.7037037037037033
+p299_175,Promises were not kept., Promises were not kept,25.0,4.3478260869565215,0.0,4.3478260869565215
+p299_176,My life has been destroyed., My life has been destroyed,20.0,3.7037037037037033,0.0,3.7037037037037033
+p299_177,His signature is his handwriting., His signature is his handwriting,20.0,3.0303030303030303,0.0,3.0303030303030303
+p299_178,He admitted there were two aspects of fear., He admitted there were two aspects of fear,12.5,2.3255813953488373,0.0,2.3255813953488373
+p299_179,The sense of excitement in Stirling is tangible., The sense of excitement in stirling is tangible,25.0,4.166666666666666,0.0,4.166666666666666
+p299_180,It's not in my nature., its not in my nature,40.0,13.636363636363635,40.0,36.36363636363637
+p299_181,You see - this business is a good one.," You see, this business is a good one",33.33333333333333,7.894736842105263,22.22222222222222,7.894736842105263
+p299_182,Who is he?, Who is he?,0.0,0.0,0.0,0.0
+p299_183,Serb forces then opened fire in their direction.,serb forces then opened fire in their direction,25.0,4.166666666666666,0.0,4.166666666666666
+p299_184,Our members are concerned about their futures., Our members are concerned about their futures,14.285714285714285,2.1739130434782608,0.0,2.1739130434782608
+p299_185,"It was that bad, that low."," It was that bad, that low",16.666666666666664,3.8461538461538463,0.0,3.8461538461538463
+p299_186,It also highlighted some local hero districts., It also highlighted some local hero districts,14.285714285714285,2.1739130434782608,0.0,2.1739130434782608
+p299_187,The project is entitled The Composer in Scotland., The project is entitled the composer in scotland,37.5,8.16326530612245,0.0,8.16326530612245
+p299_188,"It worked, up to a point."," It worked, up to a point",16.666666666666664,4.0,0.0,4.0
+p299_189,There was no rescue., There is no rescue,50.0,15.0,25.0,20.0
+p299_190,This isn't something the Labour Government has invented., This isnt something the labour government has invented,50.0,7.142857142857142,12.5,8.928571428571429
+p299_191,I can't stand this sort of stuff., i cant stand this sort of stuff,42.857142857142854,9.090909090909092,14.285714285714285,33.33333333333333
+p299_192,"It's fun and challenging, but it is not easy."," its fun and challenging, but its not easy",44.44444444444444,11.11111111111111,44.44444444444444,24.444444444444443
+p299_193,"NOW it is official, Barry Ferguson is staying with Rangers."," Now it is official, Barry Ferguson is staying with rangers",20.0,6.779661016949152,0.0,13.559322033898304
+p299_194,Is Saddam a threat?, is saddam a threat?,50.0,10.526315789473683,0.0,73.68421052631578
+p299_195,We've got a great defensive club., We have got a great defensive club,50.0,12.121212121212121,50.0,36.36363636363637
+p299_196,"Darrell was, however, adamant."," Daryl was, however, adamant",50.0,13.333333333333334,50.0,43.333333333333336
+p299_197,The rear of the plane was on fire., The rear of the plane was on fire,12.5,2.941176470588235,0.0,2.941176470588235
+p299_198,I feel privileged to be here., i feel privileged to be here,33.33333333333333,6.896551724137931,0.0,10.344827586206897
+p299_199,I'm not afraid of that., i am not afraid of that,60.0,17.391304347826086,60.0,30.434782608695656
+p299_200,"If they don't, they might well decide not to play."," if they dont, they might well decide not to play",30.0,6.0,10.0,16.0
+p299_201,She told me to apply for the crest., she told me to apply for the crest,25.0,5.714285714285714,0.0,20.0
+p299_202,He explained to his audience., He explained to his audience,20.0,3.4482758620689653,0.0,3.4482758620689653
+p299_203,I think the Government should pay for that., i think the government should pay for that,37.5,6.976744186046512,0.0,9.30232558139535
+p299_204,I never made any offer to Mark., i never made any offer to mark,28.57142857142857,9.67741935483871,0.0,12.903225806451612
+p299_205,The actors are confident and polished., The actors are confident and polished,16.666666666666664,2.631578947368421,0.0,2.631578947368421
+p299_206,The budget was too low for that., the budget was too low for that,28.57142857142857,6.25,0.0,21.875
+p299_207,All inquiries should be made to the police., all inquiries should be made to the police,25.0,4.651162790697675,0.0,16.27906976744186
+p299_208,I'm a bit annoyed., i am a bit annoyed,75.0,22.22222222222222,75.0,38.88888888888889
+p299_209,On that they agree.," On that, they agree",50.0,10.526315789473683,0.0,10.526315789473683
+p299_210,I just could not cope., i just could not cope,40.0,9.090909090909092,0.0,13.636363636363635
+p299_211,The outcome is now in our own hands., The outcome is now in our own hands,12.5,2.7777777777777777,0.0,2.7777777777777777
+p299_212,It is all one-sided., it is all one-sided,50.0,10.0,0.0,25.0
+p299_213,Scottish public finances emerge from this review enhanced., scottish public finance is emerged from this review enhanced,62.5,8.620689655172415,37.5,53.44827586206896
+p299_214,Here are some possible solutions., Here are some possible solutions,20.0,3.0303030303030303,0.0,3.0303030303030303
+p299_215,IT was a thoroughly modern affair., It was a thoroughly modern affair,33.33333333333333,5.88235294117647,0.0,14.705882352941178
+p299_216,They were both very brave., They were both very brave,20.0,3.8461538461538463,0.0,3.8461538461538463
+p299_217,He made so many bad decisions., He made so many bad decisions,16.666666666666664,3.3333333333333335,0.0,3.3333333333333335
+p299_218,We are now up against it., We are now up against it,16.666666666666664,4.0,0.0,4.0
+p299_219,"It is anything but erotic, but that is probably the point."," it is anything but erotic, but that is probably the point",18.181818181818183,3.4482758620689653,0.0,8.620689655172415
+p299_220,I would have dropped out otherwise., i would have dropped out otherwise,33.33333333333333,5.714285714285714,0.0,8.571428571428571
+p299_221,"She said No, he's not in Elgin today."," she said, no, he is not an elg end today",100,29.72972972972973,62.5,100
+p299_222,"Nato would ensure they could return home, he said."," NATO would ensure they could return home, he said",22.22222222222222,8.0,0.0,18.0
+p299_223,Mrs Anderson said this one was different., mrs. Anderson said this one is different,42.857142857142854,12.195121951219512,14.285714285714285,26.82926829268293
+p299_224,But the row refused to go away., but the role refused to go away,42.857142857142854,12.903225806451612,14.285714285714285,29.03225806451613
+p299_225,Our biggest threat is the BBC., Our biggest threat is the bbc,16.666666666666664,13.333333333333334,0.0,13.333333333333334
+p299_226,Bill is a mentor., Bill is a mentor,25.0,5.88235294117647,0.0,5.88235294117647
+p299_227,They have admitted they cannot meet that outlay., They have admitted they cannot meet that outlet,12.5,6.25,12.5,6.25
+p299_228,This must be really short of ideas., This must be really short of ideas,14.285714285714285,2.857142857142857,0.0,2.857142857142857
+p299_229,I think he has undergone a sea change., i think he has undergone a sea change,25.0,5.263157894736842,0.0,7.894736842105263
+p299_230,I believe you may be that person., i believe you may be that person,28.57142857142857,6.0606060606060606,0.0,9.090909090909092
+p299_231,It was a big day., It was a big day,20.0,5.88235294117647,0.0,5.88235294117647
+p299_232,What makes a house a home?, What makes a house a home?,0.0,0.0,0.0,0.0
+p299_233,"I think however, he was having a fit!"," i think, however, he was having a fit",37.5,8.108108108108109,0.0,35.13513513513514
+p299_234,"At this stage, we think the air campaign is enough."," At this stage, we think the air campaign is enough",10.0,1.9607843137254901,0.0,1.9607843137254901
+p299_235,I will not be pressured., i will not be pressured,40.0,8.333333333333332,0.0,12.5
+p299_236,I had another good day., i had another good day,40.0,8.695652173913043,0.0,13.043478260869565
+p299_237,I hate the word., i hate the word,50.0,12.5,0.0,18.75
+p299_238,We should be trying to keep him in., We should be trying to keep him in,12.5,2.857142857142857,0.0,2.857142857142857
+p299_239,The casting of her husband was an accident., The casting of her husband was an accident,12.5,2.3255813953488373,0.0,2.3255813953488373
+p299_240,I would say so., i would say so,50.0,13.333333333333334,0.0,20.0
+p299_241,"Even for a British Open, this is different."," Even for a british open, this is different",37.5,6.976744186046512,0.0,6.976744186046512
+p299_242,I was the only one arguing differently., i was the only one arguing differently,28.57142857142857,5.128205128205128,0.0,7.6923076923076925
+p299_243,"Sub Not Used, McKay.","sub not used, mckay",100.0,30.0,0.0,30.0
+p299_244,"From a marketing standpoint, you can understand their concern."," From a marketing standpoint, you can understand their concern",11.11111111111111,1.6129032258064515,0.0,1.6129032258064515
+p299_245,"Mind you, who wouldn't?"," mind you, who wouldn't?",25.0,4.3478260869565215,0.0,34.78260869565217
+p299_246,"That might happen in Pakistan, but in Britain?"," That might happen in pakistan, but in britain?",25.0,4.3478260869565215,0.0,4.3478260869565215
+p299_247,The Real IRA was blamed for the blast., The real ira was blamed for the blast,37.5,13.157894736842104,0.0,13.157894736842104
+p299_248,It was a tactical change., It was a technical change,40.0,16.0,20.0,32.0
+p299_249,She had kept the news from him., she had kept the news from him,28.57142857142857,6.451612903225806,0.0,22.58064516129032
+p299_250,When people talk about the Beach Boys and Brian Wilson., When people talk about the beach boys in britain-Wilson,50.0,16.363636363636363,30.0,41.81818181818181
+p299_251,"With this line-up, they didn't need to be."," With this line-up, they didnt need to be",25.0,4.761904761904762,12.5,7.142857142857142
+p299_252,We have a lot of sympathy for applicants., We have a lot of sympathy for applicants,12.5,2.4390243902439024,0.0,2.4390243902439024
+p299_253,There are so many artists working in Glasgow., There are so many artists working in Glasgow,12.5,2.2222222222222223,0.0,2.2222222222222223
+p299_254,One of these problems is the railways., one of these problems is the railways,28.57142857142857,5.263157894736842,0.0,18.421052631578945
+p299_255,"Before he left, the skipper said the crew were brilliant."," before he left, the skipper said the crew were brilliant",20.0,3.508771929824561,0.0,22.807017543859647
+p299_256,We don't have the credible evidence., We dont have the credible evidence,33.33333333333333,5.555555555555555,16.666666666666664,8.333333333333332
+p299_257,It's one up to the Scots., its one up to the scots,33.33333333333333,16.0,33.33333333333333,36.0
+p299_258,I'm just doing artwork., i am just doing artwork,75.0,17.391304347826086,75.0,30.434782608695656
+p299_259,He is a right bastard., He is a right bastard!,20.0,4.545454545454546,0.0,4.545454545454546
+p299_260,I don't want to use the term., i dont want to use the term,42.857142857142854,10.344827586206897,14.285714285714285,37.93103448275862
+p299_261,And we still have to pay his salary., and we still have to pay a salary,37.5,13.88888888888889,12.5,27.77777777777778
+p299_262,"Also, he was flawed."," also, he was flawed",50.0,10.0,0.0,55.00000000000001
+p299_263,Having guidelines in advance is helpful., Having guidelines in advance is helpful,16.666666666666664,2.5,0.0,2.5
+p299_264,So there's a double whammy.," So, there is a double whammy",80.0,14.814814814814813,40.0,62.96296296296296
+p299_265,I didn't have a trio., i didnt have a trio,60.0,14.285714285714285,20.0,61.904761904761905
+p299_266,Their three other children had died as infants., their three other children had died as infants,25.0,4.25531914893617,0.0,23.404255319148938
+p299_267,We knew nothing about it., We knew nothing about it,20.0,4.0,0.0,4.0
+p299_268,She is a great talent., She is a great talent!,20.0,4.545454545454546,0.0,4.545454545454546
+p299_269,I hope my successor will do the same., i hope my successor will do the same,25.0,5.405405405405405,0.0,8.108108108108109
+p299_270,I learned that only yesterday., i learned that only yesterday,40.0,6.666666666666667,0.0,10.0
+p299_271,We do things in an appropriate way., We do things in an appropriate way,14.285714285714285,2.857142857142857,0.0,2.857142857142857
+p299_272,I have been totally taken aback by this., i have been totally taken aback by this,25.0,5.0,0.0,7.5
+p299_273,Are you in this movie?, are you in this movie?,20.0,4.545454545454546,0.0,27.27272727272727
+p299_274,We have got a full house tonight., We have got a full house tonight!,14.285714285714285,3.0303030303030303,0.0,3.0303030303030303
+p299_275,The things writers and directors say!, The things writers and directors say,16.666666666666664,2.7027027027027026,0.0,2.7027027027027026
+p299_276,The fans will support us., The fans will support us,20.0,4.0,0.0,4.0
+p299_277,Is this new report the answer?, is this new report the answer?,16.666666666666664,3.3333333333333335,0.0,13.333333333333334
+p299_278,"It was a long process, but we got there."," It was a long process, but we got there",11.11111111111111,2.5,0.0,2.5
+p299_279,"It has, however, been a long time coming."," It has, however, been a long time coming",12.5,2.4390243902439024,0.0,2.4390243902439024
+p299_280,We need to be looking to the future., We need to be looking to the future,12.5,2.7777777777777777,0.0,2.7777777777777777
+p299_281,The whole team was rubbish., The whole team is rubbish,40.0,11.11111111111111,20.0,14.814814814814813
+p299_282,"But when he left, the decision was forced upon us."," but when he left, the decision was forced upon us",20.0,4.0,0.0,14.000000000000002
+p299_283,Some of the players have not progressed., Some of the players have not progressed,14.285714285714285,2.5,0.0,2.5
+p299_284,It is quite an eye opener., it is quite an eye opener,33.33333333333333,7.6923076923076925,0.0,19.230769230769234
+p299_285,You've got it coming Kabul.," You have got it coming, Kabul",80.0,18.51851851851852,60.0,55.55555555555556
+p299_286,They must act now to tighten the rules., They must act now to tighten the rules,12.5,2.564102564102564,0.0,2.564102564102564
+p299_287,"Quite simply, no-one else is willing to do so."," Quite simply, no one else is willing to do so",33.33333333333333,4.3478260869565215,22.22222222222222,17.391304347826086
+p299_288,It was a miserable afternoon in Fife., It was a miserable afternoon in fife,14.285714285714285,5.405405405405405,0.0,5.405405405405405
+p299_289,"But, mainly, it is up to ourselves."," but, mainly, it is up to ourselves",28.57142857142857,5.714285714285714,0.0,25.71428571428571
+p299_290,Are his works inside out?, are his works inside out?,20.0,4.0,0.0,24.0
+p299_291,There is a cup final at stake., There is a cup final at stake,14.285714285714285,3.3333333333333335,0.0,3.3333333333333335
+p299_292,"It's the curse of our time, irony."," its the curse of our time, iran-e",28.57142857142857,14.705882352941178,42.857142857142854,29.411764705882355
+p299_293,"It was not a difficult decision, he said."," It was not a difficult decision, he said",12.5,2.4390243902439024,0.0,2.4390243902439024
+p299_294,It's a source of deep concern., its a source of deep concern,33.33333333333333,10.0,33.33333333333333,26.666666666666668
+p299_295,I am not a free trader., i am not a free trader,33.33333333333333,8.695652173913043,0.0,13.043478260869565
+p299_296,There were so many characters among them., There are so many characters among them,28.57142857142857,7.317073170731707,14.285714285714285,12.195121951219512
+p299_297,It is a very resilient and deadly bacterium., It is a very resilient and deadly bacterium,12.5,2.272727272727273,0.0,2.272727272727273
+p299_298,"However, there are also many areas of agreement."," However, there are also many areas of agreement",12.5,2.083333333333333,0.0,2.083333333333333
+p299_299,Last month he made his debut in Japan., last month he made his debut in japan,25.0,7.894736842105263,0.0,26.31578947368421
+p299_300,The Dow Jones is way up., The Dow Jones is way up,16.666666666666664,4.166666666666666,0.0,4.166666666666666
+p299_301,Now there's an even bigger target., Now there is an even bigger target,50.0,8.823529411764707,33.33333333333333,14.705882352941178
+p299_302,They were the better side on the day., They were the better side on the day,12.5,2.7027027027027026,0.0,2.7027027027027026
+p299_303,No decision on that was taken., no decision on that was taken,33.33333333333333,6.666666666666667,0.0,16.666666666666664
+p299_304,What went wrong?, What went wrong?,0.0,0.0,0.0,0.0
+p299_305,There is nothing like a fresh start., There is nothing like a fresh start,14.285714285714285,2.7777777777777777,0.0,2.7777777777777777
+p299_306,They chose to side with terror., They chose the side with terror,33.33333333333333,9.67741935483871,16.666666666666664,9.67741935483871
+p299_307,This must have been severe., This must have been severe,20.0,3.7037037037037033,0.0,3.7037037037037033
+p299_308,We're all in a state of shock., We are all in a state of shock,42.857142857142854,10.0,42.857142857142854,36.666666666666664
+p299_309,I thought he was part of the camera., i thought he was part of the camera,25.0,5.555555555555555,0.0,8.333333333333332
+p299_310,Farmers have been an endangered species., farmers have been an endangered species,33.33333333333333,5.0,0.0,37.5
+p299_311,We are in a learning curve., We are in a learning curve,16.666666666666664,3.7037037037037033,0.0,3.7037037037037033
+p299_312,Why should we have been asked to share?, Why should we have been asked to share?,0.0,0.0,0.0,0.0
+p299_313,He was released in March this year., He was released in March this year,14.285714285714285,2.857142857142857,0.0,2.857142857142857
+p299_314,She was just that sort of person., She is just that sort of person,28.57142857142857,9.090909090909092,14.285714285714285,12.121212121212121
+p299_315,Surrey police said no body had been found., Surrey police said no body had been found,12.5,2.380952380952381,0.0,2.380952380952381
+p299_316,"Instead, she just went away."," Instead, she just went away",20.0,3.571428571428571,0.0,3.571428571428571
+p299_317,I've seen some of the submissions.,ive seen some of the submissions,33.33333333333333,8.823529411764707,16.666666666666664,14.705882352941178
+p299_318,The palace said the Queen was deeply saddened., The palace said the queen was deeply saddened,25.0,4.3478260869565215,0.0,4.3478260869565215
+p299_319,It was chaotic and frightening., it was chaotic and frightening,40.0,6.451612903225806,0.0,16.129032258064516
+p299_320,I think in three dimensions., i think in three dimensions,40.0,7.142857142857142,0.0,10.714285714285714
+p299_321,It is a question of balance., It is a question of balance,16.666666666666664,3.571428571428571,0.0,3.571428571428571
+p299_322,Soon the whole country will be level., Soon the whole country will be level,14.285714285714285,2.7027027027027026,0.0,2.7027027027027026
+p299_323,He's very young but he is growing up.," He is very young, but he is growing up",50.0,10.81081081081081,37.5,62.16216216216216
+p299_324,The Chosen One doesn't always excel., The chosen one doesnt always excel,66.66666666666666,11.11111111111111,16.666666666666664,13.88888888888889
+p299_325,I'm not interested in coming up with answers., i am not interested in coming up with answers,37.5,8.88888888888889,37.5,15.555555555555555
+p299_326,Lambert will be playing against Belgium., Lambert will be playing against Belgium,16.666666666666664,2.5,0.0,2.5
+p299_327,We could not have asked for any more., We could not have asked for any more,12.5,2.7027027027027026,0.0,2.7027027027027026
+p299_328,Eight new hospitals are set to be built., Eight new hospitals are set to be built,12.5,2.5,0.0,2.5
+p299_329,People might not actually want the job., people might not actually want the job,28.57142857142857,5.128205128205128,0.0,33.33333333333333
+p299_330,It is the logical extension of audio description., It is the logical extension of audio description,12.5,2.0408163265306123,0.0,2.0408163265306123
+p299_331,His rival's are spoken with elan., His rivals are spoken with the land,50.0,15.151515151515152,50.0,33.33333333333333
+p299_332,The table was compiled by the Daily Telegraph., The table was compiled by the daily telegraph,25.0,6.521739130434782,0.0,6.521739130434782
+p299_333,I have a bunch of veterans., i have a bunch of veterans,33.33333333333333,7.4074074074074066,0.0,11.11111111111111
+p299_334,I am not retiring., i am not retiring,50.0,11.11111111111111,0.0,16.666666666666664
+p299_335,He also was in debt to drug dealers., He also was in debt to drug dealers,12.5,2.7777777777777777,0.0,2.7777777777777777
+p299_336,The package has been properly costed., The package has been properly costed,16.666666666666664,2.7027027027027026,0.0,2.7027027027027026
+p299_337,"I can assure you, the new Augusta National is exactly that."," i can assure you, the new augusta national is exactly that",36.36363636363637,6.779661016949152,0.0,8.47457627118644
+p299_338,We will work through the night., We will work through the night,16.666666666666664,3.225806451612903,0.0,3.225806451612903
+p299_339,Barry will be able to handle this., Barry will be able to handle this,14.285714285714285,2.941176470588235,0.0,2.941176470588235
+p299_340,This is entirely appropriate and overdue., This is entirely appropriate and overdue,16.666666666666664,2.4390243902439024,0.0,2.4390243902439024
+p299_341,We just need the Government to act., We just need the government to act,28.57142857142857,5.714285714285714,0.0,5.714285714285714
+p299_342,The urgency is real., The urgency is real,25.0,5.0,0.0,5.0
+p299_343,The criminal justice system does not do that., The criminal justice system does not do that,12.5,2.2222222222222223,0.0,2.2222222222222223
+p299_344,He will never walk the streets again., He will never walk the streets again,14.285714285714285,2.7027027027027026,0.0,2.7027027027027026
+p299_345,We're very excited and challenged by the project., We are very excited and challenged by the project,37.5,6.122448979591836,37.5,22.448979591836736
+p299_346,"JOHN Anderson, the former Scottish national coach, is still unearthing talent."," John Anderson, the former scottish national coach, is still unearthing talent",27.27272727272727,6.41025641025641,0.0,12.82051282051282
+p299_347,"The science is well known, the solution is simple."," The science is well known, the solution is simple",11.11111111111111,2.0,0.0,2.0
+p299_348,They are just bewildered and very concerned., They are just bewildered and very concerned,14.285714285714285,2.272727272727273,0.0,2.272727272727273
+p299_349,I can't stop people thinking., i cant stop people thinking,60.0,10.344827586206897,20.0,37.93103448275862
+p299_350,The workers said they were treated like animals., The workers said they retreated like animals,37.5,8.333333333333332,25.0,33.33333333333333
+p299_351,That's the last thing he will do., That is the last thing he will do,42.857142857142854,9.090909090909092,42.857142857142854,39.39393939393939
+p299_352,I have not been so angry for years., i have not been so angry for years,25.0,5.714285714285714,0.0,8.571428571428571
+p299_353,I am ready for that., i am ready for that,40.0,10.0,0.0,15.0
+p299_354,Do you mean today?, Do you mean today?,0.0,0.0,0.0,0.0
+p299_355,This is normal for him now., This is normal for him now,16.666666666666664,3.7037037037037033,0.0,3.7037037037037033
+p299_356,But my heart is in athletics., but my heart is in athletics,33.33333333333333,6.896551724137931,0.0,24.137931034482758
+p299_357,Nobody ever gets to see them., Nobody ever gets to see them,16.666666666666664,3.4482758620689653,0.0,3.4482758620689653
+p299_358,A review group will report on Tuesday., a review group will report on tuesday,28.57142857142857,7.894736842105263,0.0,10.526315789473683
+p299_359,Yet he left a few days later., Yet he left a few days later,14.285714285714285,3.4482758620689653,0.0,3.4482758620689653
+p299_360,The place became a war zone., the place became a war zone,33.33333333333333,7.142857142857142,0.0,25.0
+p299_361,What's happening to her?, What is happening to her?,50.0,8.333333333333332,75.0,50.0
+p299_362,It was to get even better for Motherwell., It was to get even better for mother well,25.0,7.317073170731707,25.0,24.390243902439025
+p299_363,"Both parties can win, and Scotland can win as a result."," Both parties can win, and scotland can win as a result",18.181818181818183,3.6363636363636362,0.0,3.6363636363636362
+p299_364,The surprise is its product is so poor., the surprise is its product is so poor,25.0,5.128205128205128,0.0,17.94871794871795
+p299_365,I don't have a new house., i dont have a new house,50.0,12.0,16.666666666666664,44.0
+p299_366,It's always nice to play on Centre Court., its always nice to play on centre court,37.5,12.195121951219512,25.0,24.390243902439025
+p299_367,Thus the story will continue to thrive., Thus the story will continue to thrive,14.285714285714285,2.564102564102564,0.0,2.564102564102564
+p299_368,Horses have some sense., Horses have some sense,25.0,4.3478260869565215,0.0,4.3478260869565215
+p299_369,The plot is minimal., The plot is minimal,25.0,5.0,0.0,5.0
+p299_370,See it while you can., see it while you can,40.0,9.523809523809524,0.0,33.33333333333333
+p299_371,The plane was in flames, The plane was in flames,0.0,0.0,0.0,0.0
+p299_372,"But then, that really is the point.", but then that really is the point,42.857142857142854,8.571428571428571,0.0,37.142857142857146
+p299_373,One policeman was killed., one policeman was killed,50.0,8.0,0.0,28.000000000000004
+p299_374,I didn't do too badly myself., i didnt do too badly myself,50.0,10.344827586206897,16.666666666666664,44.827586206896555
+p299_375,Their expressions only reflected those of the audience., Their expressions only reflected those of the audience,12.5,1.8181818181818181,0.0,1.8181818181818181
+p299_376,We have been working together for some years., We have been working together for some years,12.5,2.2222222222222223,0.0,2.2222222222222223
+p299_377,Chris Paterson is a class act.,chris paterson is a class act,50.0,10.0,0.0,10.0
+p299_378,He has never even been to Ireland., He has never even been to ireland,14.285714285714285,5.88235294117647,0.0,5.88235294117647
+p299_379,And that's the question for the Chamber., and thats the question for the chamber,42.857142857142854,10.0,14.285714285714285,40.0
+p299_380,Do what you have to do., do what you have to do,33.33333333333333,8.695652173913043,0.0,21.73913043478261
+p299_381,I'm getting back up there now., i am getting back up there now,50.0,13.333333333333334,50.0,23.333333333333332
+p299_382,We believe the squad will stay together., We believe the squad will stay together,14.285714285714285,2.5,0.0,2.5
+p299_383,"But, clearly, it is crucial to understand that point.", but clearly it is crucial to understand that point,33.33333333333333,7.547169811320755,0.0,37.735849056603776
+p299_384,There is a lot of anger., There is a lot of anger,16.666666666666664,4.166666666666666,0.0,4.166666666666666
+p299_385,We suspect he was pleased., We suspect he was pleased!,20.0,3.8461538461538463,0.0,3.8461538461538463
+p299_386,It was meant to rival the dollar., It was meant to rival the dollar,14.285714285714285,3.0303030303030303,0.0,3.0303030303030303
+p299_387,"Mary is, as it were, the cause of her mother's death."," Mary is, as it were, the cause of her mother's death",9.090909090909092,1.8867924528301887,0.0,1.8867924528301887
+p299_388,She always wanted her own way., She always wanted her own way,16.666666666666664,3.3333333333333335,0.0,3.3333333333333335
+p299_389,"Maybe, who knows?"," Maybe, who knows?",0.0,0.0,0.0,0.0
+p299_390,"And the funny thing is, they usually do."," and the funny thing is, they usually do",25.0,5.0,0.0,17.5
+p299_391,Everything is surrounded by confusion., Everything is surrounded by confusion,20.0,2.631578947368421,0.0,2.631578947368421
+p299_392,It was a sell-out., It was a sell-out,25.0,5.555555555555555,0.0,5.555555555555555
+p299_393,"We welcome the proposals, but they must get on with it."," We welcome the proposals, but they must get on with it",9.090909090909092,1.8181818181818181,0.0,1.8181818181818181
+p299_394,If there is default., if there is default,50.0,10.0,0.0,25.0
+p299_395,"She can't say where she was, what she did."," she cant see where she was, what she did",44.44444444444444,11.904761904761903,22.22222222222222,35.714285714285715
+p299_396,I'll take what comes along., ill take what comes along,40.0,11.11111111111111,40.0,29.629629629629626
+p299_397,Jack McConnell is the obvious choice., jack mcconnell is the obvious choice,50.0,10.81081081081081,0.0,62.16216216216216
+p299_398,She will just have wanted her baby., she will just have wanted her baby,28.57142857142857,5.714285714285714,0.0,20.0
+p299_399,Scotland is losing business., scotland is losing business,50.0,7.142857142857142,0.0,60.71428571428571
+p299_400,We are working on the two things., We are working on the two things,14.285714285714285,3.0303030303030303,0.0,3.0303030303030303
+p299_401,We only lost the third goal., We only lost the third goal,16.666666666666664,3.571428571428571,0.0,3.571428571428571
+p299_402,Women reported more depression than men., Women reported more depression than men,16.666666666666664,2.5,0.0,2.5
+p299_403,"We will have to see, but it makes you think."," We will have to see, but it makes you think",10.0,2.272727272727273,0.0,2.272727272727273
+p299_404,"The euro is your money, it is our money."," The euro is your money, it is our money",11.11111111111111,2.5,0.0,2.5
+p299_405,"Nothing has been going for us, but what can you do?"," nothing has been going for us, but what can you do?",9.090909090909092,1.9607843137254901,0.0,27.450980392156865

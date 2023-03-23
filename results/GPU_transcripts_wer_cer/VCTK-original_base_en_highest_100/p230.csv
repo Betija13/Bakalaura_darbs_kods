@@ -1,0 +1,398 @@
+name,transcription,prediction,ev_wer,ev_cer,my_wer,my_cer
+p230_001,Please call Stella., Please call Stella.,0.0,0.0,0.0,0.0
+p230_002,Ask her to bring these things with her from the store., Ask her to bring these things with her from the store.,0.0,0.0,0.0,0.0
+p230_003,"Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob."," 6 spoons of fresh snow, 5 thick slabs of blue cheese and maybe a snack for her brother Bob.",25.0,12.745098039215685,20.0,14.705882352941178
+p230_005,"She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.", She can scoop these things into three red bags and we will go and meet her Wednesday at the train station.,10.0,4.854368932038835,5.0,3.8834951456310676
+p230_006,"When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow."," With the sunlight strikes, raindrops in the air, they act as a prism and fall more rainbow.",23.52941176470588,12.643678160919542,23.52941176470588,18.39080459770115
+p230_007,The rainbow is a division of white light into many beautiful colors., The rainbow is a division of white light into many beautiful colors.,0.0,0.0,0.0,0.0
+p230_008,"These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.", These take the shape of a long round arch with its path high above and its two ends apparently beyond the horizon.,9.090909090909092,1.7241379310344827,0.0,1.7241379310344827
+p230_009,"There is , according to legend, a boiling pot of gold at one end."," There is, according to legend, a boiling pot of gold at one end.",14.285714285714285,1.5384615384615385,14.285714285714285,3.076923076923077
+p230_010,"People look, but no one ever finds it."," People look, but no one ever finds it.",0.0,0.0,0.0,0.0
+p230_012,Throughout the centuries people have explained the rainbow in various ways.," Throughout the centuries, people have explained the rainbow in various ways.",9.090909090909092,1.3333333333333335,0.0,1.3333333333333335
+p230_013,Some have accepted it as a miracle without physical explanation., So myve accepted it as a miracle without physical explanation.,20.0,6.25,30.0,18.75
+p230_014,To the Hebrews it was a token that there would be no more universal floods., To the Hebrews it was a token that there would be no more universal floods.,0.0,0.0,0.0,0.0
+p230_016,The Norsemen considered the rainbow as a bridge over which the gods passed from the earth to their home in the sky., The Norsemen considered the rainbow as a bridge over which the gods passed from the earth to their home in the sky.,0.0,0.0,0.0,0.0
+p230_017,Others have tried to explain the phenomenon physically., Others have tried to explain the phenomenon physically.,0.0,0.0,0.0,0.0
+p230_018,Aristotle thought that the rainbow was caused by the reflection of the sun's rays by the rain., Aristotle thought that the rainbow was caused by the reflection of the sun's rays by the rain.,0.0,0.0,0.0,0.0
+p230_019,"Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows."," Since then, physicists have found that it is not reflection, but refraction, by the raindrops which causes the rainbows.",10.526315789473683,1.694915254237288,0.0,1.694915254237288
+p230_020,Many complicated ideas about the rainbow have been formed., Many complicated ideas about the rainbow have been formed.,0.0,0.0,0.0,0.0
+p230_021,"The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.", The difference in the rainbow depends considerably upon the size of the drops and the width of the coloured band increases as the size of the drops increases.,7.142857142857142,1.2658227848101267,3.571428571428571,3.1645569620253164
+p230_023,"If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow."," If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally white yellow band since red and green light when mixed form yellow.",5.555555555555555,1.6853932584269662,2.7777777777777777,2.8089887640449436
+p230_024,"This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue."," This is very common type of bow, one showing mainly red and yellow with little or no green or blue.",9.523809523809524,2.941176470588235,9.523809523809524,8.823529411764707
+p230_025,It is on the internet., It is on the internet.,0.0,0.0,0.0,0.0
+p230_026,Smoking is also very important., Smoking is also very important.,0.0,0.0,0.0,0.0
+p230_027,He has the courage of the unaware., He has the courage of the Unoer.,14.285714285714285,14.705882352941178,14.285714285714285,20.588235294117645
+p230_028,Life was like a timetable., Life is like a timetable.,20.0,7.6923076923076925,20.0,11.538461538461538
+p230_029,"It shouldn't come as a surprise, but it does."," It shouldn't come as a surprise, but it does.",0.0,0.0,0.0,0.0
+p230_030,"Nonetheless, the overall picture is healthy."," Nonetheless, the overall picture is healthy.",0.0,0.0,0.0,0.0
+p230_031,I'm so happy that she did., I'm so happy that she did.,0.0,0.0,0.0,0.0
+p230_032,The wedding was in Edinburgh., The wedding was in Edinburgh.,0.0,0.0,0.0,0.0
+p230_033,"Of course, on Tuesday, United were beaten despite this."," Of course on Tuesday, United were beaten despite this.",11.11111111111111,1.8181818181818181,0.0,1.8181818181818181
+p230_034,He really is a lovely man., He really is a lovely man.,0.0,0.0,0.0,0.0
+p230_035,The staff are as good as any staff in the city., The staff are as good as any staff in the city.,0.0,0.0,0.0,0.0
+p230_036,This represents a tough game for us., This represents a tough game for us.,0.0,0.0,0.0,0.0
+p230_037,The boy is no longer with us., The boy is no longer with us.,0.0,0.0,0.0,0.0
+p230_038,They said she was stable., They said she was stable.,0.0,0.0,0.0,0.0
+p230_039,This will save interest charges., This will save interest charges.,0.0,0.0,0.0,0.0
+p230_040,"Well, he is an artist."," Well, he is an artist.",0.0,0.0,0.0,0.0
+p230_041,He looks like an Afghan., He looks like an Afghan.,0.0,0.0,0.0,0.0
+p230_042,People want to see me on the screen., People want to see me on the screen.,0.0,0.0,0.0,0.0
+p230_043,The big problem is the lack of grass., The big problem is a lack of grass.,12.5,8.108108108108109,12.5,8.108108108108109
+p230_044,"That was the theory, anyway.", That was the theory anyway.,20.0,3.571428571428571,0.0,3.571428571428571
+p230_045,I was inspired by two things., I was inspired by two things.,0.0,0.0,0.0,0.0
+p230_046,"If not, he should go home."," If not, he should go home.",0.0,0.0,0.0,0.0
+p230_047,I must take a seat., I must take a seat.,0.0,0.0,0.0,0.0
+p230_048,It was bound to happen., It was bound to happen.,0.0,0.0,0.0,0.0
+p230_049,We have to bring in new players., We have to bring in new players.,0.0,0.0,0.0,0.0
+p230_050,"In time, the First Minister will grow in stature."," In time, the first minister will grow in stature.",22.22222222222222,4.081632653061225,0.0,4.081632653061225
+p230_051,I have made that offer., I have made that offer.,0.0,0.0,0.0,0.0
+p230_052,None has ever been found., None has ever been found.,0.0,0.0,0.0,0.0
+p230_053,Four other charges were dropped., Four other charges were dropped.,0.0,0.0,0.0,0.0
+p230_054,We should be able to cope., We should be able to cope.,0.0,0.0,0.0,0.0
+p230_055,There was no mention of an amnesty in the Belfast Agreement., There was no mention of an amnesty in the Belfast Agreement.,0.0,0.0,0.0,0.0
+p230_056,We will pay their bills., We will pay their bills.,0.0,0.0,0.0,0.0
+p230_057,You should consider whether you want to be in this film., You should consider whether you want to be in this film.,0.0,0.0,0.0,0.0
+p230_058,It was exactly four months away., It was exactly four months away.,0.0,0.0,0.0,0.0
+p230_059,He becomes the new Minister for Sport and Culture., He becomes the new Minister for Sport and Culture.,0.0,0.0,0.0,0.0
+p230_060,It's not covered by the insurance., It's not covered by the insurance.,0.0,0.0,0.0,0.0
+p230_061,But the challenge is in the US., But the challenge is in the US.,0.0,0.0,0.0,0.0
+p230_062,Robin Williams is very subdued., Robin Williams is very subdued.,0.0,0.0,0.0,0.0
+p230_063,The tournament has now been cancelled., The tournament has now been cancelled.,0.0,0.0,0.0,0.0
+p230_064,They would now be able to look forward with confidence., They would now be able to look forward with confidence.,0.0,0.0,0.0,0.0
+p230_065,Both sides have been hit by injury., Both sides have been hit by injury.,0.0,0.0,0.0,0.0
+p230_066,He also received a medal of honour., He also received a medal of honour.,0.0,0.0,0.0,0.0
+p230_068,It may be that lifestyle is behind it., It may be that lifestyle is behind it.,0.0,0.0,0.0,0.0
+p230_069,It is a job creation scheme., It is a gel but creation scheme.,33.33333333333333,21.428571428571427,33.33333333333333,21.428571428571427
+p230_070,It looks like a hit., It looks like a hit.,0.0,0.0,0.0,0.0
+p230_071,What do we do?, What do we do?,0.0,0.0,0.0,0.0
+p230_072,Why do it otherwise?, Why do it otherwise?,0.0,0.0,0.0,0.0
+p230_073,"What kind of man does that, Mr Dick?", What kind of man does that Mr Dick?,12.5,2.7777777777777777,0.0,2.7777777777777777
+p230_074,"However, he stressed that no decision had yet been made."," However, he stressed that no decision had yet been made.",0.0,0.0,0.0,0.0
+p230_075,After five weeks the vehicle will be sold at auction., After five weeks the vehicle will be sold at auction.,0.0,0.0,0.0,0.0
+p230_076,Consumer confidence remains an issue., Consumer confidence remains an issue.,0.0,0.0,0.0,0.0
+p230_077,"Last week, he was taken into hospital.", Last week he was taken into hospital.,14.285714285714285,2.631578947368421,0.0,2.631578947368421
+p230_078,This is a true story., This is a true story.,0.0,0.0,0.0,0.0
+p230_079,"By then, he was walking on water.", By then he was walking on water.,14.285714285714285,3.0303030303030303,0.0,3.0303030303030303
+p230_080,It's so hard to shift., It's so hard to shift.,0.0,0.0,0.0,0.0
+p230_081,They lived for their children., They lived for their children.,0.0,0.0,0.0,0.0
+p230_083,It might change your life., It might change your life.,0.0,0.0,0.0,0.0
+p230_084,You are a great player., You are a great player.,0.0,0.0,0.0,0.0
+p230_085,"However, it did not end that way."," However, it did not end that way.",0.0,0.0,0.0,0.0
+p230_086,We will deal with the refugees., We will deal with the refugees.,0.0,0.0,0.0,0.0
+p230_087,It was not an insult., It was not an insult.,0.0,0.0,0.0,0.0
+p230_088,You might not make it., You might not make it.,0.0,0.0,0.0,0.0
+p230_089,"However, a decision should be made before the end of August."," However, a decision should be made before the end of August.",0.0,0.0,0.0,0.0
+p230_090,I did not have a bet on myself., I didn't have a bet on myself.,25.0,6.451612903225806,25.0,19.35483870967742
+p230_091,The conclusion is the same., The conclusion is the same.,0.0,0.0,0.0,0.0
+p230_092,He was prepared for this., He was prepared for this.,0.0,0.0,0.0,0.0
+p230_093,But I know the course., But I know the cause.,20.0,9.090909090909092,20.0,22.727272727272727
+p230_094,You are like an animal., You are like an animal.,0.0,0.0,0.0,0.0
+p230_095,We intend to change the model., We intend to change the model.,0.0,0.0,0.0,0.0
+p230_096,It was some time before she found out he was safe., It was some time before she found out he was safe.,0.0,0.0,0.0,0.0
+p230_097,Two of the team became ill., Two of the team became ill.,0.0,0.0,0.0,0.0
+p230_099,It has been a nightmare of frustration., It has been a nightmare of frustration.,0.0,0.0,0.0,0.0
+p230_100,But his speech was delivered by a senior civil servant., But his speech was delivered by a senior civil servant.,0.0,0.0,0.0,0.0
+p230_101,Before the game we went for a pint.," Before the game, we went for a pint.",12.5,2.857142857142857,0.0,2.857142857142857
+p230_102,This was a good move for me., This was a good move for me.,0.0,0.0,0.0,0.0
+p230_103,It will also require a lengthy series of clinical trials., It will also require a lengthy series of clinical trials.,0.0,0.0,0.0,0.0
+p230_104,I was just appalled at the way they behaved., I was just appalled at the way they behaved.,0.0,0.0,0.0,0.0
+p230_105,It is close to call., It is close to call.,0.0,0.0,0.0,0.0
+p230_106,It is an impressive record., It is an impressive record.,0.0,0.0,0.0,0.0
+p230_107,It is a total and utter change of culture., It is a total and utter change of culture.,0.0,0.0,0.0,0.0
+p230_108,"He leaves a wife, a son and a daughter."," He leaves a wife, a son and a daughter.",0.0,0.0,0.0,0.0
+p230_109,Abbey National is an option., Abbey National is an option.,0.0,0.0,0.0,0.0
+p230_110,The arrival of the Scottish Premier League has also presented a problem., The arrival of the Scottish Premier League has also presented a problem.,0.0,0.0,0.0,0.0
+p230_112,We have the mental strength., We have the mental strength.,0.0,0.0,0.0,0.0
+p230_113,You can spend money on housing., You can spend money on housing.,0.0,0.0,0.0,0.0
+p230_114,That admission is not surprising., That admission is not surprising.,0.0,0.0,0.0,0.0
+p230_115,I can't even get into the A team., I can't even get into the A-Team.,25.0,6.0606060606060606,25.0,33.33333333333333
+p230_116,Lady Thatcher was the only woman with full membership., Lady Thatcher was the only woman with full membership.,0.0,0.0,0.0,0.0
+p230_117,Which can happen any time., which can happen anytime.,60.0,7.6923076923076925,40.0,76.92307692307693
+p230_118,"It is too pretty, it is too small."," It is too pretty, it is too small.",0.0,0.0,0.0,0.0
+p230_119,But this time we can have no excuses., But this time we can have no excuses.,0.0,0.0,0.0,0.0
+p230_120,They are very happy with the new settlement., They are very happy with the news settlement.,12.5,2.272727272727273,12.5,2.272727272727273
+p230_121,The abuse of elderly people was appalling., The abuse of elderly people was appalling.,0.0,0.0,0.0,0.0
+p230_122,Something will be done by corporate bodies., Something will be done by corporate bodies.,0.0,0.0,0.0,0.0
+p230_123,We did what we had to do., We did what we had to do.,0.0,0.0,0.0,0.0
+p230_124,She was also very brave., She was also very brave.,0.0,0.0,0.0,0.0
+p230_125,"On Friday, the headteacher and deputy headteacher appeared at the door.", On Friday the head teacher and deputy head teacher appeared at the door.,45.45454545454545,4.225352112676056,36.36363636363637,40.845070422535215
+p230_126,We must recognise that this outfit is unique., We must recognise that this outfit is unique.,0.0,0.0,0.0,0.0
+p230_127,The opposite is the case., The opposite is the case.,0.0,0.0,0.0,0.0
+p230_128,He was a home referee., He was a home referee.,0.0,0.0,0.0,0.0
+p230_129,This is a successful outcome., This is a successful outcome.,0.0,0.0,0.0,0.0
+p230_130,"Suddenly, the Fir Park side were in disarray.", Suddenly the fair park side were in disarray.,37.5,8.88888888888889,12.5,48.888888888888886
+p230_131,She died at her home., She died at her home.,0.0,0.0,0.0,0.0
+p230_132,"Alice, the girl, was said by doctors to be in good condition.", Alice the girl was said by doctors to be in good condition.,16.666666666666664,3.278688524590164,0.0,19.672131147540984
+p230_133,"Five minutes later, the home team were back in front.", Five minutes later the home team were back in front.,10.0,1.8867924528301887,0.0,1.8867924528301887
+p230_134,It was a piece of art., It was a piece of art.,0.0,0.0,0.0,0.0
+p230_135,I would relish the prospect., I would relish the prospect.,0.0,0.0,0.0,0.0
+p230_137,These men are a part of India., These men are a part of India.,0.0,0.0,0.0,0.0
+p230_138,I was caught out a little bit., I was caught out a little bit.,0.0,0.0,0.0,0.0
+p230_139,The petition was formally presented at Downing Street yesterday., The petition was formally presented at Downing Street yesterday.,0.0,0.0,0.0,0.0
+p230_140,I have wanted to buy one for the National Gallery., I have wanted to buy one for the National Gallery.,0.0,0.0,0.0,0.0
+p230_141,It has to be an event., It has to be an event.,0.0,0.0,0.0,0.0
+p230_142,It was deployed in the Gulf War., It was deployed in the Gulf War.,0.0,0.0,0.0,0.0
+p230_143,"Crucially, though, United were still alive."," Crucially though, united with still alive.",50.0,11.627906976744185,16.666666666666664,53.48837209302325
+p230_144,The first thing is to assess the damage that has been done., The first thing is to assess the damage that has been done.,0.0,0.0,0.0,0.0
+p230_145,She has gone to the Catholic school., He has gone to the Catholic school.,14.285714285714285,5.555555555555555,28.57142857142857,13.88888888888889
+p230_146,It was by the numbers., It was by the numbers.,0.0,0.0,0.0,0.0
+p230_147,"I am not going to make any further comment, apart from that.", I am not going to make any further comment apart from that.,8.333333333333332,1.6666666666666667,0.0,1.6666666666666667
+p230_148,"This year, this month, will be special for Torrance.", This year this month will be special for Torrance.,22.22222222222222,3.8461538461538463,0.0,3.8461538461538463
+p230_149,"However, he was later released without charge."," However, he was later released without charge.",0.0,0.0,0.0,0.0
+p230_150,This might seem like an outrageous assertion., This might seem like an outrageous assertion.,0.0,0.0,0.0,0.0
+p230_151,These days are long gone., These days are long gone.,0.0,0.0,0.0,0.0
+p230_152,I'm afraid to say anything., I'm afraid to say anything.,0.0,0.0,0.0,0.0
+p230_153,We are still getting over it., We are still getting over it.,0.0,0.0,0.0,0.0
+p230_154,It has to be now., It has to be now.,0.0,0.0,0.0,0.0
+p230_155,It could take years for the tunnel to be reopened., It could take years for the tunnel to be reopened.,0.0,0.0,0.0,0.0
+p230_156,You have to ask whether they have really thought through these issues., You have to ask whether they have really thought through these issues.,0.0,0.0,0.0,0.0
+p230_157,They will do their own thing., They will do their own thing.,0.0,0.0,0.0,0.0
+p230_158,You had to go and see him., You had to go and see him.,0.0,0.0,0.0,0.0
+p230_159,So what is the campaign about?, So what is the campaign about?,0.0,0.0,0.0,0.0
+p230_160,And does it?, And does it?,0.0,0.0,0.0,0.0
+p230_161,Are you from the rugby?, Are you from the rugby?,0.0,0.0,0.0,0.0
+p230_162,Had I heard?, Had I heard?,0.0,0.0,0.0,0.0
+p230_163,Next year it plans to open an office in Tokyo.," Next year, it plans to open at an office in Tokyo.",20.0,8.695652173913043,10.0,6.521739130434782
+p230_164,Our position remains the same., Our position remains the same.,0.0,0.0,0.0,0.0
+p230_165,Nobody did in those days., Nobody did in those days.,0.0,0.0,0.0,0.0
+p230_166,We believe in the medium term., We believe in the medium term.,0.0,0.0,0.0,0.0
+p230_167,It's nice to be nice., It's nice to be nice.,0.0,0.0,0.0,0.0
+p230_168,"To get good people, you need to offer them enough money.", To get good people you need to offer them enough money.,9.090909090909092,1.7857142857142856,0.0,1.7857142857142856
+p230_169,On the month the weakness was across the board.," On the month, the weakness was across the board.",11.11111111111111,2.127659574468085,0.0,2.127659574468085
+p230_170,"One season, they might do well.", one season they might do well.,33.33333333333333,6.451612903225806,0.0,51.61290322580645
+p230_171,Manchester United can win the European Cup this season., Manchester United can win the European Cup this season.,0.0,0.0,0.0,0.0
+p230_172,"First and foremost, the game is entirely different."," First and foremost, the game was entirely different.",12.5,3.9215686274509802,12.5,5.88235294117647
+p230_173,But he has a lifeline., But he has a lifeline.,0.0,0.0,0.0,0.0
+p230_174,Phase one was a shambles., Phase 1 was a shambles.,20.0,12.0,20.0,12.0
+p230_175,City sentiment is in his favour., City sentiment is in his favour.,0.0,0.0,0.0,0.0
+p230_176,"I've been in two finals, and I've got a medal.", I've been in two finals and I've got a medal.,10.0,2.1739130434782608,0.0,2.1739130434782608
+p230_177,"At the top level, the salaries are far too high."," At the top level, the salaries are far too high.",0.0,0.0,0.0,0.0
+p230_178,Tomorrow is a new day., Tomorrow is a new day.,0.0,0.0,0.0,0.0
+p230_179,It makes no influence on the public., It makes no influence on the public.,0.0,0.0,0.0,0.0
+p230_180,She has left the island., She has left the island.,0.0,0.0,0.0,0.0
+p230_181,He played it like a veteran., He plays it like a veteran.,16.666666666666664,7.142857142857142,16.666666666666664,7.142857142857142
+p230_182,I have spoken to head office., I have spoken to Head Office.,33.33333333333333,6.896551724137931,0.0,6.896551724137931
+p230_183,They will run a mile., They will run a mile.,0.0,0.0,0.0,0.0
+p230_184,"It wasn't a penalty, it was outside the area."," It wasn't a penalty, it was outside the area.",0.0,0.0,0.0,0.0
+p230_185,Our destiny is in our own hands., Our destiny is in our own hands.,0.0,0.0,0.0,0.0
+p230_186,He prefers to play for them., He prefers to play for them.,0.0,0.0,0.0,0.0
+p230_188,He lives in a neighbouring village., He lives in a neighboring village.,16.666666666666664,2.857142857142857,16.666666666666664,14.285714285714285
+p230_189,"It was an odd affair, in many respects.", It was not a fair in many respects.,37.5,15.384615384615385,37.5,33.33333333333333
+p230_190,It was only later that the condition was diagnosed., It was only later that the condition was diagnosed.,0.0,0.0,0.0,0.0
+p230_191,We represent a wide range of society., We represent a wide range of society.,0.0,0.0,0.0,0.0
+p230_192,We always felt we could win., We always felt we could win.,0.0,0.0,0.0,0.0
+p230_194,"This year, it will amount to a few hundred thousand pounds.", This year it will amount to a few hundred thousand pounds.,9.090909090909092,1.694915254237288,0.0,1.694915254237288
+p230_195,"It is not all good news and relief for Labour, however.", It is not all good news and really full labour however.,27.27272727272727,16.363636363636363,18.181818181818183,16.363636363636363
+p230_196,Neither side would reveal the details of the offer., Now the side would reveal the details of the offer.,22.22222222222222,7.8431372549019605,33.33333333333333,25.49019607843137
+p230_198,I made a terrible start., I made a terrible start.,0.0,0.0,0.0,0.0
+p230_199,The result is called a patent., The result is called a patent.,0.0,0.0,0.0,0.0
+p230_200,We played them off the pitch., We played them off the pitch.,0.0,0.0,0.0,0.0
+p230_201,Racism has no place in any sport., Racism has no place in any sport.,0.0,0.0,0.0,0.0
+p230_202,Tommy is not a problem., Tommy is not a problem.,0.0,0.0,0.0,0.0
+p230_203,The sanctions are about collective punishment., The sanctions are about collective punishment.,0.0,0.0,0.0,0.0
+p230_204,This is a holy place., This is a holy place.,0.0,0.0,0.0,0.0
+p230_205,He had suffered a heart attack., He had suffered a heart attack.,0.0,0.0,0.0,0.0
+p230_206,The tickets will be on sale today at the ticket office., The tickets will be on sale today at the ticket office.,0.0,0.0,0.0,0.0
+p230_207,We see the rapid reaction force as the way ahead., We see the rapid reaction force as the way ahead.,0.0,0.0,0.0,0.0
+p230_208,This will take several weeks., This will take several weeks.,0.0,0.0,0.0,0.0
+p230_209,"The research is published in the journal, Nature.", The research is published in the journal Nature.,12.5,2.0408163265306123,0.0,2.0408163265306123
+p230_210,We have an election in eight days., We have an election in eight days.,0.0,0.0,0.0,0.0
+p230_211,Flanker Gordon Simpson may also feature in that match., Flanker Gordon Simpson may also feature in that match.,0.0,0.0,0.0,0.0
+p230_212,There is no quick fix., There is no quick fix.,0.0,0.0,0.0,0.0
+p230_213,All will be revealed in due course., All will be revealed in due course.,0.0,0.0,0.0,0.0
+p230_214,We used to live with dignity in our country., We used to live with dignity in our country.,0.0,0.0,0.0,0.0
+p230_215,The most exciting room is the final one of the show., The most exciting room is the final one of the show.,0.0,0.0,0.0,0.0
+p230_216,He has made his base in Spain., He has made his base in Spain.,0.0,0.0,0.0,0.0
+p230_217,My life is in the ballet., My life is in the ballet.,0.0,0.0,0.0,0.0
+p230_218,"Basically, they have to come up with the offer."," Basically, they have to come up with the offer.",0.0,0.0,0.0,0.0
+p230_219,It's all change at Kilmarnock., It's all changed at Kilmonoch.,40.0,13.333333333333334,40.0,26.666666666666668
+p230_220,His second was a beauty., Her second was a beauty.,20.0,8.333333333333332,40.0,25.0
+p230_221,What do we want to do that for?, What do we want to do that for?,0.0,0.0,0.0,0.0
+p230_222,Does the name matter?, Does the name matter?,0.0,0.0,0.0,0.0
+p230_223,How do you get it back?, How do you get it back?,0.0,0.0,0.0,0.0
+p230_224,What are you not good at?, What are you not good at?,0.0,0.0,0.0,0.0
+p230_225,The Prime Minister was informed on Thursday., The Prime Minister was informed on Thursday.,0.0,0.0,0.0,0.0
+p230_226,"However, Dundee deserved to win this game."," However, Dundee deserved to win this game.",0.0,0.0,0.0,0.0
+p230_227,It was a day for records., It was a day for records.,0.0,0.0,0.0,0.0
+p230_228,He remains a main board director of Royal., He remains a main board director of Royal.,0.0,0.0,0.0,0.0
+p230_230,That has been the easy part., that has been the easy part.,16.666666666666664,3.571428571428571,0.0,28.57142857142857
+p230_231,Things were so intense in the studio., Things were so intense in the studio.,0.0,0.0,0.0,0.0
+p230_232,I was not sure whether I had won., I was not sure whether I had won.,0.0,0.0,0.0,0.0
+p230_233,"If it doesn't, it doesn't."," If it doesn't, it doesn't.",0.0,0.0,0.0,0.0
+p230_234,"So far, the problems have occurred in the US.", So far the problems have occurred in the US.,11.11111111111111,2.2222222222222223,0.0,2.2222222222222223
+p230_235,It is the voice of the survivors., It is the voice of the survivors.,0.0,0.0,0.0,0.0
+p230_236,It had so much to do with output., It has so much to do with output.,12.5,3.0303030303030303,12.5,3.0303030303030303
+p230_237,Must have been at the bar., Most have been at the bar.,16.666666666666664,3.8461538461538463,33.33333333333333,30.76923076923077
+p230_238,She died in middle age., She died in middle age.,0.0,0.0,0.0,0.0
+p230_239,No evidence that it was Osama bin Laden., No evidence that it was Osama bin Laden.,0.0,0.0,0.0,0.0
+p230_240,They need to win a trophy., The need to win a trophy.,16.666666666666664,3.8461538461538463,33.33333333333333,26.923076923076923
+p230_241,Half the young people had had contact with the police., Half the young people had had contact with the police.,0.0,0.0,0.0,0.0
+p230_242,It is possible to be too good., It is possible to be too good.,0.0,0.0,0.0,0.0
+p230_243,"In many ways, that is as important."," In many ways, that is as important.",0.0,0.0,0.0,0.0
+p230_244,Here is a question for you., Here is a question for you.,0.0,0.0,0.0,0.0
+p230_245,I was just a kid., I was just a kid.,0.0,0.0,0.0,0.0
+p230_246,"Sadly, it sounds as if it is."," Sadly, it sounds as if it is.",0.0,0.0,0.0,0.0
+p230_247,Hospitals are for the ill., hospitals are for the ill.,20.0,3.8461538461538463,0.0,69.23076923076923
+p230_248,"However, he is a coach, and he remains a coach at heart."," However, he is a coach and he remains a coach at heart.",8.333333333333332,1.7857142857142856,0.0,1.7857142857142856
+p230_249,Employees are entitled to follow their contract to the letter., Employees are entitled to follow their contract to the letter.,0.0,0.0,0.0,0.0
+p230_250,We have to compete at our own level., We have to compete at our own level.,0.0,0.0,0.0,0.0
+p230_251,They showed a lot of heart., They showed a lot of heart.,0.0,0.0,0.0,0.0
+p230_252,This gives a financial incentive to switch., This gives a financial incentive to switch.,0.0,0.0,0.0,0.0
+p230_253,"It might be sad, but it's a fact."," It might be sad, but it's a fact.",0.0,0.0,0.0,0.0
+p230_254,She took them for a term., She took them for a term.,0.0,0.0,0.0,0.0
+p230_255,Kingfisher can afford to wait., Kingfisher can afford to wait.,0.0,0.0,0.0,0.0
+p230_257,Nato was not a love affair., NATO was not a love affair.,16.666666666666664,11.11111111111111,0.0,29.629629629629626
+p230_258,Defensive stocks attracted some interest., Defensive stocks attracted some interest.,0.0,0.0,0.0,0.0
+p230_259,Manager Bobby Williamson has no injury worries., Manage of Bobby Williamson has no injury worries.,28.57142857142857,6.382978723404255,42.857142857142854,31.914893617021278
+p230_260,"In fact, we were all over the shop."," In fact, we were all over the shop.",0.0,0.0,0.0,0.0
+p230_261,You can feel at home in China., You can feel at home in China.,0.0,0.0,0.0,0.0
+p230_262,Persuaded to change his mind., persuaded to change his mind.,20.0,3.4482758620689653,0.0,62.06896551724138
+p230_263,"Either way, the investor retains the premium."," Either way, the investor retains the premium.",0.0,0.0,0.0,0.0
+p230_264,It is clear that we must learn the lessons from this outbreak., It is clear that we must learn the lessons from this outbreak.,0.0,0.0,0.0,0.0
+p230_265,"In the meantime, the fans would settle for a derby win."," In the meantime, the fans were settled for a day I went.",45.45454545454545,20.0,45.45454545454545,32.72727272727273
+p230_266,"Now, suddenly, we have this new landscape."," Now, suddenly, we have this new landscape.",0.0,0.0,0.0,0.0
+p230_267,"I should think so, too.", I should think so too.,20.0,4.3478260869565215,0.0,4.3478260869565215
+p230_268,Scoring in our first game was a bonus for me., Scoring in our first game was a bonus for me.,0.0,0.0,0.0,0.0
+p230_269,I've had no discussions with the chairman of the board., I've had no discussions with the chairman of the board.,0.0,0.0,0.0,0.0
+p230_270,I was ready for this., I was ready for this.,0.0,0.0,0.0,0.0
+p230_271,On the contrary they stand to gain.," On the country, they stand to gain.",14.285714285714285,11.428571428571429,14.285714285714285,17.142857142857142
+p230_272,They are interior designers and architects., They are interior designers and architects.,0.0,0.0,0.0,0.0
+p230_273,That should be the subject matter of a public debate., That should be the subject matter of a public debate.,0.0,0.0,0.0,0.0
+p230_274,We feel very good about it., We feel very good about it.,0.0,0.0,0.0,0.0
+p230_276,It succeeds in a direct and convincing manner., It succeeds in a direct and convincing manner.,0.0,0.0,0.0,0.0
+p230_277,It is also very valuable., It is also very valuable.,0.0,0.0,0.0,0.0
+p230_278,None of this work is guaranteed., None of this work is guaranteed.,0.0,0.0,0.0,0.0
+p230_279,There is a case to answer., There is a case to answer.,0.0,0.0,0.0,0.0
+p230_280,We're trying to get rounded performers., We're trying to get rounded performers.,0.0,0.0,0.0,0.0
+p230_281,They can leave at any time., They can leave at any time.,0.0,0.0,0.0,0.0
+p230_282,And they were being paid?, And they were being paid.,20.0,4.0,0.0,4.0
+p230_283,was everything done to save people?, Was everything done to save people?,16.666666666666664,2.857142857142857,0.0,17.142857142857142
+p230_284,What was the matter for concern?, What was the matter for concern?,0.0,0.0,0.0,0.0
+p230_285,Do I think about them often?, Do think about them often.,33.33333333333333,10.714285714285714,33.33333333333333,39.285714285714285
+p230_286,That was a gold medal for certain., That was a gold medal for certain.,0.0,0.0,0.0,0.0
+p230_287,You get a lot for your money., You get a lot for your money.,0.0,0.0,0.0,0.0
+p230_288,"Thankfully, no-one on the bus is too badly hurt."," Thankfully, no one on the bus is too badly hurt.",22.22222222222222,2.083333333333333,22.22222222222222,14.583333333333334
+p230_289,"In that moment, I was happy."," In that moment, I was happy.",0.0,0.0,0.0,0.0
+p230_290,The actor has met with Mandela., The actor has met with Mandela.,0.0,0.0,0.0,0.0
+p230_291,It was never a free kick., It was never a free kick.,0.0,0.0,0.0,0.0
+p230_292,It is a recipe for success., It is a recipe for success.,0.0,0.0,0.0,0.0
+p230_293,I would rather look at him., I would rather look at him.,0.0,0.0,0.0,0.0
+p230_295,It's got to come from me., It's got to come from me.,0.0,0.0,0.0,0.0
+p230_296,It took a month and a half to film., It took a month and a half to film.,0.0,0.0,0.0,0.0
+p230_297,The cause of the accident remained unclear., The cause of the accident remained unclear.,0.0,0.0,0.0,0.0
+p230_298,It is a symbolic concert., It is a symbolic concept.,20.0,4.0,20.0,4.0
+p230_299,There was a final revealing detail about the broadcast., There was a final reveal in detail about the broadcast.,22.22222222222222,3.6363636363636362,22.22222222222222,9.090909090909092
+p230_300,"Certainly, the Taliban regime is finished.", Certainly the Taliban regime is finished.,16.666666666666664,2.380952380952381,0.0,45.23809523809524
+p230_302,He is at war with his knee., He is at war with his knee.,0.0,0.0,0.0,0.0
+p230_303,Again the parallel with football can be drawn.," Again, the parallel where football can be drawn.",25.0,10.869565217391305,12.5,32.608695652173914
+p230_304,I was there five months ago., I was there five months ago.,0.0,0.0,0.0,0.0
+p230_305,You have to see it like this., You have to say it like this.,14.285714285714285,6.896551724137931,14.285714285714285,6.896551724137931
+p230_306,Rugby is now just like football., Rugby is now just like football.,0.0,0.0,0.0,0.0
+p230_307,It could well be military., It could well be military.,0.0,0.0,0.0,0.0
+p230_308,His job was not advertised., His job was not advertised.,0.0,0.0,0.0,0.0
+p230_309,There is an element of racism in Scotland., There is an element of racism in Scotland.,0.0,0.0,0.0,0.0
+p230_310,We have a clean bill of health., We have a clean bill of health.,0.0,0.0,0.0,0.0
+p230_311,And we can do it., And we can do it.,0.0,0.0,0.0,0.0
+p230_312,The songs are just so good., The songs are just so good.,0.0,0.0,0.0,0.0
+p230_313,The casting is as perfect., The casting is as perfect.,0.0,0.0,0.0,0.0
+p230_314,I can hardly believe it., I can hardly believe it.,0.0,0.0,0.0,0.0
+p230_315,I must do something about it., I must do something about it.,0.0,0.0,0.0,0.0
+p230_316,Our message to the Monetary Policy Committee is clear., Our message to the Monetary Policy Committee is clear.,0.0,0.0,0.0,0.0
+p230_317,"If you can run a computer, you can talk to the world."," If you can run a computer, you can talk to the world.",0.0,0.0,0.0,0.0
+p230_318,They are not left wing., They are not left wing.,0.0,0.0,0.0,0.0
+p230_319,McNaughton was not so sure., McNoughton was not so sure.,20.0,3.7037037037037033,40.0,74.07407407407408
+p230_321,It is a road of death., It is a road of death.,0.0,0.0,0.0,0.0
+p230_322,The party lasted all night., The party lasted all night.,0.0,0.0,0.0,0.0
+p230_323,The group is not paying a dividend., The group is not paying a dividend.,0.0,0.0,0.0,0.0
+p230_324,We were on our way., We are on our way.,20.0,10.526315789473683,20.0,21.052631578947366
+p230_325,I was as strong as a horse., I was as strong as a horse.,0.0,0.0,0.0,0.0
+p230_326,That meant the search was unlawful., That meant the search was unlawful.,0.0,0.0,0.0,0.0
+p230_327,We have a good healthy debate.," We have a good, healthy debate.",16.666666666666664,3.3333333333333335,0.0,3.3333333333333335
+p230_328,I would do away with the dress code., I would do away with the dress code.,0.0,0.0,0.0,0.0
+p230_329,We are on a four-year mission., We are on a four year mission.,33.33333333333333,3.3333333333333335,33.33333333333333,30.0
+p230_330,This is a historic occasion., This is a historic occasion.,0.0,0.0,0.0,0.0
+p230_331,This ruling is a farce., This reeling is a fast.,40.0,21.73913043478261,40.0,43.47826086956522
+p230_332,I can see their argument., I can see their argument.,0.0,0.0,0.0,0.0
+p230_333,After some discussion they did., After some discussion they did.,0.0,0.0,0.0,0.0
+p230_334,It was always an option., It was always an option.,0.0,0.0,0.0,0.0
+p230_335,Does that put pressure on us?, Does that put pressure on us?,0.0,0.0,0.0,0.0
+p230_336,Did it work?, Did it work?,0.0,0.0,0.0,0.0
+p230_337,Do you think we are a top nation?, Do you think we are a top nation?,0.0,0.0,0.0,0.0
+p230_338,Public opinion was split on the proposal., Public opinion was split on the proposal.,0.0,0.0,0.0,0.0
+p230_339,The election is total confusion and chaos., The election is total confusion and chaos.,0.0,0.0,0.0,0.0
+p230_340,You may have a short memory., You may have a short memory.,0.0,0.0,0.0,0.0
+p230_341,"Clearly, the need for a personal loan is written in the stars."," Clearly, the need for a personal loan is written in the stars.",0.0,0.0,0.0,0.0
+p230_342,"In the old days, it was easy."," In the old days, it was easy.",0.0,0.0,0.0,0.0
+p230_343,There was some merit in that., There was some merit in that.,0.0,0.0,0.0,0.0
+p230_344,That is a trend which will be encouraged., That is a trend which will be encouraged.,0.0,0.0,0.0,0.0
+p230_345,The airport was even different., The airport was even different.,0.0,0.0,0.0,0.0
+p230_346,Clark was desperate to return to the House of Commons., Clark was desperate to return to the House of Commons.,0.0,0.0,0.0,0.0
+p230_347,We think all other measures are not exhausted., We think all of our measures are not exhausted.,25.0,8.695652173913043,25.0,15.217391304347828
+p230_348,There was no time scale., There was no timescale.,40.0,4.166666666666666,40.0,50.0
+p230_349,"Last night, he pledged to clear his name.", Last night he pledged to clear his name.,12.5,2.4390243902439024,0.0,2.4390243902439024
+p230_350,"On Thursday, Mr Blair will address the Institute of Public Policy Research."," On Thursday, Mr Blair will address the Institute of Public Policy Research.",0.0,0.0,0.0,0.0
+p230_351,"He is not very big, either.", He is not very big either.,16.666666666666664,3.7037037037037033,0.0,3.7037037037037033
+p230_352,I have a moral dilemma., I have a moral dilemma.,0.0,0.0,0.0,0.0
+p230_353,Even the one she loved., Even the one she loved.,0.0,0.0,0.0,0.0
+p230_354,You have no chance of planning permission., You have no chance of planning permission.,0.0,0.0,0.0,0.0
+p230_355,We are encouraged by the news., We are encouraged by the news.,0.0,0.0,0.0,0.0
+p230_356,"In addition, certain areas closed at certain times."," In addition, certain areas close to at certain times.",25.0,5.88235294117647,25.0,5.88235294117647
+p230_357,The professor said the results were positive., The professor said the result were positive.,14.285714285714285,2.2222222222222223,14.285714285714285,2.2222222222222223
+p230_358,"In fact, it is deeply unpleasant."," In fact, it is deeply unpleasant.",0.0,0.0,0.0,0.0
+p230_359,Three years ago he would have been., Three years ago he would have been,14.285714285714285,2.857142857142857,0.0,2.857142857142857
+p230_360,Not that Scotland can claim the moral high ground., Not this gutland can claim the moral high ground.,22.22222222222222,10.0,22.22222222222222,20.0
+p230_361,The announcement was made after inquiries from a national newspaper., The announcement was made after inquiries from a national newspaper.,0.0,0.0,0.0,0.0
+p230_362,I am a lucky man., I am a lucky man.,0.0,0.0,0.0,0.0
+p230_363,Nobody else was with me., Nobody else was with me.,0.0,0.0,0.0,0.0
+p230_364,We put our bid in last night., We put update in last night.,28.57142857142857,20.689655172413794,28.57142857142857,31.03448275862069
+p230_365,Alex Ferguson is the same., Alex Ferguson is the same.,0.0,0.0,0.0,0.0
+p230_366,George Mitchell is trying to close the gap., George Mitchell is trying to close the gap.,0.0,0.0,0.0,0.0
+p230_367,But BA said the prediction was premature., But BA said the prediction was premature.,0.0,0.0,0.0,0.0
+p230_368,"Like his acting, it was an accident."," Like is acting, it was an accident.",14.285714285714285,2.7777777777777777,14.285714285714285,8.333333333333332
+p230_369,They have broken the promise., They have broken the promise.,0.0,0.0,0.0,0.0
+p230_370,We are really good friends., We are really good friends.,0.0,0.0,0.0,0.0
+p230_371,My goal is quite simple., My goal is quite simple.,0.0,0.0,0.0,0.0
+p230_372,This is a major championship., This is a major championship.,0.0,0.0,0.0,0.0
+p230_373,It's going to be fun., It's going to be fun.,0.0,0.0,0.0,0.0
+p230_374,She is now on the back benches., She is now on the back branches.,14.285714285714285,6.451612903225806,14.285714285714285,25.806451612903224
+p230_375,Scrutiny by European Parliament is limited., scrutiny by European Parliament is limited.,16.666666666666664,2.3255813953488373,0.0,37.2093023255814
+p230_376,This hasn't happened in a vacuum., This hasn't happened in a vacuum.,0.0,0.0,0.0,0.0
+p230_377,Both of those promises have already been honoured., Both of those promises have already been honoured.,0.0,0.0,0.0,0.0
+p230_378,We are a Scottish company., We are Scottish company.,20.0,7.6923076923076925,40.0,61.53846153846154
+p230_379,We will win the argument., We will win the argument.,0.0,0.0,0.0,0.0
+p230_380,Tomorrow will be a different game entirely., Tomorrow will be a different game entirely.,0.0,0.0,0.0,0.0
+p230_381,It is the Holiday programme with a mortgage., It is the holiday program with a mortgage.,25.0,6.8181818181818175,12.5,6.8181818181818175
+p230_382,I always knew she was funny., I always knew she was funny.,0.0,0.0,0.0,0.0
+p230_383,He is a close friend of Gordon Brown., He is a close friend of Gordon Brown.,0.0,0.0,0.0,0.0
+p230_384,The marshall at the turn was great., The marshal at the turn was great.,14.285714285714285,2.857142857142857,14.285714285714285,2.857142857142857
+p230_385,If you can get it., If you can get it.,0.0,0.0,0.0,0.0
+p230_386,"On fuel, the Chancellor has a number of options."," On fuel, the chancellor has a number of options.",11.11111111111111,2.083333333333333,0.0,2.083333333333333
+p230_387,There was a substantial explosion., There was a substantial explosion.,0.0,0.0,0.0,0.0
+p230_388,The Government yesterday announced its proposed new pension account., The government yesterday announced its proposed new pension account.,11.11111111111111,1.4705882352941175,0.0,1.4705882352941175
+p230_389,He could face a jail sentence., He could face a jail sentence.,0.0,0.0,0.0,0.0
+p230_390,That is the consistent approach of the Government., That is the consistent approach of the government.,12.5,2.0,0.0,2.0
+p230_391,This big issue is whether it can be enforced., This big issue is whether it can be enforced.,0.0,0.0,0.0,0.0
+p230_392,Clark is back on top form., Clark is back on top form.,0.0,0.0,0.0,0.0
+p230_393,Motion described it as a unique event., Motion described it as a unique event.,0.0,0.0,0.0,0.0
+p230_394,I had a fortunate war., I had a fortune at war.,40.0,13.636363636363635,40.0,22.727272727272727
+p230_395,Are they free?, Are they free?,0.0,0.0,0.0,0.0
+p230_396,What are they for?, What are they for?,0.0,0.0,0.0,0.0
+p230_397,Is there a waiting list?, Is there a waiting list?,0.0,0.0,0.0,0.0
+p230_398,Do they think anyone else wants them?, Do they think anyone else wants them?,0.0,0.0,0.0,0.0
+p230_399,That investment has now been secured., That investment has now been secured.,0.0,0.0,0.0,0.0
+p230_400,It is a large number., It is a large number.,0.0,0.0,0.0,0.0
+p230_401,You will not feel a thing., You will not feel the thing.,16.666666666666664,11.538461538461538,16.666666666666664,11.538461538461538
+p230_402,I've never seen a game like it., I've never seen the game like it.,14.285714285714285,9.67741935483871,14.285714285714285,9.67741935483871
+p230_404,It does not even have a staff shortage., It does not even have a staff shortage.,0.0,0.0,0.0,0.0
+p230_405,"It was a bank holiday, after all.", It was a bank holiday after all.,14.285714285714285,3.0303030303030303,0.0,3.0303030303030303
+p230_406,We're obviously disturbed by this case., We are obviously disturbed by this case.,33.33333333333333,5.128205128205128,50.0,25.64102564102564
+p230_407,The casualties were not named., The casualties were not named.,0.0,0.0,0.0,0.0
+p230_408,It is a temptation which should be resisted., It is a temptation which should be resisted.,0.0,0.0,0.0,0.0
+p230_409,It had been on the cards., It had been on the cards.,0.0,0.0,0.0,0.0
+p230_410,The second goal was superb., The second goal was superb.,0.0,0.0,0.0,0.0
+p230_411,Treatment is not an issue with these people., Treatment is not an issue with these people.,0.0,0.0,0.0,0.0
+p230_413,"Even if they come out playing a physical game, we can cope."," Even if they come out playing a physical game, we can cope.",0.0,0.0,0.0,0.0
+p230_414,It is the old story., It is the old story.,0.0,0.0,0.0,0.0
+p230_415,This should put downward pressure on inflation., This should put downward pressure on inflation.,0.0,0.0,0.0,0.0
+p230_416,No date has been set for a meeting., No date has been set for a meeting.,0.0,0.0,0.0,0.0
+p230_417,We have to build a new team in the minimum of time., We have to build a new team in the minimum of time.,0.0,0.0,0.0,0.0

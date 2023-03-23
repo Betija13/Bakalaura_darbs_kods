@@ -1,0 +1,424 @@
+name,transcription,prediction,ev_wer,ev_cer,my_wer,my_cer
+p339_001,Please call Stella., Please call Stella.,0.0,0.0,0.0,0.0
+p339_002,Ask her to bring these things with her from the store., Ask her to bring these things with her from the store.,0.0,0.0,0.0,0.0
+p339_003,"Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a sack for her brother Bob."," 6 spoons of fresh snow peas, 5 thick slabs of blue cheese, and maybe a sack for her brother Bob.",10.0,6.9306930693069315,15.0,7.920792079207921
+p339_004,We also need a small plastic snake and a big toy frog for the kids., We also need a small plastic snake and a big toy frog for the kids.,0.0,0.0,0.0,0.0
+p339_005,"She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.", She can scoop these things into three red bags and we will go meet her Wednesday at the train station.,5.0,0.9708737864077669,0.0,0.9708737864077669
+p339_006,"When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow."," When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.",0.0,0.0,0.0,0.0
+p339_007,The rainbow is a division of white light into many beautiful colors., The rainbow is a division of white light into many beautiful colors.,0.0,0.0,0.0,0.0
+p339_008,"These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon."," These take the shape of a long-round arch with its path high above, and its two ends apparently beyond the horizon.",13.636363636363635,1.7241379310344827,9.090909090909092,13.793103448275861
+p339_009,"There is , according to legend, a boiling pot of gold at one end."," There is, according to legend, a boiling pot of gold at one end.",14.285714285714285,1.5384615384615385,14.285714285714285,3.076923076923077
+p339_010,"People look, but no one ever finds it.", People look but no one ever finds it.,12.5,2.631578947368421,0.0,2.631578947368421
+p339_011,"When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow."," When a man looks for something beyond his reach, his friends say he is looking for the part of gold at the end of the rainbow.",3.8461538461538463,1.6,3.8461538461538463,2.4
+p339_012,Throughout the centuries people have explained the rainbow in various ways., Throughout the centuries people have explained the rainbow in various ways.,0.0,0.0,0.0,0.0
+p339_013,Some have accepted it as a miracle without physical explanation., Some have accepted it as a miracle without physical explanation.,0.0,0.0,0.0,0.0
+p339_014,To the Hebrews it was a token that there would be no more universal floods.," To the Hebrews, it was a token that there would be no more universal floods.",6.666666666666667,1.3333333333333335,0.0,1.3333333333333335
+p339_015,The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain., The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain.,0.0,0.0,0.0,0.0
+p339_016,The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky., The Norsemen considered the rainbow as a bridge over which the gods passed from Earth to their home in the sky.,4.761904761904762,0.9009009009009009,0.0,0.9009009009009009
+p339_017,Others have tried to explain the phenomenon physically., Others have tried to explain the phenomenon physically.,0.0,0.0,0.0,0.0
+p339_018,Aristotle thought the rainbow was caused by reflection of the sun's rays by the rain., Aristotle thought the rainbow was caused by reflection of the sun's rays by the rain.,0.0,0.0,0.0,0.0
+p339_019,"Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbow."," Since then, physicists have found that it is not reflection, but refraction by the raindrops, which causes the rainbow.",10.526315789473683,1.7094017094017095,0.0,1.7094017094017095
+p339_020,Many complicated ideas about the rainbow have been formed., Many complicated ideas about the rainbow have been formed.,0.0,0.0,0.0,0.0
+p339_021,"The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.", The difference in the rainbow depends considerably upon the size of the drops and the width of the coloured band increases as the size of the drops increases.,7.142857142857142,1.2658227848101267,3.571428571428571,3.1645569620253164
+p339_022,The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows., The actual primary rainbow observed is said to be the effect of superimposition of a number of bows.,5.555555555555555,0.9900990099009901,5.555555555555555,10.891089108910892
+p339_023,"If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow."," If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.",0.0,0.0,0.0,0.0
+p339_024,"This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue."," This is a very common type of bow, one showing mainly red and yellow with little or no green or blue.",4.761904761904762,0.9803921568627451,0.0,0.9803921568627451
+p339_025,They missed the boat and everyone suffers., They miss the boat and everyone suffers.,14.285714285714285,4.761904761904762,14.285714285714285,4.761904761904762
+p339_026,The pollution and the driving are beyond belief., The pollution and the driving are beyond belief.,0.0,0.0,0.0,0.0
+p339_027,Glasgow is far from overload., Glasgow is far from overload.,0.0,0.0,0.0,0.0
+p339_028,It's a big mystery., It's a big mystery.,0.0,0.0,0.0,0.0
+p339_029,What is a house without it?, What is a house without it?,0.0,0.0,0.0,0.0
+p339_030,It was really good in the first week., It was really good in the first week.,0.0,0.0,0.0,0.0
+p339_031,It's about the balance., It's about the balance.,0.0,0.0,0.0,0.0
+p339_032,"Like his acting, it was an accident."," Like is acting, it was an accident.",14.285714285714285,2.7777777777777777,14.285714285714285,8.333333333333332
+p339_033,It really has not been their season., It really has not been their season.,0.0,0.0,0.0,0.0
+p339_034,I want somebody with something to prove., I want somebody with something to prove.,0.0,0.0,0.0,0.0
+p339_035,This would give Scotland around eight members., This would give Scotland around eight members.,0.0,0.0,0.0,0.0
+p339_036,There was a ban on reporting the trial., There was a ban on reporting the child.,12.5,10.256410256410255,12.5,10.256410256410255
+p339_037,I don't think the action was a mistake., I don't think the action was a mistake.,0.0,0.0,0.0,0.0
+p339_038,You go in there and do it., You go in there and do it.,0.0,0.0,0.0,0.0
+p339_039,"We were in Italy  suddenly, we knew."," We were in Italy suddenly, we knew.",0.0,0.0,25.0,50.0
+p339_040,What will happen to them today?, What will happen to them today?,0.0,0.0,0.0,0.0
+p339_041,I didn't expect to get one., I didn't expect to get one.,0.0,0.0,0.0,0.0
+p339_042,"It was electric, amazing."," It was electric, amazing.",0.0,0.0,0.0,0.0
+p339_043,I said to him., I said to him.,0.0,0.0,0.0,0.0
+p339_044,Labour has been found out on public spending., Labor has been found out on public spending.,12.5,2.2222222222222223,25.0,24.444444444444443
+p339_045,he told a producer., He told the producer.,50.0,21.052631578947366,25.0,36.84210526315789
+p339_046,That is not the place for her., That is not the place for her.,0.0,0.0,0.0,0.0
+p339_047,The jury is still out on this one., The jury is still out on this one.,0.0,0.0,0.0,0.0
+p339_048,We have to work together., We have to work together.,0.0,0.0,0.0,0.0
+p339_049,I don't think that he won't be released., I don't think that he won't be released.,0.0,0.0,0.0,0.0
+p339_050,"It is a hard act to follow, the Winning act.", It is a hard act to follow the winning act.,20.0,4.545454545454546,0.0,4.545454545454546
+p339_051,It means it is difficult., It means it is difficult.,0.0,0.0,0.0,0.0
+p339_052,But they were true stories., But they wear true stories.,20.0,7.4074074074074066,20.0,7.4074074074074066
+p339_053,I needed to get away., I needed to get away.,0.0,0.0,0.0,0.0
+p339_054,I will make that point tonight., I will make that point tonight.,0.0,0.0,0.0,0.0
+p339_055,Tomorrow will be a different game entirely., Tomorrow will be a different game entirely.,0.0,0.0,0.0,0.0
+p339_056,There are two things we have to do., There are two things we have to do.,0.0,0.0,0.0,0.0
+p339_057,Are they going to work together again?, Are they going to work together again?,0.0,0.0,0.0,0.0
+p339_058,We need to do that every week., We need to do that every week.,0.0,0.0,0.0,0.0
+p339_059,It gives us something to work on., It gives us something to work on.,0.0,0.0,0.0,0.0
+p339_060,But what did it matter?, But what didn't matter?,40.0,8.695652173913043,40.0,21.73913043478261
+p339_061,A government is a government is a government., A government is a government is a government.,0.0,0.0,0.0,0.0
+p339_062,Hopefully it will be tomorrow night., Hopefully it will be tomorrow night.,0.0,0.0,0.0,0.0
+p339_063,I am not retaining him., I am not retaining him.,0.0,0.0,0.0,0.0
+p339_064,The police are not the target., The police are not the target.,0.0,0.0,0.0,0.0
+p339_065,"It has affected it, obviously."," It has affected it, obviously.",0.0,0.0,0.0,0.0
+p339_066,But that title is a mistake., But that title is a mistake.,0.0,0.0,0.0,0.0
+p339_067,And he's not a bigot., And he's not a bigot.,0.0,0.0,0.0,0.0
+p339_068,But summer is spent., But summer is spent.,0.0,0.0,0.0,0.0
+p339_069,"Services are being expanded, too.", Services are being expanded too.,20.0,3.0303030303030303,0.0,3.0303030303030303
+p339_070,It has only been rumours., It has only been rumors.,20.0,4.0,20.0,16.0
+p339_071,It is extremely fortunate., It is extremely fortunate.,0.0,0.0,0.0,0.0
+p339_072,Today is the first step in that process., Today is the first step in that process.,0.0,0.0,0.0,0.0
+p339_073,Several others were absent., Several others were absent.,0.0,0.0,0.0,0.0
+p339_074,It is surprising to come back this way., It is surprising to come back this way.,0.0,0.0,0.0,0.0
+p339_075,But there was no time for that., But there was no time for that.,0.0,0.0,0.0,0.0
+p339_076,A review is under way., A review is underway.,40.0,4.545454545454546,40.0,36.36363636363637
+p339_077,That should be fun., That should be fun.,0.0,0.0,0.0,0.0
+p339_078,Maybe he will act again., Maybe he will act again.,0.0,0.0,0.0,0.0
+p339_079,What we were doing., What were we doing?,75.0,26.31578947368421,75.0,84.21052631578947
+p339_080,What is the Barnett formula?, What is the Barnett formula?,0.0,0.0,0.0,0.0
+p339_081,It all happened so suddenly., It all happened so suddenly.,0.0,0.0,0.0,0.0
+p339_082,I won't let that happen., I won't let that happen.,0.0,0.0,0.0,0.0
+p339_083,Or have they?, Or have they?,0.0,0.0,0.0,0.0
+p339_084,There is no change in the strategy., There is no change in the strategy.,0.0,0.0,0.0,0.0
+p339_085,I had a fortunate war., I had a fortunate war.,0.0,0.0,0.0,0.0
+p339_086,"It will probably be my last, too.", It will probably be my last two.,28.57142857142857,6.0606060606060606,14.285714285714285,6.0606060606060606
+p339_087,I am not completely insane., I am not completely insane.,0.0,0.0,0.0,0.0
+p339_088,We spoke about a few people., We spoke about a few people.,0.0,0.0,0.0,0.0
+p339_089,She had to learn a new discipline., She had to learn a new discipline.,0.0,0.0,0.0,0.0
+p339_090,"In fact, he took it very well."," In fact, he took it very well.",0.0,0.0,0.0,0.0
+p339_091,I decided to take my time., I decided to take my time.,0.0,0.0,0.0,0.0
+p339_092,"Quite a lot of people know that, actually.", Quite a lot of people know that actually.,12.5,2.380952380952381,0.0,2.380952380952381
+p339_093,We did it in one take., We did it in one take.,0.0,0.0,0.0,0.0
+p339_094,He doesn't even know who he is., He doesn't even know who he is.,0.0,0.0,0.0,0.0
+p339_095,It is hard to understand., It is hard to understand.,0.0,0.0,0.0,0.0
+p339_096,What will it be?, What will it be?,0.0,0.0,0.0,0.0
+p339_097,The search is due to be completed today., The searches do to be completed today.,37.5,10.0,37.5,17.5
+p339_098,This was dismissed as absolute nonsense., This was dismissed as absolute nonsense.,0.0,0.0,0.0,0.0
+p339_099,"What you sow, you have to reap.", What you sow you have to reap.,14.285714285714285,3.225806451612903,0.0,3.225806451612903
+p339_100,He is a one-off., Here's a one-off.,50.0,18.75,50.0,50.0
+p339_101,Six men will take the decision., Six men will take the decision.,0.0,0.0,0.0,0.0
+p339_102,To have Mr Clinton is quite an accolade., Do you have Mr. Clinton? It's quite an accolade.,62.5,25.0,50.0,77.5
+p339_103,We should not be surprised at that., We should not be surprised at that.,0.0,0.0,0.0,0.0
+p339_104,It was a disaster., It was a disaster.,0.0,0.0,0.0,0.0
+p339_105,We have been so lucky., We have been so lucky.,0.0,0.0,0.0,0.0
+p339_107,It was a bit of a tightrope., It was a bit of a tight rope.,28.57142857142857,3.571428571428571,28.57142857142857,35.714285714285715
+p339_108,I don't know what we're doing wrong., I don't know what we're doing wrong.,0.0,0.0,0.0,0.0
+p339_109,It was all over now., It was all over now.,0.0,0.0,0.0,0.0
+p339_110,But it was only a matter of time., But it was only a matter of time.,0.0,0.0,0.0,0.0
+p339_111,I always liked to get a laugh., I always like to get a laugh.,14.285714285714285,3.3333333333333335,14.285714285714285,3.3333333333333335
+p339_112,I still hope to go., I still hope to go.,0.0,0.0,0.0,0.0
+p339_113,Sometimes they come off., Sometimes they come off.,0.0,0.0,0.0,0.0
+p339_114,We're not that bad., We're not that bad.,0.0,0.0,0.0,0.0
+p339_115,Today is a victory for the Scottish Parliament., Today is a victory for the Scottish Parliament.,0.0,0.0,0.0,0.0
+p339_116,I feel strongly about it., I feel strongly about it.,0.0,0.0,0.0,0.0
+p339_117,There are exciting days ahead., They're exciting days ahead.,40.0,13.333333333333334,40.0,36.666666666666664
+p339_118,We have to put this behind us., We have to put this behind us.,0.0,0.0,0.0,0.0
+p339_119,I thought it was quite good., I thought it was quite good.,0.0,0.0,0.0,0.0
+p339_120,This is a disaster averted for Scotland., This is a disaster averted for Scotland.,0.0,0.0,0.0,0.0
+p339_121,"We're very, very happy."," We're very, very happy.",0.0,0.0,0.0,0.0
+p339_122,There could be a possible connection., There could be a possible connection.,0.0,0.0,0.0,0.0
+p339_123,But there was everything!, But there was everything.,25.0,4.0,0.0,4.0
+p339_124,We are doing very well as we are., We are doing very well as we are.,0.0,0.0,0.0,0.0
+p339_125,The Scots are great., The scuts are great.,25.0,10.0,25.0,10.0
+p339_126,That imbalance was evident in their play., That imbalance was evident in their play.,0.0,0.0,0.0,0.0
+p339_127,"However, the drama was not over."," However, the drama was not over.",0.0,0.0,0.0,0.0
+p339_128,But it was not just the land., But it was not just the land.,0.0,0.0,0.0,0.0
+p339_129,I don't think the referees are against us., I don't think the referees are against us.,0.0,0.0,0.0,0.0
+p339_130,It is too much for me., It is too much for me.,0.0,0.0,0.0,0.0
+p339_131,It succeeds in a direct and convincing manner., It succeeds in a direct and convincing manner.,0.0,0.0,0.0,0.0
+p339_132,We are still waiting., We are still waiting.,0.0,0.0,0.0,0.0
+p339_133,It happened again yesterday., It happened again yesterday.,0.0,0.0,0.0,0.0
+p339_134,He will be a major challenger next year., He will be a major challenger next year.,0.0,0.0,0.0,0.0
+p339_135,That question was never asked., That question was never asked.,0.0,0.0,0.0,0.0
+p339_136,I am not inclined to believe it., I am now inclined to believe it.,14.285714285714285,3.125,14.285714285714285,3.125
+p339_137,It was on fire., It was on fire.,0.0,0.0,0.0,0.0
+p339_138,I have fallen in love with the Highlands., I have fallen in love with the Highlands.,0.0,0.0,0.0,0.0
+p339_139,How can they tell?, How can they tell?,0.0,0.0,0.0,0.0
+p339_140,My ambition is to make the cut., My ambition is to make the cut.,0.0,0.0,0.0,0.0
+p339_141,It will be for the committee to decide., It will be for the committee to decide.,0.0,0.0,0.0,0.0
+p339_142,Their conditions are described as serious but stable., Their conditions are described as serious but stable.,0.0,0.0,0.0,0.0
+p339_143,"Rangers must be winners, it says."," Rangers must be winners, it says.",0.0,0.0,0.0,0.0
+p339_144,He was part of the family., He was part of the family.,0.0,0.0,0.0,0.0
+p339_145,I certainly think it should be there., I certainly think it should be there.,0.0,0.0,0.0,0.0
+p339_146,But it does not matter., But it does not matter.,0.0,0.0,0.0,0.0
+p339_147,Hopefully we can put in a performance., Hopefully we can put in a performance.,0.0,0.0,0.0,0.0
+p339_148,"Sadly, he has a point."," Sadly, he has a point.",0.0,0.0,0.0,0.0
+p339_149,It was so sad., It was so sad.,0.0,0.0,0.0,0.0
+p339_150,"Mind you, all was not lost."," Mind you, all was not lost.",0.0,0.0,0.0,0.0
+p339_151,We were extremely lucky., We were extremely lucky.,0.0,0.0,0.0,0.0
+p339_152,It was an amazing time., It was an amazing time.,0.0,0.0,0.0,0.0
+p339_153,"In fact, the reasons are simple."," In fact, the reasons are simple.",0.0,0.0,0.0,0.0
+p339_154,The hearing is expected to continue today., The hearing is expected to continue today.,0.0,0.0,0.0,0.0
+p339_155,It is just a matter of time., It is just a matter of time.,0.0,0.0,0.0,0.0
+p339_156,This news is really depressing., This news is really depressing.,0.0,0.0,0.0,0.0
+p339_157,I'm not fit for anything else., I'm not fit for anything else.,0.0,0.0,0.0,0.0
+p339_158,"The day may come, but not for a while."," The day may come, but not for a while.",0.0,0.0,0.0,0.0
+p339_159,The enemy was time., The enemy was time.,0.0,0.0,0.0,0.0
+p339_160,He would have done the same to me., He would have done the same to me.,0.0,0.0,0.0,0.0
+p339_161,What were they told?, What were they told?,0.0,0.0,0.0,0.0
+p339_162,More cases are expected., More cases are expected.,0.0,0.0,0.0,0.0
+p339_163,I believe the gap is nearly there., I believe the gap is nearly there.,0.0,0.0,0.0,0.0
+p339_164,It would be very dangerous., It would be very dangerous.,0.0,0.0,0.0,0.0
+p339_165,How can they say that?, How can they say that?,0.0,0.0,0.0,0.0
+p339_166,My condition is not bad., My condition is not bad.,0.0,0.0,0.0,0.0
+p339_167,Tomorrow is a big day for Scotland., Tomorrow is a big day for Scotland.,0.0,0.0,0.0,0.0
+p339_168,"I would like to make an impact, of course."," I would like to make an impact, of course.",0.0,0.0,0.0,0.0
+p339_169,I am confident of the outcome this week., I am confident of the outcome this week.,0.0,0.0,0.0,0.0
+p339_170,The goal is clear., The goal is clear.,0.0,0.0,0.0,0.0
+p339_171,Just think about the lines., Just think about the lines.,0.0,0.0,0.0,0.0
+p339_172,It all depends on the wind., It all depends on the wind.,0.0,0.0,0.0,0.0
+p339_173,I was very influenced by him., I was very influenced by him.,0.0,0.0,0.0,0.0
+p339_174,I'm so worried about the roads., I'm so worried about the roads.,0.0,0.0,0.0,0.0
+p339_175,This was much worse., This was much worse.,0.0,0.0,0.0,0.0
+p339_176,This was certainly not about money., This was certainly not about money.,0.0,0.0,0.0,0.0
+p339_177,"It is simple, but profound.", It is simple but profound.,20.0,3.7037037037037033,0.0,3.7037037037037033
+p339_178,The funding is now there., The funding is now there.,0.0,0.0,0.0,0.0
+p339_179,He was convicted at Glasgow Sheriff Court., He was convicted at Glasgow Sheriff Court.,0.0,0.0,0.0,0.0
+p339_180,A film is different from a book., A film is different from a book.,0.0,0.0,0.0,0.0
+p339_181,Within three days he was dead., Within three days he was dead.,0.0,0.0,0.0,0.0
+p339_182,You'll find out on Saturday., You'll find out on Saturday.,0.0,0.0,0.0,0.0
+p339_183,Did they give any good advice?, Do they give any good advice?,16.666666666666664,6.666666666666667,33.33333333333333,16.666666666666664
+p339_184,We know that from recent experience., We know that from recent experience.,0.0,0.0,0.0,0.0
+p339_185,"From day one, we were a family."," From day one, we were a family.",0.0,0.0,0.0,0.0
+p339_186,It separates the men from the boys., It separates the man from the boys.,14.285714285714285,2.857142857142857,14.285714285714285,2.857142857142857
+p339_187,This could be wonderful., This could be wonderful.,0.0,0.0,0.0,0.0
+p339_188,"He loved it, and so did they."," He loved it, and so did they.",0.0,0.0,0.0,0.0
+p339_189,The other was a football match., The other was a football match.,0.0,0.0,0.0,0.0
+p339_190,They have the players to do it., They have the players to do it.,0.0,0.0,0.0,0.0
+p339_191,Which is worse?, Which is worse.,33.33333333333333,6.666666666666667,0.0,6.666666666666667
+p339_192,He has made a step forward., He has made a step forward.,0.0,0.0,0.0,0.0
+p339_193,That was very important., That was very important.,0.0,0.0,0.0,0.0
+p339_194,This will have to change., This will have to change.,0.0,0.0,0.0,0.0
+p339_195,"First, the programme was unbalanced."," First, the program was unbalanced.",20.0,5.555555555555555,20.0,5.555555555555555
+p339_196,It was a very strong metaphor., It was a very strong metaphor.,0.0,0.0,0.0,0.0
+p339_197,We are going to have a party., We are going to have a party.,0.0,0.0,0.0,0.0
+p339_198,I have no problem with that., I have no problem with that.,0.0,0.0,0.0,0.0
+p339_199,The Parliament will make its own decisions., The Parliament will make its own decisions.,0.0,0.0,0.0,0.0
+p339_200,I'm very happy that it exploded., I am very happy that it exploded.,33.33333333333333,6.25,50.0,18.75
+p339_201,We're all paying for it., We're all paying for it.,0.0,0.0,0.0,0.0
+p339_202,Lester was like that., Lester was like that.,0.0,0.0,0.0,0.0
+p339_203,"Look at New Labour, it hasn't worked."," Look at new labor, it hasn't worked.",28.57142857142857,8.108108108108109,14.285714285714285,13.513513513513514
+p339_204,That's a matter for them., That's a matter for them.,0.0,0.0,0.0,0.0
+p339_205,We were never told it was already decided., We were never told it was already decided.,0.0,0.0,0.0,0.0
+p339_206,It is part of our heritage., It is part of our heritage.,0.0,0.0,0.0,0.0
+p339_207,It is not a road of life., It is not a road of life.,0.0,0.0,0.0,0.0
+p339_208,It is not as simple as that., It is not as simple as that.,0.0,0.0,0.0,0.0
+p339_209,Everything in the symphony is there., Everything in the symphony is there.,0.0,0.0,0.0,0.0
+p339_210,Find them somebody they deserve., Find them somebody they deserve.,0.0,0.0,0.0,0.0
+p339_211,It's a big challenge for the audience., It's a big challenge for the audience.,0.0,0.0,0.0,0.0
+p339_212,"If that's the case, he will struggle."," If that's the case, he will struggle.",0.0,0.0,0.0,0.0
+p339_213,It has certainly paid off for him., It has certainly paid off for him.,0.0,0.0,0.0,0.0
+p339_214,We're not getting involved., We're not getting involved.,0.0,0.0,0.0,0.0
+p339_215,The lottery has helped., The lottery has helped.,0.0,0.0,0.0,0.0
+p339_216,They know the language., They know the language.,0.0,0.0,0.0,0.0
+p339_217,The acting left a lot to be desired., The acting left a lot to be desired.,0.0,0.0,0.0,0.0
+p339_218,We shall be victorious., We shall be victorious.,0.0,0.0,0.0,0.0
+p339_219,The quality of work is very impressive., The quality of work is very impressive.,0.0,0.0,0.0,0.0
+p339_220,"However, he added there were signs of progress."," However, he added there were signs of progress.",0.0,0.0,0.0,0.0
+p339_221,You cannot do that in a lobby., You cannot do that in a lobby.,0.0,0.0,0.0,0.0
+p339_222,We will all suffer as a result., We will all suffer as a result.,0.0,0.0,0.0,0.0
+p339_223,"Without doubt, they can win the title."," Without doubt, they can win the title.",0.0,0.0,0.0,0.0
+p339_224,What's it about?, What's it about?,0.0,0.0,0.0,0.0
+p339_225,We are looking to the future., We are looking to the future.,0.0,0.0,0.0,0.0
+p339_226,The signs are positive., The signs are positive.,0.0,0.0,0.0,0.0
+p339_227,I called it right., I called it right.,0.0,0.0,0.0,0.0
+p339_228,I see it as my job., I see it as my job.,0.0,0.0,0.0,0.0
+p339_229,I have always believed in myself., I have always believed in myself.,0.0,0.0,0.0,0.0
+p339_230,It has to be put in context., It has to be put in context.,0.0,0.0,0.0,0.0
+p339_231,I think we can get there., I think we can get there.,0.0,0.0,0.0,0.0
+p339_232,I think the Scottish bid is very strong., I think the Scottish beard is very strong.,12.5,7.5,12.5,10.0
+p339_233,"No, they have played well."," No, they have played well.",0.0,0.0,0.0,0.0
+p339_234,The reaction of staff has been fantastic., The reaction of staff has been fantastic.,0.0,0.0,0.0,0.0
+p339_235,The answer is obviously no., The answer is obviously no.,0.0,0.0,0.0,0.0
+p339_236,I'll take it as it comes., I'll take it as it comes.,0.0,0.0,0.0,0.0
+p339_237,I think we're the better side., I think we're the better side.,0.0,0.0,0.0,0.0
+p339_238,We act because we must., We act because we must.,0.0,0.0,0.0,0.0
+p339_239,There are two mysteries., There are two mysteries.,0.0,0.0,0.0,0.0
+p339_240,The teacher would have approved., The teacher would have approved.,0.0,0.0,0.0,0.0
+p339_241,Are you going to win?, Are you going to win?,0.0,0.0,0.0,0.0
+p339_242,We didn't get the supply to the forwards., We didn't get the supply to the forwards.,0.0,0.0,0.0,0.0
+p339_243,I could have been killed on that day., I could have been killed on that day.,0.0,0.0,0.0,0.0
+p339_244,They have to come up with a solution., They have to come up with a solution.,0.0,0.0,0.0,0.0
+p339_245,It is very enjoyable., It is very enjoyable.,0.0,0.0,0.0,0.0
+p339_246,"Now, that would impress the kids.", Now that would impress the kids.,16.666666666666664,3.0303030303030303,0.0,21.21212121212121
+p339_247,Did it work?, Did it work?,0.0,0.0,0.0,0.0
+p339_248,But that is for another day., But that is for another day.,0.0,0.0,0.0,0.0
+p339_249,There is a great carry over value., There was a great carryover value.,42.857142857142854,8.823529411764707,42.857142857142854,32.35294117647059
+p339_250,It was not like that at all., It was not like that at all.,0.0,0.0,0.0,0.0
+p339_251,Police are appealing for witnesses., Please start peeling for witnesses.,60.0,28.57142857142857,80.0,77.14285714285715
+p339_252,I was very surprised., I was very surprised.,0.0,0.0,0.0,0.0
+p339_253,We all knew they could do it., We all knew they could do it.,0.0,0.0,0.0,0.0
+p339_254,It's about taking risks., It's about taking risks.,0.0,0.0,0.0,0.0
+p339_255,Why is this?, Why is this?,0.0,0.0,0.0,0.0
+p339_256,He is due in Israel tomorrow., He is due in Israel tomorrow.,0.0,0.0,0.0,0.0
+p339_257,It was indeed a night to remember., It was indeed a night to remember.,0.0,0.0,0.0,0.0
+p339_258,There are not too many like him., There are not too many like him.,0.0,0.0,0.0,0.0
+p339_259,The memory is there., The memory is there.,0.0,0.0,0.0,0.0
+p339_260,It was an amazing experience., It was an amazing experience.,0.0,0.0,0.0,0.0
+p339_261,Nobody has been put on trial., Nobody has been put on trial.,0.0,0.0,0.0,0.0
+p339_262,He will go on the bench., He will go on the bench.,0.0,0.0,0.0,0.0
+p339_263,The police are hopeless., The police are hopeless.,0.0,0.0,0.0,0.0
+p339_264,There are no plans to change this., There are no plans to change this.,0.0,0.0,0.0,0.0
+p339_265,We are deeply concerned at the announcement., We are deeply concerned at the announcement.,0.0,0.0,0.0,0.0
+p339_266,A spokesman refused to confirm the figure., A spokesman refused to confirm the figure.,0.0,0.0,0.0,0.0
+p339_267,That's the important thing., That's the important thing.,0.0,0.0,0.0,0.0
+p339_268,Should he resign?, Should he resign?,0.0,0.0,0.0,0.0
+p339_269,They have to live with the risk., They have to live with the risk.,0.0,0.0,0.0,0.0
+p339_270,"It is, but that's not the point."," It is, but that's not the point.",0.0,0.0,0.0,0.0
+p339_271,It was my whole life., It was my whole life.,0.0,0.0,0.0,0.0
+p339_272,It was a classic., It was a classic.,0.0,0.0,0.0,0.0
+p339_273,This week is a perfect example., This week is a perfect example.,0.0,0.0,0.0,0.0
+p339_274,"However, it is going to happen."," However, it is going to happen.",0.0,0.0,0.0,0.0
+p339_275,This time it really could happen., This time it really could happen.,0.0,0.0,0.0,0.0
+p339_276,That sort of thing is long gone., That sort of thing is long gone.,0.0,0.0,0.0,0.0
+p339_277,That includes the equipment?, That includes the equipment.,25.0,3.571428571428571,0.0,3.571428571428571
+p339_278,It does nothing for me., It does nothing for me.,0.0,0.0,0.0,0.0
+p339_279,That has been lost., That has been lost.,0.0,0.0,0.0,0.0
+p339_280,But that's another story., But that's another story.,0.0,0.0,0.0,0.0
+p339_281,I think it has worked., I think it has worked.,0.0,0.0,0.0,0.0
+p339_282,No other family members could be contacted., No other family members could be contacted.,0.0,0.0,0.0,0.0
+p339_283,There is nothing to be gained from that., There is nothing to be gained from that.,0.0,0.0,0.0,0.0
+p339_284,We're very proud of him and his achievement., We're very proud of him and his achievement.,0.0,0.0,0.0,0.0
+p339_285,But do not rely on it., But do not rely on it.,0.0,0.0,0.0,0.0
+p339_286,I made a mistake., I made a mistake.,0.0,0.0,0.0,0.0
+p339_287,What do you want., What do you want?,25.0,5.88235294117647,0.0,5.88235294117647
+p339_288,That prevented any recurrence of the problem., That prevented any reoccurrence of the problem.,14.285714285714285,4.444444444444445,14.285714285714285,22.22222222222222
+p339_289,I think we could do well in Europe., I think we could do well in Europe.,0.0,0.0,0.0,0.0
+p339_290,"And yet, there has been no great impact.", And yet there has been no great impact.,12.5,2.5,0.0,2.5
+p339_291,Was that not awful?, Was that not awful?,0.0,0.0,0.0,0.0
+p339_292,Yesterday was a statement of intent., Yesterday was a statement of intent.,0.0,0.0,0.0,0.0
+p339_293,I'm not there yet but it is close.," I'm not there yet, but it is close.",12.5,2.941176470588235,0.0,2.941176470588235
+p339_294,But it will not work again., But it will not work again.,0.0,0.0,0.0,0.0
+p339_295,Even then he wanted to deflect attention., Even then he wanted to deflect attention.,0.0,0.0,0.0,0.0
+p339_296,I have nothing to say on that., I have nothing to say on that.,0.0,0.0,0.0,0.0
+p339_297,The rest is his own., The rest is his own.,0.0,0.0,0.0,0.0
+p339_298,I have no worry about that., I have no worry about that.,0.0,0.0,0.0,0.0
+p339_299,"There has been a fair bit in between, too.", There has been a fair bit in between two.,22.22222222222222,4.761904761904762,11.11111111111111,4.761904761904762
+p339_300,Who was on the panel?, Who was on the panel?,0.0,0.0,0.0,0.0
+p339_301,It turned out to have been three hours., It turned out to have been three hours.,0.0,0.0,0.0,0.0
+p339_302,That is exactly right., That is exactly right.,0.0,0.0,0.0,0.0
+p339_303,That is not good for golf!, That is not good for golf.,16.666666666666664,3.8461538461538463,0.0,3.8461538461538463
+p339_304,He had planned to sell it., He had planned to sell it.,0.0,0.0,0.0,0.0
+p339_305,We know the goals will come., We know the goals will come.,0.0,0.0,0.0,0.0
+p339_306,But it did not last., But it did not last.,0.0,0.0,0.0,0.0
+p339_307,They need to look after themselves., They need to look after themselves.,0.0,0.0,0.0,0.0
+p339_308,"They will be stopped, and they will be punished.", They will be stopped and they will be punished.,11.11111111111111,2.083333333333333,0.0,2.083333333333333
+p339_309,She asked for the appointment with me., She asked for the appointment with me.,0.0,0.0,0.0,0.0
+p339_310,We have nothing to lose., We have nothing to lose.,0.0,0.0,0.0,0.0
+p339_311,The first time it was rejected., The first time it was rejected.,0.0,0.0,0.0,0.0
+p339_312,He did not report it., He did not report it.,0.0,0.0,0.0,0.0
+p339_313,No-one can take it in., No one can take it in.,40.0,4.545454545454546,60.0,50.0
+p339_314,They were following his orders., They were following his orders.,0.0,0.0,0.0,0.0
+p339_315,That is an entirely different discipline., that is an entirely different discipline.,16.666666666666664,2.4390243902439024,0.0,19.51219512195122
+p339_316,It was an insult., It was an insult.,0.0,0.0,0.0,0.0
+p339_317,Yet there is hope., Yet there is hope.,0.0,0.0,0.0,0.0
+p339_318,Referees in Scotland are very weak., Referees in Scotland are very weak.,0.0,0.0,0.0,0.0
+p339_319,It will not be easy for him., It will not be easy for him.,0.0,0.0,0.0,0.0
+p339_320,That was a fairy tale., That was a fairy tale.,0.0,0.0,0.0,0.0
+p339_321,I would love to do that., I would love to do that.,0.0,0.0,0.0,0.0
+p339_322,You'll have to wait and see., You'll have to wait and see.,0.0,0.0,0.0,0.0
+p339_323,It wasn't the issue., It wasn't the issue.,0.0,0.0,0.0,0.0
+p339_324,The number never came., The number never came.,0.0,0.0,0.0,0.0
+p339_325,I really have to go now., I really have to go now.,0.0,0.0,0.0,0.0
+p339_326,We are going to listen to Britain., We are going to listen to Britain.,0.0,0.0,0.0,0.0
+p339_327,There isn't much of a scene in Austria., There isn't much of a scene in Austria.,0.0,0.0,0.0,0.0
+p339_328,Words are not enough., Words are not enough.,0.0,0.0,0.0,0.0
+p339_329,He is in charge on the pitch., He is in charge on the pitch.,0.0,0.0,0.0,0.0
+p339_330,We have expected it., We have expected it.,0.0,0.0,0.0,0.0
+p339_331,Mr Blair was ready for him., Mr. Blair was ready for him.,16.666666666666664,3.7037037037037033,0.0,18.51851851851852
+p339_332,"Well, that was the plan."," Well, that was the plan.",0.0,0.0,0.0,0.0
+p339_333,The problem is fairly serious., The problem is fairly serious.,0.0,0.0,0.0,0.0
+p339_334,No decisions have been taken., No decisions have been taken.,0.0,0.0,0.0,0.0
+p339_335,We won't do that., We won't do that.,0.0,0.0,0.0,0.0
+p339_336,It's the body that counts., It's the body that counts.,0.0,0.0,0.0,0.0
+p339_337,Sprinters are not fit., Sprinters are not fit.,0.0,0.0,0.0,0.0
+p339_338,This has been coming for weeks and weeks., This has been coming for weeks and weeks.,0.0,0.0,0.0,0.0
+p339_339,It's a double whammy., It's a double whammy.,0.0,0.0,0.0,0.0
+p339_340,Charges against the pair were found not proven., Charges against the pair were found not proven.,0.0,0.0,0.0,0.0
+p339_341,Let's not make that mistake again., Let's not make that mistake again.,0.0,0.0,0.0,0.0
+p339_342,That's why he is the prime minister., That's why he is the Prime Minister.,28.57142857142857,5.555555555555555,0.0,5.555555555555555
+p339_343,Only injury has prevented that happening before., Only injury has prevented that happening before.,0.0,0.0,0.0,0.0
+p339_344,They have to be dealt with., They have to be dealt with.,0.0,0.0,0.0,0.0
+p339_345,His manager blamed the referee., His manager blamed the referee.,0.0,0.0,0.0,0.0
+p339_346,So what was he really doing?, So what was he really doing?,0.0,0.0,0.0,0.0
+p339_347,I don't want to go anywhere., I don't want to go anywhere.,0.0,0.0,0.0,0.0
+p339_348,How do we get a bigger stage?, How do we get a bigger stage?,0.0,0.0,0.0,0.0
+p339_349,We're very close to being a good team., We're very close to being a good team.,0.0,0.0,0.0,0.0
+p339_350,I thought their commitment was superb., I thought their commitment was superb.,0.0,0.0,0.0,0.0
+p339_351,That will depend on the outcome of inquiries., That will depend on the outcome of inquiries.,0.0,0.0,0.0,0.0
+p339_352,My mind is the most important thing now., My mind is the most important thing now.,0.0,0.0,0.0,0.0
+p339_353,I had nothing to lose., I had nothing to lose.,0.0,0.0,0.0,0.0
+p339_354,This is a really serious issue., This is a really serious issue.,0.0,0.0,0.0,0.0
+p339_355,I thought to myself., I thought to myself.,0.0,0.0,0.0,0.0
+p339_356,Could it be?, Could it be?,0.0,0.0,0.0,0.0
+p339_357,We're talking to the US., We're talking to the US.,0.0,0.0,0.0,0.0
+p339_358,Thereafter they were again in control., They're after they were again in control.,33.33333333333333,7.894736842105263,50.0,57.89473684210527
+p339_359,It looks as though there is no chance., It looks as though there is no chance.,0.0,0.0,0.0,0.0
+p339_360,You have to keep the focus alive., You have to keep the focus alive.,0.0,0.0,0.0,0.0
+p339_361,It could have been a ceilidh., It could have been a Cayley.,16.666666666666664,20.689655172413794,16.666666666666664,24.137931034482758
+p339_362,I cannot really commit., I cannot really commit.,0.0,0.0,0.0,0.0
+p339_363,There are many questions to be answered., There are many questions to be answered.,0.0,0.0,0.0,0.0
+p339_364,"Sadly, so did a couple of errors."," Sadly, so did a couple of errors.",0.0,0.0,0.0,0.0
+p339_365,This is a new beginning., This is a new beginning.,0.0,0.0,0.0,0.0
+p339_366,"There are moments of honesty, too.", There are moments of honesty too.,16.666666666666664,2.941176470588235,0.0,2.941176470588235
+p339_367,They will fight for everything., They will fight for everything.,0.0,0.0,0.0,0.0
+p339_368,He is doing just that., He's doing just that.,40.0,9.090909090909092,40.0,27.27272727272727
+p339_369,The night is young., The night is young.,0.0,0.0,0.0,0.0
+p339_370,But there are signs of a revival., But there are signs of a revival.,0.0,0.0,0.0,0.0
+p339_371,I thought it was a great game., I thought it was a great game.,0.0,0.0,0.0,0.0
+p339_372,Just get on with it., Just get on with it.,0.0,0.0,0.0,0.0
+p339_373,Germany also said it was unimpressed., Germany also said it was unimpressed.,0.0,0.0,0.0,0.0
+p339_374,It shows the Government is listening., It shows the government is listening.,16.666666666666664,2.7027027027027026,0.0,2.7027027027027026
+p339_375,She's the runner - she makes the decisions., She's the runner. She makes the decisions.,37.5,6.976744186046512,25.0,16.27906976744186
+p339_376,They want it to work., They want it to work.,0.0,0.0,0.0,0.0
+p339_377,This is a completely new experience for me., This is a completely new experience for me.,0.0,0.0,0.0,0.0
+p339_378,They still have a great sense of humour., They still have a great sense of humor.,12.5,2.5,12.5,7.5
+p339_379,It decided to blame the media., It decided to blame the media.,0.0,0.0,0.0,0.0
+p339_380,We have chosen for the patients., We have chosen for the patients.,0.0,0.0,0.0,0.0
+p339_381,He was at the outset of his career., He was at the outset of his career.,0.0,0.0,0.0,0.0
+p339_382,Our position is quite clear., Our position is quite clear.,0.0,0.0,0.0,0.0
+p339_383,It could now be up to the courts., It can now be up to the courts.,12.5,12.121212121212121,12.5,12.121212121212121
+p339_384,We can make a difference., We can make a difference.,0.0,0.0,0.0,0.0
+p339_385,This was not a contest., This was not a contest.,0.0,0.0,0.0,0.0
+p339_386,So far the weather has been very pleasant., So far the weather has been very pleasant.,0.0,0.0,0.0,0.0
+p339_387,Breaching that condition was itself an offence., Breaching that condition was itself an offense.,14.285714285714285,2.127659574468085,14.285714285714285,2.127659574468085
+p339_388,I cannot describe it., I cannot describe it.,0.0,0.0,0.0,0.0
+p339_389,It is not designed to kill., It is not designed to kill.,0.0,0.0,0.0,0.0
+p339_390,He has run a hell of a race., Here's Rona hella Maurice,100.0,46.42857142857143,100.0,100
+p339_391,We'll have to be satisfied with it., We'll have to be satisfied with it.,0.0,0.0,0.0,0.0
+p339_392,Gordon Brown did not inherit a mess., Gordon Brown did not inherit a mess.,0.0,0.0,0.0,0.0
+p339_393,It is good football in Scotland., It is good football in Scotland.,0.0,0.0,0.0,0.0
+p339_394,There is no other option., There is no other option.,0.0,0.0,0.0,0.0
+p339_395,You can feel the tension in the air., You can feel attention in the air.,25.0,13.88888888888889,25.0,44.44444444444444
+p339_396,It is a technique., It is a technique.,0.0,0.0,0.0,0.0
+p339_397,Is it the shape of things to come?, Is it the shape of things to come?,0.0,0.0,0.0,0.0
+p339_398,My body is exhausted., My body is exhausted.,0.0,0.0,0.0,0.0
+p339_399,It is about more than Scotland., It is about more than Scotland.,0.0,0.0,0.0,0.0
+p339_400,It's not just going to be busy., It's not just going to be busy.,0.0,0.0,0.0,0.0
+p339_401,She was on the edge of breaking point., She was on the edge of breaking point.,0.0,0.0,0.0,0.0
+p339_402,The first appeared to be successful., The first appeared to be successful.,0.0,0.0,0.0,0.0
+p339_403,She was so supportive., She was so supportive.,0.0,0.0,0.0,0.0
+p339_404,I'm delighted with our performance., I'm delighted with our performance.,0.0,0.0,0.0,0.0
+p339_405,We await a decision., We await a decision.,0.0,0.0,0.0,0.0
+p339_406,It's a matter of balance., It's a matter of balance.,0.0,0.0,0.0,0.0
+p339_407,It is an investment in our product., It is an investment in our product.,0.0,0.0,0.0,0.0
+p339_408,Everyone can have their opinion., Everyone can have their opinion.,0.0,0.0,0.0,0.0
+p339_409,What would you ask?, What would you ask?,0.0,0.0,0.0,0.0
+p339_410,We have got to deal with it., We have got to deal with it.,0.0,0.0,0.0,0.0
+p339_411,Where do we spend it?, Where do we spend it?,0.0,0.0,0.0,0.0
+p339_412,I don't know how she does it., I don't know how she does it.,0.0,0.0,0.0,0.0
+p339_413,I saw it later in the news., I saw it later in the news.,0.0,0.0,0.0,0.0
+p339_414,Now we must look to the future., Now you must look to the future.,14.285714285714285,9.67741935483871,14.285714285714285,9.67741935483871
+p339_415,I didn't play badly., I didn't play badly.,0.0,0.0,0.0,0.0
+p339_416,We haven't come out of this very well., We haven't come out of this very well.,0.0,0.0,0.0,0.0
+p339_417,They are looking for partners., They are looking for partners.,0.0,0.0,0.0,0.0
+p339_418,I thought they could have made the gesture., I thought they could have made the gesture.,0.0,0.0,0.0,0.0
+p339_419,We should have been rewarded for producing., We should have been rewarded for producing.,0.0,0.0,0.0,0.0
+p339_420,I am also delighted for all the players., I am also delighted for all the players.,0.0,0.0,0.0,0.0
+p339_421,"He did very well, but didn't win."," He did very well, but didn't win.",0.0,0.0,0.0,0.0
+p339_422,There is no shortage of questions., There is no shortage of questions.,0.0,0.0,0.0,0.0
+p339_423,Couldn't see the point., Couldn't see the point.,0.0,0.0,0.0,0.0
+p339_424,"Which, in effect, it is.", which in effect it is.,40.0,12.5,0.0,50.0
