@@ -9,13 +9,13 @@ files.remove(files[0])
 files.remove(files[-1])
 train = []
 # train_text = open("train.txt", "x")
-train_text = open("../train.txt", "w")
+train_text = open("train.txt", "w")
 test = []
 # test_text = open("test.txt", "x")
-test_text = open("../test.txt", "w")
+test_text = open("test.txt", "w")
 val = []
 # val_text = open("val.txt", "x")
-val_text = open("../val.txt", "w")
+val_text = open("val.txt", "w")
 
 for i in range(len(files)):
     if i % 21 == 0 and i != 0:

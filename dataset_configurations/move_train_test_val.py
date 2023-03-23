@@ -14,9 +14,9 @@ if not os.path.exists(end_path_test):
 if not os.path.exists(end_path_val):
     os.makedirs(end_path_val)
 
-train_text = open("../train.txt", "r")
-test_text = open("../test.txt", "r")
-val_text = open("../val.txt", "r")
+train_text = open("train.txt", "r")
+test_text = open("test.txt", "r")
+val_text = open("val.txt", "r")
 lines_train = train_text.readlines()
 lines_test = test_text.readlines()
 lines_val = val_text.readlines()

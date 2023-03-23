@@ -7,8 +7,27 @@ import csv
 from wer_and_cer import calculate_WER, calculate_CER
 from tqdm import tqdm
 
+finetuned_on_user = True
+specific_user = 'p269'
+whisper_model_size = 'base_en'
+checkpoint_nr = 8700
+if not finetuned_on_user:
+    whisper_model_dir = f'{whisper_model_size}-finetuned-VCTK_2/checkpoint-{checkpoint_nr}'
+    # whisper_model_dir = whisper_model_size
+    output_dir = f"./whisper_transcripts/VCTK-original_{whisper_model_size}_highest_100_checkpoint-{checkpoint_nr}"
+else:
+    whisper_model_dir = f'{whisper_model_size}-finetuned-{specific_user}'
+    output_dir = f"./whisper_transcripts/VCTK-{specific_user}_{whisper_model_size}"
+
+if not os.path.exists(output_dir):
+    os.makedirs(output_dir)
+
+
 if torch.cuda.is_available():
-    path_ds = '../datasets/VCTK/'
+    if not finetuned_on_user:
+        path_ds = '../datasets/VCTK/'
+    else:
+        path_ds = '../FreeVC/output/freevc_269/'
 else:
     path_ds = '../../datasets/VCTK-Corpus-0.92/'
 # VCTK -> test/train/val
@@ -18,43 +37,41 @@ else:
 if not os.path.exists(path_ds):
     print("Wrong path! to dataset")
     exit()
-train_test_val_folders = os.listdir(path_ds)
 dataset_full = DatasetDict()
-for i in train_test_val_folders:  # i = test/train/val
-    if i == 'test' or i == 'train' or i == 'val':
-        speaker_folders = os.listdir(f'{path_ds}{i}')
-    else:
-        print(f"{i} Not train/test/val")
-        continue
-    print(f"Transcripts started for {i} folder")
-    for j in tqdm(speaker_folders):  # j = pxxx
-        if j == 'p315':
-            print("Text files for p315 do not exist, continue")
-            continue
-        if not os.path.exists(f'{path_ds}{i}/{j}'):
-            print("Wrong audio path!")
-            exit()
-        # audio_files = os.listdir(f'{path_ds}{i}/{j}')
-        dataset_x = load_dataset(f'{path_ds}{i}/{j}')
-        dataset_x = dataset_x.cast_column("audio", Audio(sampling_rate=16000))
-        if not dataset_full.get("train"):
-            dataset_full["train"] = dataset_x["train"]
+
+if not finetuned_on_user:
+    train_test_val_folders = os.listdir(path_ds)
+
+    for i in train_test_val_folders:  # i = test/train/val
+        if i == 'test' or i == 'train' or i == 'val':
+            speaker_folders = os.listdir(f'{path_ds}{i}')
         else:
-            dataset_full["train"] = concatenate_datasets([dataset_full["train"], dataset_x["train"]])
+            print(f"{i} Not train/test/val")
+            continue
+        print(f"Transcripts started for {i} folder")
+        for j in tqdm(speaker_folders):  # j = pxxx
+            if j == 'p315':
+                print("Text files for p315 do not exist, continue")
+                continue
+            if not os.path.exists(f'{path_ds}{i}/{j}'):
+                print("Wrong audio path!")
+                exit()
+            # audio_files = os.listdir(f'{path_ds}{i}/{j}')
+            dataset_x = load_dataset(f'{path_ds}{i}/{j}')
+            dataset_x = dataset_x.cast_column("audio", Audio(sampling_rate=16000))
+            if not dataset_full.get("train"):
+                dataset_full["train"] = dataset_x["train"]
+            else:
+                dataset_full["train"] = concatenate_datasets([dataset_full["train"], dataset_x["train"]])
 
-        # dataset_full = concatenate_datasets([dataset_full, dataset_x])
+            # dataset_full = concatenate_datasets([dataset_full, dataset_x])
+else:
+    dataset_x = load_dataset(f'{path_ds}')
+    dataset_x = dataset_x.cast_column("audio", Audio(sampling_rate=16000))
+    dataset_full["train"] = dataset_x["train"]
 
-# vctk_ds_p226 = load_dataset('../../datasets/VCTK-Corpus-0.92/train/p226')
-# vctk_ds_p226 = vctk_ds_p226.cast_column("audio", Audio(sampling_rate=16000))
-#'../datasets/VCTK-Corpus-0.92/train/p226'
-# path = './results'
-# if not os.path.exists(path):
-#     os.makedirs(path)
-    # print("Wrong path! to results")
-    # exit()
 
-whisper_model_size = 'base'
-path_to_model = f"./pretrained_models/whisper-{whisper_model_size}"
+path_to_model = f"./pretrained_models/whisper-{whisper_model_dir}"
 if not os.path.exists(path_to_model):
     print("Wrong path to model!")
     exit()
@@ -91,9 +108,8 @@ cer = load("cer")
 # a=0
 # print(result["reference"])
 # print(result["prediction"])
-output_dir = f"./whisper_transcripts/VCTK-original_{whisper_model_size}_no-fine-tuning"
-if not os.path.exists(output_dir):
-    os.makedirs(output_dir)
+
+
 transcripts = open(f"{output_dir}/ALL_speakers.csv", 'w', newline='')
 writer_all = csv.writer(transcripts)
 header_all = ['name', 'wer_ev', 'cer_ev', 'wer_my', 'cer_my']
@@ -117,9 +133,20 @@ for i in tqdm(result):
         speaker_total_results[speaker] = {'wer_i': 0, 'cer_i': 0, 'wer_i_my': 0, 'cer_i_my': 0, 'files_count': 0}
 
     wer_i = 100 * wer.compute(references=[i["transcription"]], predictions=[i["prediction"]])
+    if wer_i > 100:
+        wer_i = 100
     cer_i = 100 * cer.compute(references=[i["transcription"]], predictions=[i["prediction"]])
+    if cer_i > 100:
+        cer_i = 100
+
     wer_i_my = 100 * calculate_WER(true_ts=i["transcription"], generated_ts=i["prediction"])
     cer_i_my = 100 * calculate_CER(true_ts=i["transcription"], generated_ts=i["prediction"])
+    if wer_i_my >= 101 or cer_i_my >= 101:
+        print("CER or WER >= 101 on ", i['speaker_file'])
+        if wer_i_my > 100:
+            wer_i_my = 100
+        if cer_i_my > 100:
+            cer_i_my = 100
     speaker_total_results[speaker]['wer_i'] += wer_i
     speaker_total_results[speaker]['cer_i'] += cer_i
     speaker_total_results[speaker]['wer_i_my'] += wer_i_my

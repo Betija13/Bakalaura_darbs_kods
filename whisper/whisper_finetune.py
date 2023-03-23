@@ -4,6 +4,7 @@ import logging
 import random
 import string
 import os
+import time
 
 import torch
 
@@ -58,21 +59,29 @@ if __name__ == "__main__":
         path_ds = '../datasets/VCTK/' #GPU
     else:
         path_ds = '../../datasets/VCTK-Corpus-0.92/' #LOCAL
-    tune_for_specific_user = False
-    specific_user = 'p269'
-    whisper_model_size = 'base'
+    tune_for_specific_user = True
+    specific_user = 'p318'
+    whisper_model_size = 'base_en'
     if not os.path.exists(path_ds):
         print("Wrong path!")
         exit()
     train_test_val_folders = os.listdir(path_ds)
+    #TODO
+    current_time = time.localtime()
+    formatted_time = "{day:02d}_{month:02d}_{hour:02d}_{minute:02d}".format(
+        day=current_time.tm_mday,
+        month=current_time.tm_mon,
+        hour=current_time.tm_hour,
+        minute=current_time.tm_min,
+    )
 
     parser = argparse.ArgumentParser(description=f"Finetune whisper {whisper_model_size} model for VCTK dataset.")
     parser.add_argument("--dataset_name", type=str, default='audiofolder')
     parser.add_argument("--model_size", type=str, default=f"{whisper_model_size}")
     if tune_for_specific_user:
-        parser.add_argument("--output_dir", type=str, default=f'./results/whisper-{whisper_model_size}-finetune-{specific_user}')
+        parser.add_argument("--output_dir", type=str, default=f'./results/whisper-{whisper_model_size}-finetune-{specific_user}-{formatted_time}')
     else:
-        parser.add_argument("--output_dir", type=str, default=f'./results/whisper-{whisper_model_size}-finetune')
+        parser.add_argument("--output_dir", type=str, default=f'./results/whisper-{whisper_model_size}-finetune-{formatted_time}')
 
     for i in train_test_val_folders:  # i = test/train/val
         if i == 'test' or i == 'train' or i == 'val':
@@ -341,8 +350,8 @@ if __name__ == "__main__":
         per_device_eval_batch_size=1,
         predict_with_generate=True,
         generation_max_length=225,
-        save_steps=50,
-        eval_steps=50,
+        save_steps=100,
+        eval_steps=100,
         logging_steps=25,
         report_to=["tensorboard"],
         greater_is_better=False

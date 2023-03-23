@@ -8,8 +8,8 @@ import os
 val_data = '../val.txt'
 train_data = '../train.txt'
 test_data = '../test.txt'
-end_path_train = '../datasets/DR-VCTK/train'
-end_path_test = '../datasets/DR-VCTK/test'
+end_path_train = '../datasets/VCTK/train'
+end_path_test = '../datasets/VCTK/test'
 end_path_val = '../datasets/VCTK/val'
 # path_to_splits = '../../datasets/VCTK-Corpus-0.92/'
 # end_path_train = f'{path_to_splits}train'
@@ -49,19 +49,37 @@ for i in lines_val:
         train_fold = j.rstrip('\n')
         # print(f"going through {train_fold} to {val_fold}")
         files_in_train = os.listdir(f'{end_path_train}/{train_fold}')
-        for k in range(len(files_in_train)):
+        files_in_train_mic1 = []
+        files_in_train_mic2 = []
+        for i in files_in_train:
+            if i.split('.')[0].split('_')[-1] == 'mic1':
+                files_in_train_mic1.append(i)
+            elif i.split('.')[0].split('_')[-1] == 'mic2':
+                files_in_train_mic2.append(i)
+            else:
+                print("No mic1 or mic2 file: ", i)
+        for k in range(len(files_in_train_mic1)):
             if k < len(files_in_val):
                 l= k
             else:
                 l = k - len(files_in_val)
             if k > 2*len(files_in_val):
                 l = k - 2*len(files_in_val)
-            convert_file.write(f'{files_in_train[k].split(".", 1)[0]}_to_{val_fold}|{end_path_train}/{train_fold}/{files_in_train[k]}|{end_path_val}/{val_fold}/{files_in_val[l]}\n')
+            convert_file.write(f'{files_in_train_mic1[k].split(".", 1)[0]}_to_{val_fold}|{end_path_train}/{train_fold}/{files_in_train_mic1[k]}|{end_path_val}/{val_fold}/{files_in_val[l]}\n')
     for j in lines_test:
         test_fold = j.rstrip('\n')
         # print(f"going through {test_fold} to {val_fold}")
         files_in_test = os.listdir(f'{end_path_test}/{test_fold}')
-        for k in range(len(files_in_test)):
+        files_in_test_mic1 = []
+        files_in_test_mic2 = []
+        for i in files_in_test:
+            if i.split('.')[0].split('_')[-1] == 'mic1':
+                files_in_test_mic1.append(i)
+            elif i.split('.')[0].split('_')[-1] == 'mic2':
+                files_in_test_mic2.append(i)
+            else:
+                print("No mic1 or mic2 file: ", i)
+        for k in range(len(files_in_test_mic1)):
             if k < len(files_in_val):
                 l = k
             else:
@@ -69,7 +87,7 @@ for i in lines_val:
             if k > 2 * len(files_in_val):
                 l = k - 2 * len(files_in_val)
             convert_file.write(
-                f'{files_in_test[k].split(".", 1)[0]}_to_{val_fold}|{end_path_test}/{test_fold}/{files_in_test[k]}|{end_path_val}/{val_fold}/{files_in_val[l]}\n')
+                f'{files_in_test_mic1[k].split(".", 1)[0]}_to_{val_fold}|{end_path_test}/{test_fold}/{files_in_test_mic1[k]}|{end_path_val}/{val_fold}/{files_in_val[l]}\n')
     print(f"done with file: convert_to_{val_fold}.txt")
 
     # iet cauri test un train

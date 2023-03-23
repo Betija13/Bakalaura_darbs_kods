@@ -5,16 +5,16 @@ from datasets import load_dataset, DatasetDict, Audio, concatenate_datasets, Dat
 from transformers import WhisperFeatureExtractor, WhisperTokenizer, WhisperProcessor, WhisperForConditionalGeneration, \
     Seq2SeqTrainingArguments, Seq2SeqTrainer
 
-whisper_model_size = 'base'
-feature_extractor = WhisperFeatureExtractor.from_pretrained(f"../pretrained_models/whisper-{whisper_model_size}",
-                                                            local_files_only=True)
-tokenizer = WhisperTokenizer.from_pretrained(f"../pretrained_models/whisper-{whisper_model_size}",
-                                             local_files_only=True, language="English", task="transcribe")
-processor = WhisperProcessor.from_pretrained(f"../pretrained_models/whisper-{whisper_model_size}",
-                                             local_files_only=True, language="English", task="transcribe")
-model = WhisperForConditionalGeneration.from_pretrained(f"../pretrained_models/whisper-{whisper_model_size}",
-                                                        local_files_only=True)
-# model = whisper.load_model("medium")
+# whisper_model_size = 'base'
+# feature_extractor = WhisperFeatureExtractor.from_pretrained(f"../pretrained_models/whisper-{whisper_model_size}",
+#                                                             local_files_only=True)
+# tokenizer = WhisperTokenizer.from_pretrained(f"../pretrained_models/whisper-{whisper_model_size}",
+#                                              local_files_only=True, language="English", task="transcribe")
+# processor = WhisperProcessor.from_pretrained(f"../pretrained_models/whisper-{whisper_model_size}",
+#                                              local_files_only=True, language="English", task="transcribe")
+# model = WhisperForConditionalGeneration.from_pretrained(f"../pretrained_models/whisper-{whisper_model_size}",
+#                                                         local_files_only=True)
+model = whisper.load_model("medium")
 # path = './audio_examples'
 # path = './datasets/VCTK/'
 path = '../../datasets/VCTK-Corpus-0.92/'
