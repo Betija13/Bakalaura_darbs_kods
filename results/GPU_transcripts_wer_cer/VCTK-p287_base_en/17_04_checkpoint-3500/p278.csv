@@ -1,0 +1,410 @@
+name,transcription,prediction,ev_wer,ev_cer,my_wer,my_cer
+p278_002,Ask her to bring these things with her from the store., ask her to bring these things with her from the store,18.181818181818183,3.7037037037037033,0.0,12.962962962962962
+p278_003,"Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob."," 6b of fresh snow peas, 5 thick slabs of blue cheese and maybe a snack for a brother ball",30.0,21.568627450980394,25.0,20.588235294117645
+p278_004,We also need a small plastic snake and a big toy frog for the kids., We also need a small plastic snake and a big toy frog for the kids,6.666666666666667,1.4925373134328357,0.0,1.4925373134328357
+p278_005,"She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.", she can scoop these things into three red bags and we'll go meet her Wednesday at the train station,25.0,5.825242718446602,10.0,14.563106796116504
+p278_006,"When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow."," When the sunlight strikes raindrops in the air, they act as a prism to form a rainbow",11.76470588235294,4.597701149425287,5.88235294117647,4.597701149425287
+p278_007,The rainbow is a division of white light into many beautiful colors., The rainbow is a division of white light into many beautiful colors,8.333333333333332,1.4705882352941175,0.0,1.4705882352941175
+p278_008,"These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon."," these take the shape of a long round arch with its path high above, and its two ends apparently beyond the horizon",13.636363636363635,2.586206896551724,0.0,10.344827586206897
+p278_009,"There is , according to legend, a boiling pot of gold at one end."," There is , according to legend, a boiling pot of gold at one end",7.142857142857142,1.5384615384615385,0.0,1.5384615384615385
+p278_010,"People look, but no one ever finds it."," people look, but no one ever finds it",25.0,5.263157894736842,0.0,34.21052631578947
+p278_011,"When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow."," When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow",3.8461538461538463,0.8,0.0,0.8
+p278_012,Throughout the centuries people have explained the rainbow in various ways., throughout the centuries people have explained the rainbow in various ways,18.181818181818183,2.666666666666667,0.0,28.000000000000004
+p278_013,Some have accepted it as a miracle without physical explanation.," Some have accepted it, as a miracle without physical explanation",20.0,3.125,0.0,3.125
+p278_014,To the Hebrews it was a token that there would be no more universal floods., to the hibruz it was a token that there would be no more universal floods,20.0,9.333333333333334,6.666666666666667,13.333333333333334
+p278_015,The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain., the greeks used to mention that it was a sign from the gons to hotel war or heavy rain,31.57894736842105,15.555555555555555,15.789473684210526,31.11111111111111
+p278_016,The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.," The Norse one considered the rainbow as a bridge, over which the gods pass from Earth to their home in the sky",28.57142857142857,7.207207207207207,14.285714285714285,9.90990990990991
+p278_017,Others have tried to explain the phenomenon physically., others have tried to explain the phenomenon physically,25.0,3.6363636363636362,0.0,23.636363636363637
+p278_018,Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain., arisottal thought that the rainbow was caused by reflection of the son's rays by the rain,18.75,7.777777777777778,18.75,22.22222222222222
+p278_019,"Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.", Since then physicists have found that it is not reflection but refraction by the raindrops which causes the rainbows,10.526315789473683,1.694915254237288,0.0,1.694915254237288
+p278_020,Many complicated ideas about the rainbow have been formed., Many complicated ideas about the rainbow have been formed,11.11111111111111,1.7241379310344827,0.0,1.7241379310344827
+p278_021,"The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases."," The difference in the rainbow depends considerably upon the size of the drops, and the width of the coloured band increases as the size of the drops increases",7.142857142857142,1.2658227848101267,3.571428571428571,3.1645569620253164
+p278_022,The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.," The actual primary rainbow observed, is said to be the effect of super and position of a number of bows",27.77777777777778,6.9306930693069315,38.88888888888889,38.613861386138616
+p278_023,"If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow."," If the red of the second bow falls upon the green of the first, the result is to give a bow within a normally wide yellow band, since red and green light when mixed form yellow",11.11111111111111,2.247191011235955,8.333333333333332,7.865168539325842
+p278_024,"This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue."," This is a very common type of boat, one showing mainly red and yellow, with little or no green or blue",9.523809523809524,2.941176470588235,4.761904761904762,3.9215686274509802
+p278_025,A shortlist is to be drawn up next month., a short list has to be drawn up next month,55.55555555555556,12.195121951219512,33.33333333333333,56.09756097560976
+p278_026,These decisions are not simple., these decisions are not simple,40.0,6.451612903225806,0.0,35.483870967741936
+p278_027,Life was like a timetable., life was like a time table,60.0,11.538461538461538,40.0,73.07692307692307
+p278_028,She is employed on short-term contracts., she is employed on short term contracts,66.66666666666666,7.5,33.33333333333333,75.0
+p278_029,They have now been banned from Celtic Park for life., They have now been banned from Celtic Park for life,10.0,1.9230769230769231,0.0,1.9230769230769231
+p278_030,The director will be present., The director will be present,20.0,3.4482758620689653,0.0,3.4482758620689653
+p278_031,Clark was desperate to return to the House of Commons., Clark was desperate to return to the House of Commons,10.0,1.8518518518518516,0.0,1.8518518518518516
+p278_032,"If we cannot succeed in this endeavour, then so be it."," if we cannot succeed in this endeavor, then so be it",27.27272727272727,5.555555555555555,9.090909090909092,14.814814814814813
+p278_033,It carried a double message., it carried a double message,40.0,7.142857142857142,0.0,17.857142857142858
+p278_034,"Of course, on Tuesday, United were beaten despite this."," of course on Tuesday, united were been despite this",55.55555555555556,10.909090909090908,11.11111111111111,38.18181818181819
+p278_035,You must always attempt to raise the bar., you must always attempt to raise the bar,25.0,4.878048780487805,0.0,17.073170731707318
+p278_036,Several investments have already been made., Several investments have already been made,16.666666666666664,2.3255813953488373,0.0,2.3255813953488373
+p278_037,It was a hell of a way to lose., it was hell of a way to lose,33.33333333333333,12.903225806451612,22.22222222222222,41.935483870967744
+p278_038,Among them are many criminals., Among them are mainly criminals,40.0,10.0,20.0,16.666666666666664
+p278_039,The whole thing was filmed in Hollywood., The whole thing was filmed in Hollywood,14.285714285714285,2.5,0.0,2.5
+p278_040,This will get their attention., This will get their attention.,0.0,0.0,0.0,0.0
+p278_041,Rebuilding public transport was never going to happen overnight., rebuilding public transport was never going to happen overnight,22.22222222222222,3.125,0.0,32.8125
+p278_042,"Well, the climate has changed."," well, the climate has changed",40.0,6.666666666666667,0.0,36.666666666666664
+p278_043,Must be prepared to use it., must be prepared to use it,33.33333333333333,7.4074074074074066,0.0,33.33333333333333
+p278_044,He looks like an Afghan., he looks like an afghan,40.0,12.5,0.0,25.0
+p278_045,Why do you want to come to Edinburgh?, why do you want to come to edmoor?,25.0,21.62162162162162,12.5,40.54054054054054
+p278_046,"How are you, sir?"," how are you, sara?",50.0,17.647058823529413,25.0,52.94117647058824
+p278_047,"So is that it, then?", so is that it then?,40.0,10.0,0.0,25.0
+p278_048,Do I have a favourite?, do i have a favourite?,40.0,9.090909090909092,0.0,22.727272727272727
+p278_049,He will need that machine., he will need that machine,40.0,7.6923076923076925,0.0,19.230769230769234
+p278_050,I have learned from him., i have learned from him,40.0,8.333333333333332,0.0,12.5
+p278_051,I had trouble with the producers., i had trouble with the producers,33.33333333333333,6.0606060606060606,0.0,9.090909090909092
+p278_052,He also presented You Bet!, He also presented Ubet,40.0,23.076923076923077,40.0,30.76923076923077
+p278_053,People come to see the Highlands., people come to see the highlands,33.33333333333333,9.090909090909092,0.0,42.42424242424242
+p278_054,They are to ensure information reaches as many members as possible., They are to ensure information reaches as many members as possible,9.090909090909092,1.4925373134328357,0.0,1.4925373134328357
+p278_055,We have not given up hope., We have not grown up hope,33.33333333333333,15.384615384615385,16.666666666666664,15.384615384615385
+p278_056,She said she was really sorry., she said she was really sorry,33.33333333333333,6.666666666666667,0.0,50.0
+p278_057,None has ever been found., None has ever been found,20.0,4.0,0.0,4.0
+p278_058,Let's hope that it does., let's hope that it does,40.0,8.333333333333332,0.0,45.83333333333333
+p278_059,The baby was later transferred to a hospital in Glasgow., The baby was later transferred to our hospital in Glasgow,20.0,7.142857142857142,10.0,7.142857142857142
+p278_060,It was exactly four months away., it was exactly four months away,33.33333333333333,6.25,0.0,15.625
+p278_061,Charles Kennedy had an effective outing., Charles Kennedy had an effective outing,16.666666666666664,2.5,0.0,2.5
+p278_062,Only water is currently allowed., only water is currently allowed,40.0,6.25,0.0,28.125
+p278_063,I'm looking to the future., i'm looking to the future,40.0,7.6923076923076925,0.0,26.923076923076923
+p278_064,But it has been an amazing experience., but it has been an amazing experience,28.57142857142857,5.263157894736842,0.0,18.421052631578945
+p278_065,The judge was really nice., the judge was really nice,40.0,7.6923076923076925,0.0,26.923076923076923
+p278_066,"The talks were announced yesterday by Brian Wilson, the foreign office minister."," The talks were announced yesterday by Breo Nelson, the Foreign office minister",33.33333333333333,8.75,16.666666666666664,8.75
+p278_067,The fans would love it., the fans would love it,40.0,8.695652173913043,0.0,30.434782608695656
+p278_068,Halifax has also been mentioned as a likely predator., i like the fact that this is also been mentioned as a likely predator,88.88888888888889,39.62264150943396,88.88888888888889,60.37735849056604
+p278_069,The party is up for it., the party is up for it,33.33333333333333,8.695652173913043,0.0,30.434782608695656
+p278_070,Even the one she loved., even the one she loved,40.0,8.695652173913043,0.0,39.130434782608695
+p278_071,It was a unanimous decision., It was a unanimous decision,20.0,3.571428571428571,0.0,3.571428571428571
+p278_072,It's all going to clear the debt., its all going to clear the debt,28.57142857142857,9.090909090909092,28.57142857142857,24.242424242424242
+p278_073,This view was echoed by the other Scottish analyst., This view is echoed by the other Scottish analyst,22.22222222222222,5.88235294117647,11.11111111111111,7.8431372549019605
+p278_074,"Last week, he was taken into hospital.", last week he was taken into hospital,42.857142857142854,7.894736842105263,0.0,36.84210526315789
+p278_075,Petrol prices were widely blamed., petrol prices were widely blamed,40.0,6.0606060606060606,0.0,39.39393939393939
+p278_076,"By then, he was walking on water.", By then he was walking on water,28.57142857142857,6.0606060606060606,0.0,6.0606060606060606
+p278_077,We have to offer value for money., We have to offer a value for money,28.57142857142857,9.090909090909092,14.285714285714285,6.0606060606060606
+p278_078,It's so hard to shift., It's so hard to shift,20.0,4.545454545454546,0.0,4.545454545454546
+p278_079,Mr Smith declined to comment., vista smith declined to comment,60.0,24.137931034482758,40.0,41.37931034482759
+p278_080,Western countries condemned the conduct of the poll., western countries condemned the conduct of the palm,25.0,7.6923076923076925,12.5,32.69230769230769
+p278_081,That was a great performance by the team., That was a great performance by the team,12.5,2.4390243902439024,0.0,2.4390243902439024
+p278_082,He said a change in legislation was long overdue., he said a change in legislation was lonmou ridu,33.33333333333333,16.3265306122449,22.22222222222222,30.612244897959183
+p278_083,"The allegations were still under investigation, he added."," The allegations were still under investigation, he added",12.5,1.7543859649122806,0.0,1.7543859649122806
+p278_084,Everyone had to play the game., everyone had to play the game,33.33333333333333,6.666666666666667,0.0,56.666666666666664
+p278_085,It was worth a photograph., it was worth a photograph,40.0,7.6923076923076925,0.0,19.230769230769234
+p278_086,It was clear on Thursday., it was clear on Thursday,40.0,8.0,0.0,20.0
+p278_087,It's not a holiday time for football players., its not a holiday time for football players,25.0,6.666666666666667,25.0,17.77777777777778
+p278_088,But they must believe in themselves., but they were believing in cells,66.66666666666666,44.44444444444444,50.0,63.888888888888886
+p278_089,We haven't finished the complaints procedure., We haven't finished the complaints procedure,16.666666666666664,2.2222222222222223,0.0,2.2222222222222223
+p278_090,"However, the intensive care unit at the Southern General Hospital was full.", however the intensive care units at the southern general hospital was fallen,50.0,12.0,16.666666666666664,29.333333333333332
+p278_091,Thomson is expected to manage the business., Tonson is expected to manage the business,28.57142857142857,6.976744186046512,28.57142857142857,32.55813953488372
+p278_092,The palace said the Queen was deeply saddened., the parlour said the queen was deeply suddened,50.0,17.391304347826086,25.0,41.30434782608695
+p278_093,It was some time before she found out he was safe., it was some time before she found out he was safe,18.181818181818183,4.0,0.0,10.0
+p278_094,In the end we made too many errors.," In the end, we made too many errors",25.0,5.714285714285714,0.0,5.714285714285714
+p278_095,"That time is not now, however."," That time is not now, however.",0.0,0.0,0.0,0.0
+p278_096,We created so many chances., We created so many chances,20.0,3.7037037037037033,0.0,3.7037037037037033
+p278_097,Our house was very small., our house was very small,40.0,8.0,0.0,28.000000000000004
+p278_098,Why do it otherwise?, why do it otherwise?,25.0,5.0,0.0,30.0
+p278_099,"What kind of man does that, Mr Dick?"," What kind of man does that, Mr. Dick?",12.5,2.7777777777777777,0.0,2.7777777777777777
+p278_100,"So, did she meet him?"," So, did she meet him?",0.0,0.0,0.0,0.0
+p278_101,So what is the campaign about?," So, what is the campaign about?",16.666666666666664,3.3333333333333335,0.0,16.666666666666664
+p278_102,And does it?, and does it?,33.33333333333333,8.333333333333332,0.0,50.0
+p278_103,Are you from the rugby?, are you from the roby?,40.0,13.043478260869565,20.0,47.82608695652174
+p278_104,Had I heard?, had i heard?,66.66666666666666,16.666666666666664,0.0,58.333333333333336
+p278_105,Athletics is on a roll in the country., athletics is on a roll in the country,25.0,5.263157894736842,0.0,50.0
+p278_106,We needed financial backing to get it off the ground., We needed financial backing to get it off the ground,10.0,1.8867924528301887,0.0,1.8867924528301887
+p278_107,I was just appalled at the way they behaved., i was just appalled at the way they behaved,22.22222222222222,4.545454545454546,0.0,6.8181818181818175
+p278_108,We have got a race., We have got a race,20.0,5.263157894736842,0.0,5.263157894736842
+p278_109,The music industry hasn't changed at all., the music industry hasn't changed at all,28.57142857142857,4.878048780487805,0.0,17.073170731707318
+p278_110,Scotland will be an integral part of Abbey National., szutlum will be an integral part of arynational,33.33333333333333,25.0,44.44444444444444,67.3076923076923
+p278_111,He was jailed for a year., he was jailed for a year,33.33333333333333,8.0,0.0,20.0
+p278_112,They almost achieved a draw., They almost achieved a draw,20.0,3.571428571428571,0.0,3.571428571428571
+p278_113,Football is a passion for many., Football is a passion for many,16.666666666666664,3.225806451612903,0.0,3.225806451612903
+p278_114,I didn't think so either., i didn't think so either,40.0,8.0,0.0,12.0
+p278_115,It was located on the remote control., it was located on the remote control,28.57142857142857,5.405405405405405,0.0,13.513513513513514
+p278_116,Maybe this battle has been., Maybe this battle has been,20.0,3.7037037037037033,0.0,3.7037037037037033
+p278_117,That might help a bit., That might help a bit,20.0,4.545454545454546,0.0,4.545454545454546
+p278_118,This is a milestone in the modernisation of the Scottish prosecution service., This is a milestone in the modernization of the Scottish prosecution service,16.666666666666664,2.5974025974025974,8.333333333333332,2.5974025974025974
+p278_119,Ferguson will be a millionaire., Ferguson will be a millionaire,20.0,3.225806451612903,0.0,3.225806451612903
+p278_120,You can spend money on housing., You can spend money on housing,16.666666666666664,3.225806451612903,0.0,3.225806451612903
+p278_121,The hearing was due to continue today., The hearing was due to continue today,14.285714285714285,2.631578947368421,0.0,2.631578947368421
+p278_122,There will be no shortage of quality applicants., There will be no shortage of quality applicants,12.5,2.083333333333333,0.0,2.083333333333333
+p278_123,"However, the problem is the timing."," however, the problem is the timing",33.33333333333333,5.714285714285714,0.0,48.57142857142857
+p278_124,This is a frightening development., This is a frightening development,20.0,2.941176470588235,0.0,2.941176470588235
+p278_125,Which can happen any time., which can happen at any time,60.0,19.230769230769234,20.0,50.0
+p278_126,It was not a finale he would want to remember., it was nasa finale he would want to remember,40.0,10.869565217391305,20.0,19.565217391304348
+p278_127,We had another last Tuesday., We had another last Tuesday,20.0,3.571428571428571,0.0,3.571428571428571
+p278_128,I didn't feel under any pressure., i didn't feel under any pressure,33.33333333333333,6.0606060606060606,0.0,9.090909090909092
+p278_129,This should begin in October., This should begin in October,20.0,3.4482758620689653,0.0,3.4482758620689653
+p278_130,That first victory made a huge difference to my career., that first victory made a huge difference to my career,20.0,3.6363636363636362,0.0,16.363636363636363
+p278_131,The abuse of elderly people was appalling., the abuse of elderly people was a pollen,42.857142857142854,14.285714285714285,28.57142857142857,50.0
+p278_132,Customers for the panels include the National Trust for Scotland., customers for the panels include the national trust for scotland,40.0,7.6923076923076925,0.0,33.84615384615385
+p278_133,That would open the gates of hell., that would open the gates of hell,28.57142857142857,5.88235294117647,0.0,26.47058823529412
+p278_134,You've got to be vigilant., you've got to be bitulent,40.0,23.076923076923077,20.0,65.38461538461539
+p278_135,But he admitted he could not speak for the new owner., but he admitted he could not speak for the new owner,18.181818181818183,3.7735849056603774,0.0,13.20754716981132
+p278_136,The tickets will be on sale today at the ticket office., The tickets will be on sale today at the ticket office,9.090909090909092,1.8181818181818181,0.0,1.8181818181818181
+p278_137,Before it was an ordeal., before it was an ordeal,40.0,8.333333333333332,0.0,54.166666666666664
+p278_138,It will affect their work., it will affect their work,40.0,7.6923076923076925,0.0,19.230769230769234
+p278_139,I love the spectacle of cinema., i love the sport to call a cinema,100.0,38.70967741935484,83.33333333333334,74.19354838709677
+p278_140,They could use a boost., they could use a boost,40.0,8.695652173913043,0.0,39.130434782608695
+p278_141,"Frankly, it was worth the booking.", frankly it was worth the booking,33.33333333333333,8.823529411764707,0.0,47.05882352941176
+p278_142,Anyone can do the sums., anyone can do the sum,40.0,13.043478260869565,20.0,60.86956521739131
+p278_143,Others are not so sure., others are not so sure,40.0,8.695652173913043,0.0,56.52173913043478
+p278_144,I have always loved the countryside., i have always loved the countryside,33.33333333333333,5.555555555555555,0.0,8.333333333333332
+p278_145,It was his job to check., it was his job to check,33.33333333333333,8.333333333333332,0.0,20.833333333333336
+p278_146,I haven't made any definite decisions., i haven't made any definite decisions,33.33333333333333,5.263157894736842,0.0,7.894736842105263
+p278_147,There's always the next century., There's always a next century,40.0,12.5,20.0,12.5
+p278_148,There's only one team in Ayrshire., There's only one team in Aishein,16.666666666666664,17.647058823529413,16.666666666666664,20.588235294117645
+p278_149,"Crucially, though, United were still alive."," Cooshily, though, ye added were still alive",66.66666666666666,30.23255813953488,66.66666666666666,72.09302325581395
+p278_150,I prefer the clarity of the existing system., i prefer the clarity of the existing system,25.0,4.545454545454546,0.0,6.8181818181818175
+p278_151,Nothing was meant by it., nothing was meant by it,40.0,8.333333333333332,0.0,62.5
+p278_152,The point is raised again that evening at the Assembly Rooms.," The point has raised again, that evening at the assembly rooms",36.36363636363637,9.836065573770492,9.090909090909092,11.475409836065573
+p278_153,Its loss was an economic catastrophe for the whole of Moray., its last was an economic catastrophe for the whole of mare,27.27272727272727,13.333333333333334,18.181818181818183,25.0
+p278_154,It was by the numbers., it was by the numbers,40.0,9.090909090909092,0.0,22.727272727272727
+p278_155,I knew he was good., i knew he was good,40.0,10.526315789473683,0.0,15.789473684210526
+p278_156,We will turn the corner., We will turn the corner,20.0,4.166666666666666,0.0,4.166666666666666
+p278_157,Donald Dewar was passionate about his politics., Donald Deuwara was passionate about his politics,28.57142857142857,6.382978723404255,14.285714285714285,12.76595744680851
+p278_158,These days are long gone., these days are long gone,40.0,8.0,0.0,44.0
+p278_159,Worry can have that effect on some citizens., worry can have that effect on some citizens,25.0,4.545454545454546,0.0,25.0
+p278_160,The strong performance is expected to continue., the strong performance is expected to continue,28.57142857142857,4.25531914893617,0.0,14.893617021276595
+p278_161,The Internet is no substitute for customer service., The internet is no substitute for customer service,25.0,3.9215686274509802,0.0,3.9215686274509802
+p278_162,So was the first half., so is the first half,60.0,18.181818181818183,20.0,36.36363636363637
+p278_163,It's never great to finish second., its an ever great to finish second,66.66666666666666,14.705882352941178,66.66666666666666,47.05882352941176
+p278_164,You have to ask whether they have really thought through these issues., You have to ask whether they have really thought through these issues,8.333333333333332,1.4285714285714286,0.0,1.4285714285714286
+p278_165,We have a budget in March., We have a budget in March,16.666666666666664,3.8461538461538463,0.0,3.8461538461538463
+p278_166,He is keen to stay in public service., he is keen to stay in public service,25.0,5.405405405405405,0.0,13.513513513513514
+p278_167,As far as we were concerned the deal with Kennedy was dead., as far as we were concerned the deal with Kennedy was dead,16.666666666666664,3.389830508474576,0.0,18.64406779661017
+p278_168,US is the only country to vote against resolution., us is the only country to vote against resolution,22.22222222222222,6.0,0.0,10.0
+p278_169,Further growth will be funded from cash flow., further growth will be funded from cash flow,25.0,4.444444444444445,0.0,33.33333333333333
+p278_170,On my day I can beat anyone., on my day i can beat anyone,42.857142857142854,10.714285714285714,0.0,21.428571428571427
+p278_171,We've made a couple of albums., We've made a couple of albums,16.666666666666664,3.3333333333333335,0.0,3.3333333333333335
+p278_172,My life has been destroyed., My life has been destroyed,20.0,3.7037037037037033,0.0,3.7037037037037033
+p278_173,What happened in that game?, What happened in that game?,0.0,0.0,0.0,0.0
+p278_174,Are you going to win?, are you going to win?,20.0,4.761904761904762,0.0,28.57142857142857
+p278_175,Was it the wife?, Was it the wife?,0.0,0.0,0.0,0.0
+p278_176,Why change it?, why change it?,33.33333333333333,7.142857142857142,0.0,42.857142857142854
+p278_177,What do we want to do that for?, What do we want to do that for?,0.0,0.0,0.0,0.0
+p278_178,I always felt they played for me., i always felt they played for me,28.57142857142857,6.0606060606060606,0.0,9.090909090909092
+p278_179,His team management was protective., his team management was protective,40.0,5.714285714285714,0.0,20.0
+p278_180,You have got to get people from all sorts of different directions., You've got to get people from all sorts of different directions,25.0,6.0606060606060606,16.666666666666664,15.151515151515152
+p278_181,"First and foremost, the game is entirely different.", first and foremost of the game is entirely different,50.0,9.803921568627452,12.5,27.450980392156865
+p278_182,The outcome is now in our own hands., The outcome is now in our own hands,12.5,2.7777777777777777,0.0,2.7777777777777777
+p278_183,"I've been in two finals, and I've got a medal.", i've been in two finals and i've got a medal,40.0,8.695652173913043,0.0,23.91304347826087
+p278_184,It is vital to clarify their role., it is vital to clarify their role,28.57142857142857,5.88235294117647,0.0,14.705882352941178
+p278_185,It appears that it was just a genuine mistake., it appears that it was just a genuine mistake,22.22222222222222,4.3478260869565215,0.0,10.869565217391305
+p278_186,They are determined to make a meaningful contribution., They are determined to make a meaning for contribution,37.5,7.4074074074074066,25.0,50.0
+p278_187,Says the Duke of York., sasa juk of york,80.0,45.45454545454545,60.0,54.54545454545454
+p278_188,That's not fair to the supporters., that's not fair to the supporters,33.33333333333333,5.88235294117647,0.0,38.23529411764706
+p278_189,They need to look after themselves., They need to look after them cells,33.33333333333333,14.285714285714285,33.33333333333333,34.285714285714285
+p278_190,I've always been like that., i have always been like that,60.0,18.51851851851852,60.0,37.03703703703704
+p278_191,It could be done by experts and lawyers., it could be done by experts and lawyers,25.0,5.0,0.0,12.5
+p278_192,They were seriously after him., they were seriously after him,40.0,6.666666666666667,0.0,30.0
+p278_193,But there's an upturn in the sector., but there's an up turn in the sector,57.14285714285714,8.333333333333332,28.57142857142857,41.66666666666667
+p278_194,It shows the strength of the roots., it shows the strength of the roots,28.57142857142857,5.714285714285714,0.0,14.285714285714285
+p278_195,It was only later that the condition was diagnosed., It was only later that the condition was diagnosed,11.11111111111111,1.9607843137254901,0.0,1.9607843137254901
+p278_196,It caused a lot of upset., it caused a lot of upset,33.33333333333333,8.0,0.0,20.0
+p278_197,"However, this idea is never developed.", however this idea is never developed,33.33333333333333,7.894736842105263,0.0,42.10526315789473
+p278_198,I had come back from London., i had come back from london,33.33333333333333,10.714285714285714,0.0,14.285714285714285
+p278_199,Last night was a key episode., last night was a key episode,33.33333333333333,6.896551724137931,0.0,31.03448275862069
+p278_200,They are still very quiet., they are still very quiet,40.0,7.6923076923076925,0.0,34.61538461538461
+p278_201,I wanted to put myself on the line., i wanted to put myself on the line,25.0,5.714285714285714,0.0,8.571428571428571
+p278_202,I came home by ambulance., i came home by ambulance,40.0,8.0,0.0,12.0
+p278_203,We've had an enjoyable adventure., We've had an enjoyable adventure,20.0,3.0303030303030303,0.0,3.0303030303030303
+p278_204,It comes from reflection or thinking., it comes from reflection or thinking,33.33333333333333,5.405405405405405,0.0,13.513513513513514
+p278_205,"Indeed, he sees a shortage of skilled workers on the horizon."," indeed, he sees a shortage of skilled workers on the horizon",18.181818181818183,3.278688524590164,0.0,24.59016393442623
+p278_206,We could soon be in that same position!, We could seem to be in that same position,37.5,17.94871794871795,25.0,15.384615384615385
+p278_207,It was a horrible thing to happen., it was a horrible thing to happen,28.57142857142857,5.88235294117647,0.0,14.705882352941178
+p278_208,The Shadow Chancellor is away on holiday., the shadow chancellor is away on holiday,57.14285714285714,9.75609756097561,0.0,65.85365853658537
+p278_209,I am very realistic about these things., i'm very realistic about these things,42.857142857142854,10.256410256410255,28.57142857142857,12.82051282051282
+p278_210,I won't make an official complaint., i won't make an official complaint,33.33333333333333,5.714285714285714,0.0,8.571428571428571
+p278_211,He is a good signing for Rangers., he is a good signing for rangers,28.57142857142857,9.090909090909092,0.0,18.181818181818183
+p278_212,Bombing is the easy option., barmi is an easy option,60.0,37.03703703703704,60.0,59.25925925925925
+p278_213,It seemed a moving and fitting tribute., it seemed a moving and fitting trip you,42.857142857142854,15.384615384615385,28.57142857142857,30.76923076923077
+p278_214,The move follows a review of the Singapore, The move follows a review of the Singapore,0.0,0.0,0.0,0.0
+p278_215,They make a selective perception process., they make a selective perception process,33.33333333333333,4.878048780487805,0.0,21.951219512195124
+p278_216,Flanker Gordon Simpson may also feature in that match., find could go on simpson might also feature in that march,77.77777777777779,37.03703703703704,88.88888888888889,70.37037037037037
+p278_217,This gives a financial incentive to switch., This gives a final incentive to switch,28.57142857142857,11.627906976744185,14.285714285714285,13.953488372093023
+p278_218,They have known the hard times., they have known the hard times,33.33333333333333,6.451612903225806,0.0,29.03225806451613
+p278_219,It was important to win the singles., it was important to win the singles,28.57142857142857,5.555555555555555,0.0,13.88888888888889
+p278_220,The only problem was the greens., the only problem was the greens,33.33333333333333,6.25,0.0,21.875
+p278_221,January is a bad time of year., January is a bad time of year,14.285714285714285,3.3333333333333335,0.0,3.3333333333333335
+p278_222,His injury was completely random., his injury was completely random,40.0,6.0606060606060606,0.0,21.21212121212121
+p278_223,Today we must not repeat that mistake., Today we must not repeat that mistake,14.285714285714285,2.631578947368421,0.0,2.631578947368421
+p278_224,Twaddle is a case in point., Twaddle is a case in point,16.666666666666664,3.7037037037037033,0.0,3.7037037037037033
+p278_225,I'm just a regular person., i am just a regular person,60.0,15.384615384615385,60.0,26.923076923076923
+p278_226,My daughter is an adult., why daughter is an adult?,40.0,12.5,40.0,25.0
+p278_227,Does the name matter?, does the name matter?,25.0,4.761904761904762,0.0,38.095238095238095
+p278_228,how do you get it back?, how do you get it back?,0.0,0.0,0.0,0.0
+p278_229,What are you not good at?, what are you not good at?,16.666666666666664,4.0,0.0,32.0
+p278_230,"I think, therefore I am?"," i think, therefore i am?",40.0,8.333333333333332,0.0,12.5
+p278_231,Who was she?, who was she?,33.33333333333333,8.333333333333332,0.0,50.0
+p278_232,It was finally agreed on Saturday., it was finally agreed on saturday,33.33333333333333,8.823529411764707,0.0,17.647058823529413
+p278_233,IT S all change at Kilmarnock., its all change had come onock,83.33333333333334,43.333333333333336,83.33333333333334,80.0
+p278_234,Friends of the Earth Scotland last night welcomed the announcement., Friends of the earth Scotland last night welcome the announcement,30.0,4.477611940298507,10.0,4.477611940298507
+p278_235,The City welcomed the brighter outlook., the city welcomed the brighter outlook,50.0,7.6923076923076925,0.0,30.76923076923077
+p278_236,Women were mostly notable by their absence., women were mostly notable by the absence,42.857142857142854,9.30232558139535,14.285714285714285,30.23255813953488
+p278_237,The plan was yesterday endorsed by employers and unions., The plan was yesterday endorsed by employers and unions,11.11111111111111,1.7857142857142856,0.0,1.7857142857142856
+p278_238,I have spoken to the skipper., i have spoken to the skipper,33.33333333333333,6.896551724137931,0.0,10.344827586206897
+p278_239,"So far, the problems have occurred in the US.", So far the problems have occurred in the us,22.22222222222222,8.88888888888889,0.0,8.88888888888889
+p278_240,The statement contained no surprises., The statement contain no surprises,40.0,8.108108108108109,20.0,8.108108108108109
+p278_241,A small number of new jobs will also be created., a small number of new jobs will also be created,20.0,4.166666666666666,0.0,6.25
+p278_242,This would include the GM food industry., This would include the GM food industry,14.285714285714285,2.5,0.0,2.5
+p278_243,My wife and family are the support system., My wife and family are the support system,12.5,2.380952380952381,0.0,2.380952380952381
+p278_244,"They included certain insurance policies, and his share of the house.", They included certain insurance policies and his share of vows,27.27272727272727,13.043478260869565,18.181818181818183,15.942028985507244
+p278_245,He does not much like the Liberal Democrats., he does not much like the liberal democrats,37.5,9.090909090909092,0.0,15.909090909090908
+p278_246,I need a publishing deal!, i need a publishing deal,40.0,8.0,0.0,12.0
+p278_247,It had so much to do with output., it had so much to do with output,25.0,6.0606060606060606,0.0,15.151515151515152
+p278_248,A fatal accident inquiry will be held into the death.," a fatoxin inquiry, will be held to into the death",60.0,28.30188679245283,30.0,32.075471698113205
+p278_249,The amount of alcohol as a whole was very high., the amount of alcohol as a whole was very high,20.0,4.25531914893617,0.0,14.893617021276595
+p278_250,That will be a decision for BBC Scotland., That will be a decision for BBC Scotland,12.5,2.4390243902439024,0.0,2.4390243902439024
+p278_251,There were no reports of casualties., There were no reports of casualties,16.666666666666664,2.7777777777777777,0.0,2.7777777777777777
+p278_252,"After his birthday, Scott was very upset."," after his birthday, scott was very upset",42.857142857142854,7.317073170731707,0.0,29.268292682926827
+p278_253,"It might be sad, but it's a fact."," it might be sound, put into fact",75.0,33.33333333333333,50.0,66.66666666666666
+p278_254,He also launched a new strategy for the agency., He also launched a new strategy for the agency,11.11111111111111,2.127659574468085,0.0,2.127659574468085
+p278_255,They made such decisions in London., They made such decisions in london,16.666666666666664,5.714285714285714,0.0,5.714285714285714
+p278_256,It seems a waste of talents., it seems a waste of talents,33.33333333333333,7.142857142857142,0.0,17.857142857142858
+p278_257,I was just getting over the time difference., i was just getting over the time difference,25.0,4.545454545454546,0.0,6.8181818181818175
+p278_258,Defensive stocks attracted some interest., defensive stops attracted some interest,60.0,9.75609756097561,20.0,56.09756097560976
+p278_259,You can feel at home in China., you can feel at home in china,28.57142857142857,10.0,0.0,26.666666666666668
+p278_260,We have no information on Iraq., We have no information on a wreck,33.33333333333333,19.35483870967742,33.33333333333333,32.25806451612903
+p278_261,Persuaded to change his mind., the sweated to change his mind,60.0,24.137931034482758,60.0,68.96551724137932
+p278_262,Paterson can afford to be generous., Patterson can afford to be generous,33.33333333333333,5.714285714285714,33.33333333333333,51.42857142857142
+p278_263,Reaction from Scottish business leaders was mixed., reaction from Scottish business leaders was mixed,28.57142857142857,4.0,0.0,34.0
+p278_264,I'm pleased with some aspects of the performance., i am pleased with some aspects of the performance,37.5,8.16326530612245,37.5,14.285714285714285
+p278_265,No production contract is yet in sight., no production control is yet in sight,42.857142857142854,12.82051282051282,14.285714285714285,20.51282051282051
+p278_266,Tourism is a vital industry for Scotland., tourism is a vital industry for scotland,28.57142857142857,7.317073170731707,0.0,39.02439024390244
+p278_267,Messages have to be reinforced., messages have to be reinforced,40.0,6.451612903225806,0.0,54.83870967741935
+p278_268,It is not enough to be first division champions., it is not enough to be first division champions,22.22222222222222,4.166666666666666,0.0,10.416666666666668
+p278_269,We accept the new rules., We accept the new rules,20.0,4.166666666666666,0.0,4.166666666666666
+p278_270,And they were being paid?, and they were being paid,40.0,8.0,0.0,28.000000000000004
+p278_271,was everything done to save people?, Was everything done to save people?,16.666666666666664,2.857142857142857,0.0,17.142857142857142
+p278_272,What was the matter for concern?, while was the matter for concern?,16.666666666666664,12.5,33.33333333333333,28.125
+p278_273,Do I think about them often?, do i think about them often?,33.33333333333333,7.142857142857142,0.0,17.857142857142858
+p278_274,Is it in the right place?, is this in the right place?,33.33333333333333,16.0,16.666666666666664,28.000000000000004
+p278_275,Blair is very positive at European Councils., Blair is very positive at European councils,14.285714285714285,4.545454545454546,0.0,4.545454545454546
+p278_276,They are interior designers and architects., There are interior designers and architects,33.33333333333333,6.976744186046512,33.33333333333333,23.25581395348837
+p278_277,He was released after treatment., he was released at a treatment,80.0,15.625,40.0,84.375
+p278_278,I rejected the idea of a separate residence., i reject to the idea of a separate resonance,50.0,18.181818181818183,37.5,47.72727272727273
+p278_279,I'd never run for them., i never run for them,40.0,17.391304347826086,40.0,21.73913043478261
+p278_280,It does not work that way in Scottish football., it does not work that way in scottish football,33.33333333333333,6.382978723404255,0.0,12.76595744680851
+p278_281,Their prescription is largely about changing attitudes., their prescription is largely about changing attitudes,28.57142857142857,3.6363636363636362,0.0,20.0
+p278_282,These figures are truly terrible., these figures are truly terrible,40.0,6.0606060606060606,0.0,33.33333333333333
+p278_283,The merger was welcomed by Tony Blair., the merger is welcomed by tony bure,57.14285714285714,23.684210526315788,28.57142857142857,42.10526315789473
+p278_284,The stage was set for a showdown., the stage reset for a showdown,57.14285714285714,18.181818181818183,28.57142857142857,42.42424242424242
+p278_285,This could put pressure on UK inflation., This could put pressure on UK inflation,14.285714285714285,2.5,0.0,2.5
+p278_286,I'd like to report a murder., i'd like to report a murder,33.33333333333333,7.142857142857142,0.0,25.0
+p278_287,They want to shut the Scottish Office., They want to shut the Scottish office,14.285714285714285,5.263157894736842,0.0,5.263157894736842
+p278_288,It all started with a visiting rugby club., until started with a visiting rupee clone,50.0,26.190476190476193,50.0,30.952380952380953
+p278_289,Those overseas offices were great., Those overseas officers were great,40.0,5.88235294117647,20.0,8.823529411764707
+p278_290,I understand the security issue., i understand the security issue,40.0,6.25,0.0,9.375
+p278_291,Truth is the child of time., truth is a child of time,50.0,18.51851851851852,16.666666666666664,51.85185185185185
+p278_292,It has become a way of life., this has become a way of life,28.57142857142857,17.857142857142858,28.57142857142857,25.0
+p278_293,Similar measures are expected in England and Wales., Sima measures are expected in England and myles,25.0,11.76470588235294,37.5,27.450980392156865
+p278_294,Both companies have had a rough ride in recent years., Both companies have had a refried in recent years,30.0,15.09433962264151,20.0,20.754716981132077
+p278_295,It was never a free kick., it was never a free kick,33.33333333333333,8.0,0.0,20.0
+p278_296,They failed to reach agreement yesterday., They failed to reach agreement yesterday,16.666666666666664,2.4390243902439024,0.0,2.4390243902439024
+p278_297,This is a great opportunity for us., This is a great opportunity for us,14.285714285714285,2.857142857142857,0.0,2.857142857142857
+p278_298,Scottish rugby has given me everything., Scottish rope is going to be everything,100.0,35.8974358974359,83.33333333333334,87.17948717948718
+p278_299,You have to expect this type of thing., ye how to expect this type of thing,37.5,18.421052631578945,37.5,28.947368421052634
+p278_300,"However, he will have his work cut out defending his title."," however, your have his work cut out defending his title",36.36363636363637,15.254237288135593,18.181818181818183,33.89830508474576
+p278_301,So the Government will be damaged., so the goon will be damaged,50.0,29.411764705882355,16.666666666666664,41.17647058823529
+p278_302,It was not hard to feel some sympathy for Baxter yesterday., and was not hard to fuel some sympathy for backseat yesterday,36.36363636363637,18.64406779661017,36.36363636363637,23.728813559322035
+p278_303,Gerhard Schroeder was the victor., jerid srodo was the victor,60.0,33.33333333333333,60.0,66.66666666666666
+p278_304,John was there already in spirit., John was there already in spirit?,16.666666666666664,3.0303030303030303,0.0,3.0303030303030303
+p278_305,There was a final revealing detail about the broadcast., There was a final revealing detail about the broadcast,11.11111111111111,1.8181818181818181,0.0,1.8181818181818181
+p278_306,I intended to look for another club on loan., i intended to look for another club on loan,22.22222222222222,4.545454545454546,0.0,6.8181818181818175
+p278_307,We feel very comfortable in this international environment., We feel very comfortable in this international environment,12.5,1.694915254237288,0.0,1.694915254237288
+p278_308,He will address the nation this evening., he will address the nation this evening,28.57142857142857,5.0,0.0,12.5
+p278_309,They have shown a great desire and attitude., They've shown a great desire and attitude,37.5,9.090909090909092,25.0,27.27272727272727
+p278_310,I couldn't really work outside Edinburgh., i couldn't really work outside anibor,33.33333333333333,19.51219512195122,16.666666666666664,26.82926829268293
+p278_311,Maloney is an engaging talent., Maloney is an engaging talent,20.0,3.3333333333333335,0.0,3.3333333333333335
+p278_312,It's not covered by the insurance., its like covered by the insurance,50.0,20.588235294117645,50.0,35.294117647058826
+p278_313,Mr Campbell received a phone call., Mr. Campbell received a phone call,33.33333333333333,5.88235294117647,0.0,17.647058823529413
+p278_314,I will never change our policy on paying appearance money., i will never change our policy on paying appearance money,20.0,3.4482758620689653,0.0,5.172413793103448
+p278_315,You have to see it like this., you have to see it like this,28.57142857142857,6.896551724137931,0.0,24.137931034482758
+p278_316,You have asked for action., you have asked for action,40.0,7.6923076923076925,0.0,26.923076923076923
+p278_317,Holland won by five wickets., Holland won by five wickets,20.0,3.571428571428571,0.0,3.571428571428571
+p278_318,Clydesdale Bank declined to comment., Clyde Stell Bank declined to comment,60.0,16.666666666666664,60.0,58.333333333333336
+p278_319,The answer was in space., The answer was in space,20.0,4.166666666666666,0.0,4.166666666666666
+p278_320,It's unlikely to be renewed., its a lightly to be renewed,80.0,28.57142857142857,80.0,75.0
+p278_321,I first met him last summer., i first met him last summer,33.33333333333333,7.142857142857142,0.0,10.714285714285714
+p278_322,The songs are just so good., the songs are just so good,33.33333333333333,7.4074074074074066,0.0,25.925925925925924
+p278_323,The casting is as perfect., the casting is as perfect,40.0,7.6923076923076925,0.0,26.923076923076923
+p278_324,Saturday's match was fairly straightforward., Saturday's match was fairly straightforward,20.0,2.272727272727273,0.0,2.272727272727273
+p278_325,Our message to the Monetary Policy Committee is clear., are managed to the monetary policy committee is clear,66.66666666666666,20.37037037037037,33.33333333333333,38.88888888888889
+p278_326,McNaughton was not so sure., McNorton was not so sure,40.0,18.51851851851852,40.0,70.37037037037037
+p278_327,The dealer is on notice., The dealer is on notice,20.0,4.166666666666666,0.0,4.166666666666666
+p278_328,We believe the world has too many refugees already., We believe the world has too many refugees already,11.11111111111111,1.9607843137254901,0.0,1.9607843137254901
+p278_329,She had gone to the Catholic school., she had gone to the catholic school,42.857142857142854,8.333333333333332,0.0,22.22222222222222
+p278_330,The party lasted all night., the party lusted all night,60.0,11.11111111111111,20.0,29.629629629629626
+p278_331,The whole matter is somewhat in the air., the whole matter is somewhat in the air,25.0,5.0,0.0,17.5
+p278_332,Much the same thing happens in a young company., much the same thing happens in a young company,22.22222222222222,4.25531914893617,0.0,19.148936170212767
+p278_333,They come to enjoy themselves., they come to enjoy themselves,40.0,6.666666666666667,0.0,30.0
+p278_334,That meant the search was unlawful., that meant the search was unlawful,33.33333333333333,5.714285714285714,0.0,25.71428571428571
+p278_335,And he goes with it., and he goes with it,40.0,10.0,0.0,35.0
+p278_336,That reflected a tumble in banking shares across the board., That reflected a tunnel in banking shares across the board,20.0,8.47457627118644,10.0,8.47457627118644
+p278_337,We are on a four-year mission., We are on a four-year mission,16.666666666666664,3.3333333333333335,0.0,3.3333333333333335
+p278_338,The letters are going out today., The letters are going out today,16.666666666666664,3.125,0.0,3.125
+p278_339,We want to play at the worlds., We want to play at the world's,14.285714285714285,6.666666666666667,14.285714285714285,6.666666666666667
+p278_340,Do you think we are a top nation?, do you think we're a top nation?,37.5,9.090909090909092,25.0,30.303030303030305
+p278_341,How independent is that?, how independent is that?,25.0,4.166666666666666,0.0,25.0
+p278_342,What form did that take?, what form did that take?,20.0,4.166666666666666,0.0,33.33333333333333
+p278_343,What are they for?, what are they for?,25.0,5.555555555555555,0.0,44.44444444444444
+p278_344,Is there a waiting list?, is there a waiting list?,20.0,4.166666666666666,0.0,16.666666666666664
+p278_345,"The advisers had some discussions, but no conclusion was reached."," The advisers had some discussions, but no conclusion was reached",10.0,1.5384615384615385,0.0,1.5384615384615385
+p278_346,The Premier League has been a huge success., the premier league has been a huge success,50.0,9.30232558139535,0.0,51.162790697674424
+p278_347,And he is immensely loyal., and he is immensely loyal,40.0,7.6923076923076925,0.0,26.923076923076923
+p278_348,"It looks as though the issue, with The Scotsman is too sensitive."," it logs the zone the issue, with the Scotsman is too sensitive",50.0,20.0,25.0,40.0
+p278_349,Other musicians were found in retirement., other musicians were found in retirement,33.33333333333333,4.878048780487805,0.0,26.82926829268293
+p278_350,That is a trend which will be encouraged.," Thus is a trend, which will be encouraged",37.5,9.75609756097561,25.0,24.390243902439025
+p278_351,And it was this one., and it was this one,40.0,10.0,0.0,35.0
+p278_352,Scottish Newcastle will report its interim figures tomorrow.," Scottish Newcastle were a pot, its interim figures tomorrow",50.0,13.333333333333334,37.5,23.333333333333332
+p278_353,My view has now completely changed., Mardi is now completely changed,66.66666666666666,22.857142857142858,50.0,31.428571428571427
+p278_354,Shoppers were attracted by the heavy discounting on selected items., shoppers were attracted by the heavy discounting on selected items,20.0,2.9850746268656714,0.0,25.37313432835821
+p278_355,He was at school in Devon., he was at school in Devon,33.33333333333333,7.6923076923076925,0.0,19.230769230769234
+p278_356,Finally came the moment of truth., finally came the moment of truth,33.33333333333333,6.0606060606060606,0.0,45.45454545454545
+p278_357,This might seem like an outrageous assertion., This might seem like an outrageous assertion,14.285714285714285,2.2222222222222223,0.0,2.2222222222222223
+p278_358,A crucial moment has arrived., a crucial moment has arrived,40.0,6.896551724137931,0.0,10.344827586206897
+p278_359,"In general terms, the proposals are very much in line with expectations."," and general terms, the proposals are very much in line with expectations",16.666666666666664,4.166666666666666,16.666666666666664,8.333333333333332
+p278_360,Three years ago he would have been., three years ago he would have been,28.57142857142857,5.714285714285714,0.0,31.428571428571427
+p278_361,But we welcome this document., but we welcome this document,40.0,6.896551724137931,0.0,24.137931034482758
+p278_362,It intends to do so on Wednesday., it intends to do so on Wednesday,28.57142857142857,6.0606060606060606,0.0,15.151515151515152
+p278_363,His views are hardly surprising., his views are hardly surprising,40.0,6.25,0.0,21.875
+p278_364,He expected a conclusion by next Thursday., he expected a conclusion by next Thursday,28.57142857142857,4.761904761904762,0.0,11.904761904761903
+p278_365,The Allies intend to maintain the average., the allies intend to maintain the average,42.857142857142854,7.142857142857142,0.0,38.095238095238095
+p278_366,We put our bid in last night., We put our bid in last night,14.285714285714285,3.4482758620689653,0.0,3.4482758620689653
+p278_367,Their condition is described as satisfactory., their condition is described as satisfactory,33.33333333333333,4.444444444444445,0.0,24.444444444444443
+p278_368,We're still the only ones in the High Street., We sell the only ones in a high street,55.55555555555556,24.444444444444443,44.44444444444444,44.44444444444444
+p278_369,I was delighted to accept., i was delighted to accept,40.0,7.6923076923076925,0.0,11.538461538461538
+p278_370,"A few days after making the video, I went to the inquiry."," a few days after making a video, i went to the inquiry",33.33333333333333,10.526315789473683,8.333333333333332,12.280701754385964
+p278_371,"Despite his senior position, he did not know in advance."," despite his senior position, he did not know an advance",30.0,5.357142857142857,10.0,28.57142857142857
+p278_372,The selection will be made by the International Olympic Committee next year., The selection will be made by the International Olympic Committee next year,8.333333333333332,1.3157894736842104,0.0,1.3157894736842104
+p278_373,"From our point of view, the player is free to leave."," from our own point of view, the player is free to leave",27.27272727272727,11.538461538461538,9.090909090909092,23.076923076923077
+p278_374,Lord Macdonald has worked on this deal for three months., Lord Mcdonald has worked on the steel for three months,40.0,12.5,30.0,28.57142857142857
+p278_375,He must have seen the movie., he must have seen the movie,33.33333333333333,7.142857142857142,0.0,17.857142857142858
+p278_376,The parents are not alone in their concerns about the proposals., The parents are not alone and their concerns about the proposals,18.181818181818183,4.6875,9.090909090909092,4.6875
+p278_377,The major championships will always have a special place., The major championships will always have a special place,11.11111111111111,1.7543859649122806,0.0,1.7543859649122806
+p278_378,That is a break with tradition., that is a break with tradition,33.33333333333333,6.451612903225806,0.0,29.03225806451613
+p278_379,This decision is a farce., This decision is a farce,20.0,4.0,0.0,4.0
+p278_380,Is it worth it?, is it worth it?,25.0,6.666666666666667,0.0,26.666666666666668
+p278_381,Does it matter?, does it matter?,33.33333333333333,6.666666666666667,0.0,53.333333333333336
+p278_382,How do you take them away?, how do you take them away?,16.666666666666664,3.8461538461538463,0.0,23.076923076923077
+p278_383,"However, there is an issue, isn't there?"," however them, there is an issue, isn't there?",28.57142857142857,15.0,14.285714285714285,50.0
+p278_384,"After the match, do you?"," After the match, do you?",0.0,0.0,0.0,0.0
+p278_385,Scrutiny by the European Parliament is limited., scutiny by european parlum and his limited,85.71428571428571,29.78723404255319,85.71428571428571,93.61702127659575
+p278_386,In due course the deal was done., and due course the deal is done,42.857142857142854,15.625,42.857142857142854,28.125
+p278_387,This remains the party's policy., This remains a party's policy,40.0,12.5,20.0,12.5
+p278_388,They will fight for everything., they will fight for everything,40.0,6.451612903225806,0.0,29.03225806451613
+p278_389,Tomorrow will be a different game entirely., tomorrow will be a different yearm entirely,42.857142857142854,13.953488372093023,14.285714285714285,51.162790697674424
+p278_390,The team hadn't been picked., The team hadn't been picked,20.0,3.571428571428571,0.0,3.571428571428571
+p278_391,One-third of the places are already taken., one third of the places are already taken,42.857142857142854,7.142857142857142,42.857142857142854,42.857142857142854
+p278_392,I always knew she was funny., i always knew she was funny,33.33333333333333,7.142857142857142,0.0,10.714285714285714
+p278_393,The marshall at the turn was great., The marshal at the turn was great,28.57142857142857,5.714285714285714,14.285714285714285,5.714285714285714
+p278_394,There isn't the seriousness of other businesses., There isn't a seriousness about the businesses,57.14285714285714,20.833333333333336,42.857142857142854,29.166666666666668
+p278_395,They have not got anyone., They have not got anyone,20.0,4.0,0.0,4.0
+p278_396,The law would appear to be on our side., The law would appear to be on our side,11.11111111111111,2.564102564102564,0.0,2.564102564102564
+p278_397,It has happened for generations., in his happen for generations,80.0,18.75,80.0,59.375
+p278_398,The hope is that the outcome will be equally successful., the hope is that the outcome will be equally successful,20.0,3.571428571428571,0.0,12.5
+p278_399,The Government yesterday announced its proposed new pension account., The government yesterday announced its proposed new pension account,22.22222222222222,2.941176470588235,0.0,2.941176470588235
+p278_400,There's still no-one like him., the still no one like him,80.0,23.333333333333332,80.0,60.0
+p278_401,They know it'll be fantastic., they loris will be fantastic,80.0,34.48275862068966,40.0,62.06896551724138
+p278_402,This big issue is whether it can be enforced., This big issue is whether it can be enforced,11.11111111111111,2.2222222222222223,0.0,2.2222222222222223
+p278_403,Clark is back on top form., Clark is back on top form,16.666666666666664,3.8461538461538463,0.0,3.8461538461538463
+p278_404,I had a fortunate war., i had a fortune at war,80.0,22.727272727272727,40.0,54.54545454545454
+p278_405,We must improve our relations with government., We must improve our relations with government,14.285714285714285,2.1739130434782608,0.0,2.1739130434782608
+p278_406,The Cabinet is split over the issue., the cabinet is split over the issue,42.857142857142854,8.333333333333332,0.0,50.0
+p278_407,Ms McNeill was killed on impact., miss would kneel was killed on impact,66.66666666666666,43.75,66.66666666666666,62.5
+p278_408,That is the ultimate revenge., That is the ultimate revenge,20.0,3.4482758620689653,0.0,3.4482758620689653
+p278_409,The next few months will tell., the next human school town,83.33333333333334,53.333333333333336,66.66666666666666,86.66666666666667
+p278_410,A ceasefire is a ceasefire is a ceasefire., a ceasefire is a ceasefire is a ceasefire,25.0,4.761904761904762,0.0,7.142857142857142

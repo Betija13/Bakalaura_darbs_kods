@@ -65,6 +65,11 @@ for i in lines_val:
                 l = k - len(files_in_val)
             if k > 2*len(files_in_val):
                 l = k - 2*len(files_in_val)
+            if files_in_val[l] == 'metadata.csv':
+                if l < len(files_in_val) - 5:
+                    l += 1
+                else:
+                    l = 1
             convert_file.write(f'{files_in_train_mic1[k].split(".", 1)[0]}_to_{val_fold}|{end_path_train}/{train_fold}/{files_in_train_mic1[k]}|{end_path_val}/{val_fold}/{files_in_val[l]}\n')
     for j in lines_test:
         test_fold = j.rstrip('\n')
@@ -86,6 +91,11 @@ for i in lines_val:
                 l = k - len(files_in_val)
             if k > 2 * len(files_in_val):
                 l = k - 2 * len(files_in_val)
+            if files_in_val[l] == 'metadata.csv':
+                if l < len(files_in_val) - 5:
+                    l += 1
+                else:
+                    l = 1
             convert_file.write(
                 f'{files_in_test_mic1[k].split(".", 1)[0]}_to_{val_fold}|{end_path_test}/{test_fold}/{files_in_test_mic1[k]}|{end_path_val}/{val_fold}/{files_in_val[l]}\n')
     print(f"done with file: convert_to_{val_fold}.txt")

@@ -1,7 +1,8 @@
 import os
 from tqdm import tqdm
-
-path = './FreeVC/output/freevc_269/'
+specific_user = 'p287'
+user_nr = specific_user[1:]
+path = f'./FreeVC/output/freevc_{user_nr}/'
 if not os.path.exists(path):
     print("Wrong path!")
     exit()

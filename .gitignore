@@ -6,3 +6,9 @@
 /results/GPU_finetuned_models/
 /results/GPU_run_results/
 /results/GPU_transcripts_wer_cer/previous/
+/whisper/example_whisper_finetune.py
+/whisper/example_whisper_finetune_2.py
+/pythorch_work_script.py
+/results/GPU_transcripts_wer_cer/z-VCTK-p269_base_en/
+/results/GPU_transcripts_wer_cer/VCTK-all_base_en/18_03_checkpoint-500/
+/results/GPU_transcripts_wer_cer/VCTK-all_base_en/18_03_checkpoint-8700/

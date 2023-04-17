@@ -7,15 +7,15 @@ import torch
 
 rewrite_metadata = False
 user_finetuning = True
-specific_user = 'p269'
-
+specific_user = 'p287'
+user_nr = specific_user[1:]
 if torch.cuda.is_available():
     path = './datasets/VCTK/' # GPU
 else:
     path = '../../datasets/VCTK-Corpus-0.92/' #LOCAL
 
 if user_finetuning:
-    path_to_audio = './FreeVC/output/freevc_269/'
+    path_to_audio = f'./FreeVC/output/freevc_{user_nr}/'
     # faili šajā mapē ir pxxx_jjj_mic1_to_pyyy.wav , kur x - oriģinālais users, j- faila nr, y - specific user
 
 

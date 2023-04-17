@@ -8,16 +8,20 @@ from wer_and_cer import calculate_WER, calculate_CER
 from tqdm import tqdm
 
 finetuned_on_user = True
-specific_user = 'p269'
+specific_user = 'p287'
+user_nr = specific_user[1:]
 whisper_model_size = 'base_en'
-checkpoint_nr = 8700
+training_date = '17_04'
+checkpoint_nr = 3_500
+checkpoint = f"checkpoint-{checkpoint_nr}"
 if not finetuned_on_user:
-    whisper_model_dir = f'{whisper_model_size}-finetuned-VCTK_2/checkpoint-{checkpoint_nr}'
+    whisper_model_dir = f'{whisper_model_size}-finetuned-VCTK' #/checkpoint-{checkpoint_nr}'
     # whisper_model_dir = whisper_model_size
-    output_dir = f"./whisper_transcripts/VCTK-original_{whisper_model_size}_highest_100_checkpoint-{checkpoint_nr}"
+    output_dir = f"./whisper_transcripts/VCTK-all_{whisper_model_size}/{training_date}_{checkpoint}"
 else:
-    whisper_model_dir = f'{whisper_model_size}-finetuned-{specific_user}'
-    output_dir = f"./whisper_transcripts/VCTK-{specific_user}_{whisper_model_size}"
+    whisper_model_dir = f'{whisper_model_size}-finetuned-{specific_user}/{training_date}/{checkpoint}'
+    # whisper_model_dir = 'finetuned-p287-17_04'
+    output_dir = f"./whisper_transcripts/VCTK-{specific_user}_{whisper_model_size}/{training_date}_{checkpoint}"
 
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
@@ -27,7 +31,7 @@ if torch.cuda.is_available():
     if not finetuned_on_user:
         path_ds = '../datasets/VCTK/'
     else:
-        path_ds = '../FreeVC/output/freevc_269/'
+        path_ds = f'../FreeVC/output/freevc_{user_nr}/'
 else:
     path_ds = '../../datasets/VCTK-Corpus-0.92/'
 # VCTK -> test/train/val

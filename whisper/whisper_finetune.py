@@ -60,7 +60,7 @@ if __name__ == "__main__":
     else:
         path_ds = '../../datasets/VCTK-Corpus-0.92/' #LOCAL
     tune_for_specific_user = True
-    specific_user = 'p318'
+    specific_user = 'p287'
     whisper_model_size = 'base_en'
     if not os.path.exists(path_ds):
         print("Wrong path!")
@@ -80,8 +80,10 @@ if __name__ == "__main__":
     parser.add_argument("--model_size", type=str, default=f"{whisper_model_size}")
     if tune_for_specific_user:
         parser.add_argument("--output_dir", type=str, default=f'./results/whisper-{whisper_model_size}-finetune-{specific_user}-{formatted_time}')
+        print("FINETUNING FOR ", specific_user)
     else:
-        parser.add_argument("--output_dir", type=str, default=f'./results/whisper-{whisper_model_size}-finetune-{formatted_time}')
+        parser.add_argument("--output_dir", type=str, default=f'./results/whisper-{whisper_model_size}-finetune-VCTK-{formatted_time}')
+        print("FINETUNING FOR VCTK")
 
     for i in train_test_val_folders:  # i = test/train/val
         if i == 'test' or i == 'train' or i == 'val':
@@ -264,18 +266,21 @@ if __name__ == "__main__":
     # )
 
     # print("feature_extr, tokenizer, processor, model")
+    model_path = f"./pretrained_models/whisper-{args.model_size}"
+    # model_path = f"./pretrained_models/whisper-base_en-finetuned-VCTK"
+    # model_path = f"./"
+    if not os.path.exists(model_path):
+        print("Bruh Wrong model path")
+        exit()
 
-    feature_extractor = WhisperFeatureExtractor.from_pretrained(f"./pretrained_models/whisper-{args.model_size}",
-                                                                local_files_only=True)
-    tokenizer = WhisperTokenizer.from_pretrained(f"./pretrained_models/whisper-{args.model_size}",
-                                                 local_files_only=True, language="English", task="transcribe")
-    processor = WhisperProcessor.from_pretrained(f"./pretrained_models/whisper-{args.model_size}",
-                                                 local_files_only=True, language="English", task="transcribe")
-    model = WhisperForConditionalGeneration.from_pretrained(f"./pretrained_models/whisper-{args.model_size}",
-                                                            local_files_only=True)
+    feature_extractor = WhisperFeatureExtractor.from_pretrained(model_path, local_files_only=True)
+    tokenizer = WhisperTokenizer.from_pretrained(model_path, local_files_only=True, language="English",
+                                                 task="transcribe")
+    processor = WhisperProcessor.from_pretrained(model_path, local_files_only=True, language="English",
+                                                 task="transcribe")
+    model = WhisperForConditionalGeneration.from_pretrained(model_path, local_files_only=True)
     # if torch.cuda.is_available():
     #     model = FSDP(model)
-
 
     model.config.forced_decoder_ids = None
     model.config.suppress_tokens = []
@@ -341,7 +346,7 @@ if __name__ == "__main__":
         per_device_train_batch_size=12,
         gradient_accumulation_steps=4,
         learning_rate=1e-5,
-        warmup_steps=100,
+        warmup_steps=0,
         max_steps=500000,
         # sharded_ddp="simple",  # other options: zero_dp_2, zero_dp_3
         gradient_checkpointing=True,
@@ -369,4 +374,5 @@ if __name__ == "__main__":
     )
     # print("processor save pretrained")
     processor.save_pretrained(training_args.output_dir)
+    # trainer.train(resume_from_checkpoint=model_path)
     trainer.train()
