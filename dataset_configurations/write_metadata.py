@@ -5,17 +5,17 @@ from tqdm import tqdm
 import pandas as pd
 import torch
 
-rewrite_metadata = False
-user_finetuning = True
-specific_user = 'p287'
+rewrite_metadata = True
+user_finetuning = False
+specific_user = 'p304'
 user_nr = specific_user[1:]
 if torch.cuda.is_available():
-    path = './datasets/VCTK/' # GPU
+    path = './dataset/' # GPU
 else:
     path = '../../datasets/VCTK-Corpus-0.92/' #LOCAL
 
 if user_finetuning:
-    path_to_audio = f'./FreeVC/output/freevc_{user_nr}/'
+    path_to_audio = f'./FreeVC/FreeVC-main/output/freevc_{specific_user}/'
     # faili šajā mapē ir pxxx_jjj_mic1_to_pyyy.wav , kur x - oriģinālais users, j- faila nr, y - specific user
 
 
@@ -88,7 +88,10 @@ else:
     if not os.path.exists(path_to_audio):
         print(f"AUDIO PATH {path_to_audio} DOES NOT EXIST!!")
         exit()
+    if os.path.exists(f"{path_to_audio}/metadata.csv"):
+        os.remove(f"{path_to_audio}/metadata.csv")
     audio_files = os.listdir(path_to_audio)
+    print(f"{path_to_audio}metadata.csv")
     if os.path.exists(f'{path_to_audio}/metadata.csv') and not rewrite_metadata:
         print(f"Metadata file for finetuned {specific_user} already exists")
         if os.stat(f'{path_to_audio}/metadata.csv').st_size > 0:
@@ -114,7 +117,7 @@ else:
             if len(i.split("_")) <= 1:
                 print(i)
             speaker_file = f"{speaker}_{i.split('_')[1]}"
-            path_to_txt = f'./FreeVC/data/txt/{speaker}'  # GPU
+            path_to_txt = f'./dataset/txt/{speaker}'  # GPU
             # txt_files = os.listdir(path_to_txt)
             txt_file = f"{path_to_txt}/{speaker_file}.txt"
             file_name = i
@@ -129,15 +132,14 @@ else:
                 transcript_file.close()
                 continue
             audio_file = audioread.audio_open(f"{path_to_audio}/{file_name}")
-
             file_len = audio_file.duration
-
             data = [file_name, transcription, file_len, speaker_file]
             writer.writerow(data)
             transcript_file.close()
             audio_file.close()
         except:
             print("ERROR:", i)
+            # audioread.audio_open("./FreeVC/FreeVC-main/output/freevc_p304/p364_099_mic1_to_p304.wav")
     f.close()
 
 

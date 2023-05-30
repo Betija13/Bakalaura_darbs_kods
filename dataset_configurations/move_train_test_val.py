@@ -3,10 +3,10 @@ import shutil
 
 # path_to_file ='../datasets/VCTK-Corpus-0.92/wav48_silence_trimmed'
 # path_to_file = './DR-VCTK_Office1_OpenedWindow'
-path_to_file = './FreeVC/data/wav48_silence_trimmed'
-end_path_train = './datasets/VCTK/train'
-end_path_test = './datasets/VCTK/test'
-end_path_val = './datasets/VCTK/val'
+path_to_file = './wav48_silence_trimmed'
+end_path_train = './train'
+end_path_test = './test'
+end_path_val = './val'
 if not os.path.exists(end_path_train):
     os.makedirs(end_path_train)
 if not os.path.exists(end_path_test):

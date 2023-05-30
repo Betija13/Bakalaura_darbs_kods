@@ -1,7 +1,7 @@
 import os
 from tqdm import tqdm
 
-path = './datasets/VCTK/' # GPU
+path = '../dataset/' # GPU
 # path = '../../datasets/VCTK-Corpus-0.92/' #LOCAL
 if not os.path.exists(path):
     print("Wrong path!")

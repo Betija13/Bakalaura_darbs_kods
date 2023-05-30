@@ -56,14 +56,15 @@ class DataCollatorSpeechSeq2SeqWithPadding:
 if __name__ == "__main__":
     # path = '../datasets/VCTK-Corpus-0.92/test/p225'
     if torch.cuda.is_available():
-        path_ds = '../datasets/VCTK/' #GPU
+        path_ds = '../dataset/' #GPU
     else:
+        print("NO CUDA!")
         path_ds = '../../datasets/VCTK-Corpus-0.92/' #LOCAL
-    tune_for_specific_user = True
-    specific_user = 'p287'
+    tune_for_specific_user = False
+    specific_user = 'p304'
     whisper_model_size = 'base_en'
     if not os.path.exists(path_ds):
-        print("Wrong path!")
+        print("Wrong path1!")
         exit()
     train_test_val_folders = os.listdir(path_ds)
     #TODO
@@ -113,7 +114,7 @@ if __name__ == "__main__":
                         default=["à", "q", "w", "x", "y", "ä", "é", "ì", "õ", "ö", "ō", "ŗ", "б", "в", "д", "и", "й",
                                  "к", "м", "н", "т",
                                  "ц", "ч", "ш", "щ", "ы", "я", "ё", "ख", "य", "ल", "व", "ा", "ि", "्"])
-    parser.add_argument("--preprocessing_num_workers", type=int, default=8)
+    parser.add_argument("--preprocessing_num_workers", type=int, default=1)
     # TODO num_workers
     args = parser.parse_args()
 
@@ -133,7 +134,8 @@ if __name__ == "__main__":
                     continue
             # args_dir = 'VCTK_' + j
             #TODO ?
-            dataset_x = load_dataset(args.dataset_name, data_dir=f'{path_ds}{i}/{j}')
+
+            dataset_x = load_dataset(path=args.dataset_name, data_dir=f'{path_ds}{i}/{j}')
             # Add text_cer column to x dataset
             text_cer_x = [0.0] * len(dataset_x["train"])
             dataset_x["train"] = dataset_x["train"].add_column("text_cer", text_cer_x)
@@ -266,8 +268,8 @@ if __name__ == "__main__":
     # )
 
     # print("feature_extr, tokenizer, processor, model")
-    model_path = f"./pretrained_models/whisper-{args.model_size}"
-    # model_path = f"./pretrained_models/whisper-base_en-finetuned-VCTK"
+    # model_path = f"./pretrained_models/whisper-{args.model_size}"
+    model_path = f"./pretrained_models/whisper-base_en-finetuned-VCTK/17_05/checkpoint-12700"
     # model_path = f"./"
     if not os.path.exists(model_path):
         print("Bruh Wrong model path")
@@ -287,20 +289,27 @@ if __name__ == "__main__":
 
 
     def prepare_dataset(batch, feature_extractor, tokenizer):
+        # print("preparing dataset")
+        # print(batch['speaker_file'])
         audio = batch["audio"]
+        # print("audio secured")
 
         # compute log-Mel input features from input audio array
-        batch["input_features"] = \
-        feature_extractor(audio["array"], sampling_rate=audio["sampling_rate"]).input_features[0]
-
+        batch["input_features"] = feature_extractor(audio["array"], sampling_rate=audio["sampling_rate"]).input_features[0]
+        # print("input features done")
         # encode target text to label ids
         batch["labels"] = tokenizer(batch["sentence"]).input_ids
+        # print("tokenization done")
+
         return batch
 
 
     print("dataset")
     dataset = dataset.cast_column("audio", Audio(sampling_rate=16000))
-    dataset = dataset.shuffle(seed=42)
+    # print("dataset 1")
+    dataset = dataset.shuffle(seed=69)
+    # print("dataset 2")
+    print(feature_extractor)
     dataset = dataset.map(prepare_dataset, remove_columns=dataset.column_names["train"],
                           num_proc=args.preprocessing_num_workers,
                           load_from_cache_file=False,
@@ -345,7 +354,7 @@ if __name__ == "__main__":
         output_dir=args.output_dir,  # change to a repo name of your choice
         per_device_train_batch_size=12,
         gradient_accumulation_steps=4,
-        learning_rate=1e-5,
+        learning_rate=1e-6,
         warmup_steps=0,
         max_steps=500000,
         # sharded_ddp="simple",  # other options: zero_dp_2, zero_dp_3
@@ -374,5 +383,5 @@ if __name__ == "__main__":
     )
     # print("processor save pretrained")
     processor.save_pretrained(training_args.output_dir)
-    # trainer.train(resume_from_checkpoint=model_path)
-    trainer.train()
+    trainer.train(resume_from_checkpoint=model_path)
+    # trainer.train()

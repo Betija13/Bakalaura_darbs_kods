@@ -8,11 +8,11 @@ from wer_and_cer import calculate_WER, calculate_CER
 from tqdm import tqdm
 
 finetuned_on_user = True
-specific_user = 'p287'
+specific_user = 'p304'
 user_nr = specific_user[1:]
 whisper_model_size = 'base_en'
-training_date = '17_04'
-checkpoint_nr = 3_500
+training_date = '16_05'
+checkpoint_nr = 2_500
 checkpoint = f"checkpoint-{checkpoint_nr}"
 if not finetuned_on_user:
     whisper_model_dir = f'{whisper_model_size}-finetuned-VCTK' #/checkpoint-{checkpoint_nr}'
@@ -29,9 +29,9 @@ if not os.path.exists(output_dir):
 
 if torch.cuda.is_available():
     if not finetuned_on_user:
-        path_ds = '../datasets/VCTK/'
+        path_ds = '../dataset/'
     else:
-        path_ds = f'../FreeVC/output/freevc_{user_nr}/'
+        path_ds = f'../FreeVC/FreeVC-main/output/freevc_{specific_user}/'
 else:
     path_ds = '../../datasets/VCTK-Corpus-0.92/'
 # VCTK -> test/train/val
@@ -78,6 +78,7 @@ else:
 path_to_model = f"./pretrained_models/whisper-{whisper_model_dir}"
 if not os.path.exists(path_to_model):
     print("Wrong path to model!")
+    print(path_to_model)
     exit()
 processor = WhisperProcessor.from_pretrained(path_to_model,
                                              local_files_only=True, language="English", task="transcribe")
@@ -158,7 +159,11 @@ for i in tqdm(result):
     speaker_total_results[speaker]['files_count'] += 1
 
     data_i = [i["speaker_file"], i["transcription"], i["prediction"], wer_i, cer_i, wer_i_my, cer_i_my]
-    writer_i.writerow(data_i)
+    try:
+        writer_i.writerow(data_i)
+    except:
+        print("WHOOPSIE AN ERROR")
+        print(data_i)
     transcripts_i.close()
 
 

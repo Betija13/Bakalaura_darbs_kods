@@ -3,7 +3,7 @@ import shutil
 
 import pandas
 
-path_to_file = '../../datasets/VCTK-Corpus-0.92/wav48_silence_trimmed'
+path_to_file = './wav48_silence_trimmed'
 files = os.listdir(path_to_file)
 files.remove(files[0])
 files.remove(files[-1])
