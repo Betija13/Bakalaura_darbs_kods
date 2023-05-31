@@ -1,0 +1,400 @@
+name,wer,wer_n,cer,cer_n,transcription,prediction
+p326_001,100.0,100.0,47.368421052631575,40.909090909090914,Please call Stella., place called stellar
+p326_002,0.0,0.0,3.7037037037037033,3.6363636363636362,Ask her to bring these things with her from the store., ask her to bring these things with her from the store
+p326_003,0.0,0.0,1.9607843137254901,1.9417475728155338,"Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob."," six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob"
+p326_004,0.0,0.0,1.4925373134328357,1.4705882352941175,We also need a small plastic snake and a big toy frog for the kids., We also need a small plastic snake and a big toy frog for the kids
+p326_005,0.0,0.0,0.0,0.0,"She can scoop these things into three red bags, and we will go meet her Wednesday at the train station."," She can scoop these things into three red bags, and we will go meet her Wednesday at the train station."
+p326_006,11.76470588235294,11.11111111111111,12.643678160919542,11.578947368421053,"When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow."," When the sunlight strikes, rain drops in the air, they act as a prism and form a rainbow."
+p326_007,25.0,23.076923076923077,10.294117647058822,9.722222222222223,The rainbow is a division of white light into many beautiful colors., The rainbow is a division of white light in so many beautiful colours
+p326_008,4.545454545454546,4.545454545454546,2.586206896551724,2.5210084033613445,"These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon."," These take the shape of the long round arch, with its path high above, and its two ends apparently beyond the horizon."
+p326_009,14.285714285714285,14.285714285714285,6.153846153846154,5.970149253731343,"There is , according to legend, a boiling pot of gold at one end."," there is, according to legend, a boiling pot of gold at one end"
+p326_010,0.0,0.0,2.631578947368421,2.564102564102564,"People look, but no one ever finds it."," People look, but no one ever finds it"
+p326_011,0.0,0.0,0.0,0.0,"When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow."," When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow."
+p326_012,18.181818181818183,18.181818181818183,9.333333333333334,9.090909090909092,Throughout the centuries people have explained the rainbow in various ways., Throughout the centuries people have explained the rainline various ways
+p326_013,0.0,0.0,0.0,0.0,Some have accepted it as a miracle without physical explanation., Some have accepted it as a miracle without physical explanation.
+p326_014,0.0,0.0,2.666666666666667,2.631578947368421,To the Hebrews it was a token that there would be no more universal floods., to the Hebrews it was a token that there would be no more universal floods
+p326_015,5.263157894736842,5.263157894736842,6.666666666666667,6.593406593406594,The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain., The Greeks used to imagine that it was a sign from the gods to fertile war or heavy rain.
+p326_016,18.181818181818183,18.181818181818183,6.086956521739131,6.0344827586206895,The Norsemen considered the rainbow as a bridge over which the gods passed from the earth to their home in the sky., The Norsemen consider the rainbow is a bridge over which the gods pass from the earth to the home in the sky.
+p326_017,0.0,0.0,3.6363636363636362,3.571428571428571,Others have tried to explain the phenomenon physically., others have tried to explain the phenomenon physically
+p326_018,6.25,5.88235294117647,2.2222222222222223,2.1505376344086025,Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain., Aristotle thought that the rainbow was caused by a reflection of the sun's rays by the rain
+p326_019,5.555555555555555,5.555555555555555,3.5398230088495577,3.4782608695652173,"Since then physicists have found it is not reflection, but refraction by the raindrops which causes the rainbows."," Since then, physicists have found it is not reflection, but refraction by the raindrops which causes the rainmurs."
+p326_020,0.0,0.0,1.7241379310344827,1.694915254237288,Many complicated ideas about the rainbow have been formed., Many complicated ideas about the rainbow have been formed
+p326_021,3.571428571428571,4.545454545454546,2.5316455696202533,2.5,"The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases."," The difference in the rainbow depends considerably upon the size of the drops, and the width of the coloured band increases as the size of the drops increases."
+p326_022,10.526315789473683,10.526315789473683,45.54455445544555,36.8,The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows., the actual primary rainbow observed is said to be the effect of superimposition of a number of bows
+p326_023,2.7777777777777777,2.857142857142857,3.932584269662921,3.8461538461538463,"If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow."," If the red of the second bow falls upon the green of the furthest, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow."
+p326_024,0.0,0.0,0.0,0.0,"This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue."," This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue."
+p326_025,33.33333333333333,33.33333333333333,31.57894736842105,30.0,"Jimmy returned to Aberdeen, but she remained with George."," Jimmy returns to Aberdeen, but she reminded George"
+p326_026,0.0,0.0,9.090909090909092,8.695652173913043,The message was clear., the message was clear
+p326_027,0.0,0.0,6.25,5.88235294117647,She is an angel., She is an angel
+p326_028,57.14285714285714,57.14285714285714,37.142857142857146,34.21052631578947,It is believed he had been stabbed., its his belatii had been stabbed
+p326_029,0.0,0.0,9.090909090909092,8.695652173913043,We have got to attack., we have got to attack
+p326_030,0.0,0.0,2.0408163265306123,2.0,"I saw the other car coming, but could do nothing."," I saw the other car coming, but could do nothing"
+p326_031,50.0,44.44444444444444,50.943396226415096,42.857142857142854,United were in control without always being dominant.," your nots is wearing control, without always being dominant"
+p326_032,0.0,0.0,6.451612903225806,6.25,There we were on the first tee., there we were on the first tee
+p326_033,16.666666666666664,16.666666666666664,15.625,15.151515151515152,Roy Keane is certainly the best., Roy Kane is certainly the best
+p326_034,25.0,22.22222222222222,13.333333333333334,12.0,At least two women were among those arrested., At least two women who are among those arrested.
+p326_035,0.0,0.0,11.11111111111111,10.526315789473683,How would it work?, how would it work
+p326_036,0.0,0.0,7.142857142857142,6.896551724137931,It was my shortest audition., it was my shortest audition
+p326_037,14.285714285714285,14.285714285714285,11.428571428571429,11.11111111111111,That was a stunning drive from Jon., that was a stunning drive from john
+p326_038,0.0,0.0,6.25,6.0606060606060606,She didn't tell us anything new., she didn't tell us anything new
+p326_039,0.0,0.0,5.405405405405405,5.263157894736842,There is nothing like this back home., there is nothing like this back home
+p326_040,0.0,0.0,4.651162790697675,4.545454545454546,The police believe the man was not injured., the police believe the man was not injured
+p326_041,0.0,0.0,9.090909090909092,8.695652173913043,It would be a miracle., it would be a miracle
+p326_042,20.0,20.0,23.809523809523807,20.0,We just love to chat., we're just love to chat
+p326_043,57.14285714285714,57.14285714285714,41.17647058823529,37.83783783783784,I read about it in the newspapers., a rate of bass in the newspapers
+p326_044,0.0,0.0,0.0,0.0,What did they think of her voice?, What did they think of her voice?
+p326_045,60.0,50.0,27.586206896551722,25.0,They say they feel different., I say that I feel different
+p326_046,12.5,12.5,13.157894736842104,12.195121951219512,It is a good result for Great Britain., This is a good result for Great Britain
+p326_047,28.57142857142857,28.57142857142857,28.125,27.27272727272727,What on earth is wrong with you?, What on earth is Raman do you?
+p326_048,0.0,0.0,6.8181818181818175,6.666666666666667,We will continue to pressure the Government., we will continue to pressure the government
+p326_049,0.0,0.0,2.7777777777777777,2.7027027027027026,His art was not just about emotions., His art was not just about emotions
+p326_050,66.66666666666666,66.66666666666666,44.11764705882353,38.46153846153847,They are all bright and different., they're all brought in different
+p326_051,62.5,62.5,33.33333333333333,31.428571428571427,I found a fault and worked at it., a fan of fault and works as it
+p326_052,0.0,0.0,5.128205128205128,5.0,My position on the euro is quite clear., my position on the euro is quite clear
+p326_053,0.0,0.0,6.451612903225806,6.25,Labour was too busy to respond., labour was too busy to respond
+p326_054,0.0,0.0,5.0,4.761904761904762,His voice is strong., His voice is strong
+p326_055,14.285714285714285,14.285714285714285,18.181818181818183,16.666666666666664,They may yet have the last laugh., they might yet have the last laugh
+p326_056,0.0,0.0,12.5,11.76470588235294,But they add up., but they add up
+p326_057,0.0,0.0,10.0,9.67741935483871,You can feel at home in China., you can feel at home in china
+p326_058,0.0,0.0,6.451612903225806,6.25,It is the wealthiest in Europe., it is the wealthiest in Europe
+p326_059,0.0,0.0,5.405405405405405,5.263157894736842,This is all part of opening the door., this is all part of opening the door
+p326_060,0.0,0.0,4.878048780487805,4.761904761904762,Yesterday's performance was exactly that., yesterday's performance was exactly that
+p326_061,25.0,25.0,11.538461538461538,10.714285714285714,Mr Blunkett was convinced., Mr. Blanket was convinced.
+p326_062,0.0,0.0,0.0,0.0,"For the other parties, it is back to business as usual."," For the other parties, it is back to business as usual."
+p326_063,0.0,0.0,6.896551724137931,6.666666666666667,He will become the sovereign., he will become the sovereign
+p326_064,40.0,33.33333333333333,100,69.56521739130434,It was a foolhardy decision., it was a full-hearted decision
+p326_065,16.666666666666664,16.666666666666664,21.62162162162162,20.51282051282051,Washington is consumed by the crisis., washington is consumed by the karassus
+p326_066,0.0,0.0,7.142857142857142,6.976744186046512,"Now, suddenly, we have this new landscape.", Now suddenly we have this new landscape
+p326_067,0.0,0.0,5.714285714285714,5.555555555555555,There is a tunnel after the tunnel., there is a tunnel after the tunnel
+p326_068,12.5,12.5,17.391304347826086,17.02127659574468,Everyone could see it apart from Kevin Keegan., everyone could see it apart from kevin kegon
+p326_069,25.0,25.0,26.666666666666668,26.08695652173913,"For the meantime, though, the signs are good."," for the meantime, no, the signs are given"
+p326_070,0.0,0.0,6.451612903225806,6.25,Messages have to be reinforced., messages have to be reinforced
+p326_071,0.0,0.0,0.0,0.0,The success story shows no signs of stopping., The success story shows no signs of stopping.
+p326_072,0.0,0.0,3.3333333333333335,3.278688524590164,Another suggested the company should carry only pedestrians., another suggested the company should carry only pedestrians
+p326_073,25.0,25.0,11.11111111111111,10.714285714285714,The Insider opens tomorrow., The inside opens tomorrow
+p326_074,0.0,0.0,0.0,0.0,More patience and composure was required., More patience and composure was required.
+p326_075,0.0,0.0,4.651162790697675,4.545454545454546,It is difficult when you don't know anyone., it is difficult when you don't know anyone
+p326_076,0.0,0.0,3.7037037037037033,3.571428571428571,I was shocked and outraged., I was shocked and outraged
+p326_077,40.0,40.0,20.0,19.230769230769234,It's just gotten too big., it's just gotten to be
+p326_078,44.44444444444444,44.44444444444444,37.5,33.33333333333333,"We're still in talks and, hopefully, they will continue.", We are stealing talks and hopefully that will continue
+p326_079,83.33333333333334,55.55555555555556,72.41379310344827,47.72727272727273,I am immensely proud of them., why am i meant to be proud of them
+p326_080,0.0,0.0,9.090909090909092,8.695652173913043,It was extremely cold., it was extremely cold
+p326_081,0.0,0.0,4.3478260869565215,4.25531914893617,The property is owned by Glasgow City Council., the property is owned by Glasgow City Council
+p326_082,0.0,0.0,7.6923076923076925,7.5,"No, we had nothing to do with the Jews."," no, we had nothing to do with the jews"
+p326_083,25.0,25.0,28.888888888888886,27.083333333333332,There will be tough opponents to this report., there will be tougher pints to this report
+p326_084,0.0,0.0,6.666666666666667,6.451612903225806,They were two different types., they were two different types
+p326_085,0.0,0.0,4.0,3.8461538461538463,Chelsea was a great club., Chelsea was a great club
+p326_086,0.0,0.0,10.526315789473683,10.0,I can't believe it., i can't believe it
+p326_087,0.0,0.0,1.9607843137254901,1.9230769230769231,"I couldn't believe it, but it looks like it's true."," I couldn't believe it, but it looks like it's true"
+p326_088,42.857142857142854,37.5,39.39393939393939,33.33333333333333,We have them in offices all over., we have them in office as well over
+p326_089,33.33333333333333,33.33333333333333,36.0,31.03448275862069,It need not be like that., and they'd not be like that
+p326_090,0.0,0.0,5.263157894736842,5.128205128205128,There has been a sense of frustration., there has been a sense of frustration
+p326_091,0.0,0.0,0.0,0.0,"At that time, there was no infection within five miles."," At that time, there was no infection within five miles."
+p326_092,11.11111111111111,11.11111111111111,4.761904761904762,4.6875,"Their findings are published in the journal, Injury Prevention."," The findings are published in the journal, Injury Prevention"
+p326_093,0.0,0.0,7.894736842105263,7.6923076923076925,"This time, there were no such rewards.", this time there were no such rewards
+p326_094,0.0,0.0,5.88235294117647,5.714285714285714,That'd be good for the whole city., that'd be good for the whole city
+p326_095,0.0,0.0,8.51063829787234,8.333333333333332,"It is, honestly, difficult to write about this.", it is honestly difficult to write about this
+p326_096,14.285714285714285,14.285714285714285,15.625,15.151515151515152,We are very very proud of Alain., we are very very proud of alan
+p326_097,30.0,30.0,29.508196721311474,26.47058823529412,"Around the building, the atmosphere is brittle and hung over."," Around the building, the atmosphere is personal and hungover."
+p326_098,33.33333333333333,33.33333333333333,21.875,20.0,It was exactly four months away., it's exactly four months away
+p326_099,0.0,0.0,7.6923076923076925,7.547169811320755,"The performance, for this listener, didn't come off.", the performance for this listener didn't come off
+p326_100,33.33333333333333,33.33333333333333,38.095238095238095,30.76923076923077,It was set in a cafe., he was sitting in a cafe
+p326_101,0.0,0.0,7.142857142857142,6.896551724137931,It certainly gives you hope., it certainly gives you hope
+p326_102,22.22222222222222,22.22222222222222,23.684210526315788,21.428571428571427,"If he does not leave, he will be shot."," if he does not leave, he'll be shot"
+p326_103,11.11111111111111,11.11111111111111,11.538461538461538,11.320754716981133,"Brown is an interesting man, but he's not desperate."," brown is an interesting man, but is not desperate"
+p326_104,42.857142857142854,42.857142857142854,28.57142857142857,27.027027027027028,We've all been there at some point., we will be there at some point
+p326_105,0.0,0.0,2.631578947368421,2.564102564102564,I'm totally horrified by the sentence., I'm totally horrified by the sentence
+p326_106,80.0,66.66666666666666,71.42857142857143,57.14285714285714,Our people should be immune., that paper should be a mean
+p326_107,0.0,0.0,6.25,6.0606060606060606,It's a metaphor for consumption., it's a metaphor for consumption
+p326_108,0.0,0.0,2.941176470588235,2.857142857142857,I just saw them for a few minutes., I just saw them for a few minutes
+p326_109,0.0,0.0,4.3478260869565215,4.25531914893617,"A management agreement, however, was conceded."," a management agreement, however, was conceded"
+p326_110,16.666666666666664,16.666666666666664,19.230769230769234,17.24137931034483,It left me with a sadness., they left me with a sadness
+p326_111,0.0,0.0,5.405405405405405,5.263157894736842,Hopefully they will turn out tonight., hopefully they will turn out tonight
+p326_112,0.0,0.0,7.142857142857142,6.896551724137931,The boys are very confident., the boys are very confident
+p326_113,25.0,25.0,13.043478260869565,12.76595744680851,The site has been fully recorded and surveyed., the site has been fully recorded in survey
+p326_114,0.0,0.0,2.127659574468085,2.083333333333333,Thousands of others have not been so fortunate., Thousands of others have not been so fortunate
+p326_115,0.0,0.0,2.857142857142857,2.7777777777777777,Our objective is to tackle poverty., Our objective is to tackle poverty
+p326_116,20.0,20.0,22.727272727272727,20.833333333333336,What she will do next?, what she would do next
+p326_117,50.0,50.0,34.21052631578947,32.5,"Hopefully, everything is for the best.", hopefully everything is full of this
+p326_118,87.5,77.77777777777779,90.2439024390244,63.793103448275865,Two things will count for us in Brussels., tell you things we can't for a simprestleuse
+p326_119,0.0,0.0,2.5,2.4390243902439024,She has now been registered as disabled., She has now been registered as disabled
+p326_120,0.0,0.0,5.263157894736842,5.128205128205128,Today's meeting was open and friendly., today's meeting was open and friendly
+p326_121,0.0,0.0,4.878048780487805,4.761904761904762,"Last night, he pledged to clear his name."," last night, he pledged to clear his name"
+p326_122,42.857142857142854,42.857142857142854,100,72.72727272727273,It is the stop-gap before extinction., it is a stopgap before extinction
+p326_123,33.33333333333333,28.57142857142857,23.52941176470588,20.51282051282051,That is a data management problem., that is a doc and management problem
+p326_124,0.0,0.0,4.878048780487805,4.761904761904762,Nor is he allowed out without permission., nor is he allowed out without permission
+p326_125,25.0,25.0,23.809523809523807,20.833333333333336,He looked very sharp., they looked very sharp
+p326_126,0.0,0.0,2.2222222222222223,2.1739130434782608,Another casualty yesterday was John Prescott., Another casualty yesterday was John Prescott
+p326_127,83.33333333333334,62.5,75.0,53.84615384615385,I've beaten her a few times., I have bass in there a few times
+p326_128,0.0,0.0,2.2222222222222223,2.1739130434782608,His father and mother are in film production., His father and mother are in film production
+p326_129,0.0,0.0,5.714285714285714,5.263157894736842,This is not a long-term commitment., this is not a long-term commitment
+p326_130,0.0,0.0,3.225806451612903,3.125,It's about attitudes to change., It's about attitudes to change
+p326_131,25.0,25.0,26.31578947368421,23.25581395348837,They failed in their duty to Mr Logan., They're filed in their duty to Mr. Logan
+p326_132,0.0,0.0,6.0606060606060606,5.88235294117647,Yet she is one of the lucky ones., yet she is one of the lucky ones
+p326_133,25.0,25.0,18.421052631578945,17.073170731707318,Off-duty nurses were called in at Ayr., Top duty nurses were called in at air
+p326_134,0.0,0.0,5.128205128205128,5.0,That means no more taxation by stealth., that means no more taxation by stealth
+p326_135,57.14285714285714,57.14285714285714,50.0,43.13725490196079,History may repeat itself with Billy Elliot., history my repaint itself with bileolient
+p326_136,0.0,0.0,8.823529411764707,8.333333333333332,Mr Campbell received a phone call., mr. Campbell received a phone call
+p326_137,0.0,0.0,4.761904761904762,4.651162790697675,People tended to stay there for some time., people tended to stay there for some time
+p326_138,20.0,20.0,25.0,24.137931034482758,Holland won by five wickets., Chloe's won by five wickets
+p326_139,0.0,0.0,4.761904761904762,4.651162790697675,His expulsion would not solve the problem., his expulsion would not solve the problem
+p326_140,0.0,0.0,5.0,4.918032786885246,"After day one back, he may be revising that opinion already.", after day one back he may be revising that opinion already
+p326_141,0.0,0.0,7.4074074074074066,7.142857142857142,We are not going to forget., we are not going to forget
+p326_142,16.666666666666664,16.666666666666664,16.0,15.384615384615385,I'm the one that said it., on the one that said it
+p326_143,0.0,0.0,6.666666666666667,6.451612903225806,It's not hard to get involved., it's not hard to get involved
+p326_144,0.0,0.0,10.0,9.523809523809524,I've grown up a bit., i've grown up a bit
+p326_145,0.0,0.0,5.88235294117647,5.714285714285714,For a moment it was all about her., for a moment it was all about her
+p326_146,0.0,0.0,10.526315789473683,10.0,It changed my life., it changed my life
+p326_147,0.0,0.0,7.6923076923076925,7.317073170731707,Once they go away they won't come back.," once they go away, they won't come back"
+p326_148,0.0,0.0,5.714285714285714,5.555555555555555,It's a difficult one to comment on., it's a difficult one to comment on
+p326_149,25.0,25.0,22.727272727272727,20.833333333333336,Our position is clear., that position is clear
+p326_150,0.0,0.0,7.142857142857142,6.896551724137931,Yet it does not lose appeal., yet it does not lose appeal
+p326_151,42.857142857142854,37.5,37.03703703703704,31.25,But what will we put on it?, but what we will put on it
+p326_152,0.0,0.0,2.631578947368421,2.564102564102564,Then in came a succession of signings., Then in came a succession of signings
+p326_153,0.0,0.0,6.25,6.0606060606060606,It will benefit a lot of people., it will benefit a lot of people
+p326_154,33.33333333333333,33.33333333333333,44.44444444444444,37.5,A new school will be built., a new school will reveal
+p326_155,0.0,0.0,5.405405405405405,5.263157894736842,The main thing is that they enjoy it., the main thing is that they enjoy it
+p326_156,0.0,0.0,2.272727272727273,2.2222222222222223,It is worse because she suffers from angina., It is worse because she suffers from angina
+p326_157,0.0,0.0,8.333333333333332,8.0,I felt he was excellent., i felt he was excellent
+p326_158,16.666666666666664,16.666666666666664,10.714285714285714,10.344827586206897,It's not just a male agenda., it's not just a mile agenda
+p326_159,14.285714285714285,14.285714285714285,10.526315789473683,10.256410256410255,This meeting is the path to salvation., this meeting is the part to salvation
+p326_160,25.0,25.0,13.88888888888889,13.513513513513514,I think we believed the tie was won., i think we believe the toy was won
+p326_161,0.0,0.0,10.526315789473683,10.0,She wanted to move., she wanted to move
+p326_162,33.33333333333333,28.57142857142857,16.129032258064516,14.285714285714285,How do you find the youngsters?, How do you fall in the youngsters?
+p326_163,100.0,57.14285714285714,70.83333333333334,47.22222222222222,It's always a rehearsal., it's always a rare head I saw
+p326_164,0.0,0.0,7.6923076923076925,7.4074074074074066,But it's a subtle process., but it's a subtle process
+p326_165,12.5,12.5,14.705882352941178,13.88888888888889,We all have to look in the mirror., we will have to look in the mirror
+p326_166,0.0,0.0,7.142857142857142,6.896551724137931,There is no internal damage., there is no internal damage
+p326_167,12.5,12.5,9.75609756097561,9.523809523809524,About the bad things that happened to me., about the bad things that happen to me
+p326_168,0.0,0.0,6.451612903225806,6.25,She is a very lucky young lady., she is a very lucky young lady
+p326_169,0.0,0.0,3.7037037037037033,3.571428571428571,It was a great team effort., It was a great team effort
+p326_170,14.285714285714285,14.285714285714285,14.705882352941178,14.285714285714285,The threat to rural areas is real., the threat to rural areas is rural
+p326_171,25.0,25.0,33.33333333333333,32.25806451612903,Tourism continues to struggle., tourism continues to travel
+p326_172,0.0,0.0,6.779661016949152,6.666666666666667,"That, however, can only be achieved by constant investment.", that however can only be achieved by constant investment
+p326_173,42.857142857142854,42.857142857142854,34.285714285714285,31.57894736842105,Its first awards will do just that., its first awards were to adjust that
+p326_174,0.0,0.0,6.666666666666667,6.451612903225806,We are already under pressure., we are already under pressure
+p326_175,0.0,0.0,4.444444444444445,4.3478260869565215,She didn't tell me anything the night before., she didn't tell me anything the night before
+p326_176,0.0,0.0,5.263157894736842,5.172413793103448,"In performance, that quality can prove to be a challenge.", in performance that quality can prove to be a challenge
+p326_177,0.0,0.0,4.0,3.9215686274509802,The Scottish management team will settle for that., the Scottish management team will settle for that
+p326_178,50.0,50.0,90.2439024390244,72.54901960784314,THE US is a diverse and colourful nation., The US is the Davideson colorful nation
+p326_179,0.0,0.0,7.142857142857142,6.896551724137931,He didn't have long to wait., he didn't have long to wait
+p326_180,0.0,0.0,5.263157894736842,5.128205128205128,That was merely their initial problem., that was merely their initial problem
+p326_181,40.0,36.36363636363637,59.183673469387756,46.774193548387096,"I'm going to help out in the summer, as producer.", then go into help out in the summer as a producer
+p326_182,0.0,0.0,4.651162790697675,4.545454545454546,It would be really interesting if they did., it would be really interesting if they did
+p326_183,14.285714285714285,14.285714285714285,10.344827586206897,10.0,I need them to set my career., i need them to sit my career
+p326_184,0.0,0.0,2.4390243902439024,2.380952380952381,I love the Scottish and the Irish people., I love the Scottish and the Irish people
+p326_185,27.27272727272727,27.27272727272727,44.44444444444444,38.35616438356164,"They don't know each other, but they have made this commitment."," they don't know each other, but they have my discommitment"
+p326_186,0.0,0.0,9.523809523809524,9.090909090909092,He was all blackened., he was all blackened
+p326_187,0.0,0.0,9.523809523809524,9.090909090909092,This is your country., this is your country
+p326_188,0.0,0.0,7.142857142857142,6.896551724137931,I want to be there by right., i want to be there by right
+p326_189,20.0,20.0,14.285714285714285,13.793103448275861,The fund has three elements., the font has three elements
+p326_190,0.0,0.0,7.4074074074074066,7.142857142857142,You've just got to move on., you've just got to move on
+p326_191,0.0,0.0,5.263157894736842,5.0,I feel really good., I feel really good
+p326_192,22.22222222222222,22.22222222222222,10.526315789473683,10.256410256410255,So You Think You Want  to be Victoria?, So you think you want to be Victoria?
+p326_193,0.0,0.0,5.405405405405405,5.263157894736842,"This is still a young team, you know."," this is still a young team, you know"
+p326_194,0.0,0.0,0.0,0.0,It's just the workings of the Scottish media., It's just the workings of the Scottish media.
+p326_195,0.0,0.0,4.166666666666666,4.081632653061225,The British government said she was coming home., the British government said she was coming home
+p326_196,0.0,0.0,8.695652173913043,8.333333333333332,It's not even finished., it's not even finished
+p326_197,28.57142857142857,28.57142857142857,70.96774193548387,56.41025641025641,That is a matter for Mr Graham.," That is a metaphor, Mr. Graham"
+p326_198,0.0,0.0,5.714285714285714,5.555555555555555,These people just lost their child., these people just lost their child
+p326_199,100.0,83.33333333333334,76.66666666666667,65.71428571428571,Everyone knew where they were., they're for any way they will
+p326_200,25.0,25.0,17.94871794871795,16.666666666666664,It may now be too expensive for anyone., it might not be too expensive for anyone
+p326_201,20.0,20.0,11.538461538461538,11.11111111111111,It was worth a photograph., he was worth a photograph
+p326_202,0.0,0.0,4.761904761904762,4.651162790697675,The processing plant was closed yesterday., the processing plant was closed yesterday
+p326_203,37.5,37.5,23.91304347826087,23.404255319148938,"For the moment, our position remains the same."," for the moment, a position remains a sign"
+p326_204,40.0,40.0,66.66666666666666,53.84615384615385,Was this a new event?, was this any event
+p326_205,30.0,25.0,59.01639344262295,46.75324675324675,"As agreed, the prime minister was driven to Westminster Hall."," As you can see, the Prime Minister was driven to Westminster Hall."
+p326_206,0.0,0.0,0.0,0.0,"In the old days, it was easy."," In the old days, it was easy."
+p326_207,0.0,0.0,2.7777777777777777,2.7027027027027026,I came into this world with nothing., I came into this world with nothing
+p326_208,85.71428571428571,75.0,51.162790697674424,42.30769230769231,We're still hopeful of concluding the deal., we still hope we're left concluding to do
+p326_209,25.0,50.0,40.54054054054054,37.5,"I am a soldier, a soldier, a soldier."," i'm a soldier, a soldier"
+p326_210,0.0,0.0,2.2222222222222223,2.1739130434782608,River City is a showcase for Scottish talent., River City is a showcase for Scottish talent
+p326_211,0.0,0.0,5.555555555555555,5.405405405405405,"Yes, it gave me a lot of confidence."," yes, it gave me a lot of confidence"
+p326_212,57.14285714285714,57.14285714285714,46.34146341463415,40.42553191489361,His style is suited to Scottish football., these stalls are suited to scouraged football
+p326_213,0.0,0.0,5.714285714285714,5.555555555555555,After that he became more romantic., after that he became more romantic
+p326_214,0.0,0.0,9.523809523809524,9.090909090909092,It's not long enough., it's not long enough
+p326_215,16.666666666666664,16.666666666666664,20.0,18.421052631578945,My view has now completely changed., My beauty has now completely changed
+p326_216,0.0,0.0,5.88235294117647,5.714285714285714,You're going to take away my life., you're going to take away my life
+p326_217,50.0,50.0,45.45454545454545,40.0,He scored a touchdown., he's got a touchdown
+p326_218,0.0,0.0,6.451612903225806,6.25,They finished second and third., they finished second and third
+p326_219,0.0,0.0,4.651162790697675,4.545454545454546,We're playing away from home and that's it., we're playing away from home and that's it
+p326_220,0.0,0.0,10.344827586206897,10.0,He was then replaced by Ross., he was then replaced by ross
+p326_221,0.0,0.0,6.122448979591836,6.0,"It had not been a terribly inspiring end, either.", it had not been a terribly inspiring end either
+p326_222,0.0,0.0,2.127659574468085,2.083333333333333,I'm wondering what you feel about the youngest., I'm wondering what you feel about the youngest
+p326_223,0.0,0.0,6.0606060606060606,5.88235294117647,She did not attend the courtroom., she did not attend the courtroom
+p326_224,0.0,0.0,3.0303030303030303,2.941176470588235,People can get them if they want., People can get them if they want
+p326_225,28.57142857142857,28.57142857142857,11.538461538461538,11.320754716981133,Smith confirmed that their confidence was returning., Swiss confirm that their confidence was returning
+p326_226,16.666666666666664,16.666666666666664,28.000000000000004,24.137931034482758,He is a law unto himself., he is a little unto himself
+p326_227,0.0,0.0,4.3478260869565215,4.166666666666666,"I was very, very happy."," I was very, very happy"
+p326_228,20.0,20.0,21.73913043478261,19.230769230769234,No-one should see that., no one should say that
+p326_229,25.0,25.0,22.857142857142858,20.51282051282051,We are going to go about our lives., we're going to go about our lives
+p326_230,57.14285714285714,57.14285714285714,51.515151515151516,42.5,What is the point of jailing him?, where's the point of jaltinging
+p326_231,14.285714285714285,14.285714285714285,11.428571428571429,11.11111111111111,They made it very difficult for us., that made it very difficult for us
+p326_232,0.0,0.0,9.523809523809524,9.090909090909092,"Well, there is a bed."," well, there is a bed"
+p326_233,50.0,50.0,52.94117647058824,47.368421052631575,You write a play., you raw to play
+p326_234,0.0,0.0,4.545454545454546,4.444444444444445,There are no easy solutions to this problem., there are no easy solutions to this problem
+p326_235,0.0,0.0,5.405405405405405,5.263157894736842,The Government faces a moral dilemma., The government faces a moral dilemma
+p326_236,0.0,0.0,7.142857142857142,6.896551724137931,Seems a sensible compromise., seems a sensible compromise
+p326_237,33.33333333333333,28.57142857142857,41.66666666666667,34.883720930232556,This kind of traffic is commonplace., this kind of traffic is coming place
+p326_238,0.0,0.0,3.7037037037037033,3.571428571428571,I'm happy with the outcome., I'm happy with the outcome
+p326_239,87.5,77.77777777777779,100,71.69811320754717,An aide was instructed to get a copy., and I had risen struck to tequila copy
+p326_240,0.0,0.0,7.142857142857142,6.976744186046512,The Allies intend to maintain the average., the allies intend to maintain the average
+p326_241,0.0,0.0,6.25,6.0606060606060606,Agents and coaches must be paid., agents and coaches must be paid
+p326_242,0.0,0.0,2.127659574468085,2.083333333333333,The vacancies are in support services and arts., The vacancies are in support services and arts
+p326_243,0.0,0.0,6.896551724137931,6.666666666666667,It is just completely erased., it is just completely erased
+p326_244,22.22222222222222,22.22222222222222,23.404255319148938,22.0,"His sister added, We expected him to be jailed."," these sister added, we expected him to be jyode"
+p326_245,0.0,0.0,0.0,0.0,"We lost our composure towards the interval, he said."," We lost our composure towards the interval, he said."
+p326_246,0.0,0.0,5.128205128205128,5.0,I've been thinking about it for a year., i've been thinking about it for a year
+p326_247,50.0,50.0,50.0,44.827586206896555,Scotland were on Saturday.," scotland, we're on setterday"
+p326_248,28.57142857142857,25.0,20.588235294117645,16.666666666666664,I enjoy playing with both of them., well I enjoyed playing with both of them
+p326_249,0.0,0.0,5.0,4.761904761904762,Too often it is not., Too often it is not
+p326_250,20.0,20.0,15.384615384615385,14.814814814814813,Alex Ferguson is the same., Alex Ferguson is the sign
+p326_251,33.33333333333333,33.33333333333333,20.833333333333336,20.0,I tend not to look back., a turn not to look back
+p326_252,14.285714285714285,14.285714285714285,7.142857142857142,6.976744186046512,Confidence among the allies began to slip., confidence among the allies began to slit
+p326_253,28.57142857142857,28.57142857142857,34.285714285714285,30.0,The real problem is the Usher Hall., The real problem is the ashohull.
+p326_254,0.0,0.0,5.660377358490567,5.454545454545454,"My family, health and golf is always a balancing act."," my family, health, and golf is always a balancing act"
+p326_255,0.0,0.0,10.0,9.523809523809524,I got a yellow card., i got a yellow card
+p326_256,12.5,12.5,10.0,9.75609756097561,My game just seems to keep on improving., my gang just seems to keep on improving
+p326_257,0.0,0.0,5.0,4.878048780487805,We would expect it to disappear in time., we would expect it to disappear in time
+p326_258,11.11111111111111,11.11111111111111,12.5,11.864406779661017,"Technically, it was a very good performance by Scotland.", technically it was a very good performance plus Scotland
+p326_259,0.0,0.0,2.857142857142857,2.7777777777777777,I'd love to have been on the pitch., I'd love to have been on the pitch
+p326_260,12.5,12.5,6.8181818181818175,6.521739130434782,I never had any confidence in it afterwards., I never have any confidence in it afterwards
+p326_261,0.0,0.0,5.405405405405405,5.263157894736842,I didn't know what he was capable of., i didn't know what he was capable of
+p326_262,0.0,0.0,2.4390243902439024,2.380952380952381,Our place as artists is to ask questions., Our place as artists is to ask questions
+p326_263,25.0,25.0,10.714285714285714,10.344827586206897,I ran to get out of the way., a run to get out of the way
+p326_264,50.0,50.0,56.666666666666664,44.73684210526316,She's now on the back benches., she's now in the backbenches
+p326_265,0.0,0.0,7.142857142857142,6.896551724137931,But there are some problems., but there are some problems
+p326_266,33.33333333333333,33.33333333333333,29.166666666666668,28.000000000000004,It may also be her last., it may also be a loss
+p326_267,0.0,0.0,5.88235294117647,5.714285714285714,It should not lose out in any way., it should not lose out in any way
+p326_268,33.33333333333333,28.57142857142857,21.62162162162162,19.047619047619047,We're very pleased about the verdict., we are very pleased about the verdict
+p326_269,28.57142857142857,28.57142857142857,19.35483870967742,18.181818181818183,It will not be a long campaign., he would not be a long campaign
+p326_270,50.0,50.0,36.36363636363637,34.78260869565217,"Subs not used, McGraw."," Sabs not used, mikoro"
+p326_271,0.0,0.0,11.11111111111111,10.526315789473683,Maybe it helps us., maybe it helps us
+p326_272,100.0,80.0,93.10344827586206,71.05263157894737,Three bystanders were killed., three boss and is recubed
+p326_273,9.090909090909092,9.090909090909092,6.0606060606060606,5.970149253731343,"We should savour this, because it's unlikely ever to happen again."," We should save this, because it's unlikely ever to happen again"
+p326_274,22.22222222222222,22.22222222222222,19.298245614035086,18.333333333333332,"However, within five minutes they were able to celebrate."," however within five minutes, they are about to celebrate"
+p326_275,0.0,0.0,4.545454545454546,4.3478260869565215,Was it just negligent., Was it just negligent?
+p326_276,0.0,0.0,8.333333333333332,8.0,He made no big mistakes., he made no big mistakes
+p326_277,33.33333333333333,33.33333333333333,27.586206896551722,25.806451612903224,"It will not be today, though.", we will not be delayed though
+p326_278,25.0,25.0,23.52941176470588,22.22222222222222,Which is a shame., which is a shine
+p326_279,0.0,0.0,0.0,0.0,That is where our future lies., That is where our future lies.
+p326_280,33.33333333333333,33.33333333333333,74.54545454545455,54.666666666666664,There has been no cover-up - just the opposite in fact., there has been no cover up just the album scene fact
+p326_281,62.5,62.5,52.38095238095239,45.83333333333333,Mr Burrell was arrested almost a year ago., Mr. Borrow was arrested on my seerigo
+p326_282,0.0,0.0,5.88235294117647,5.714285714285714,That was enough for the committee., that was enough for the committee
+p326_283,25.0,25.0,55.00000000000001,47.82608695652174,We will be homeless., we will be handin'less
+p326_284,9.090909090909092,9.090909090909092,5.0,4.918032786885246,"Six of the asylum seekers left the offices, it was reported.", Six of the asylum seekers left the offices. He was reported.
+p326_285,0.0,0.0,1.7241379310344827,1.694915254237288,"In short, the Scottish excess is not difficult to justify."," In short, the Scottish Excess is not difficult to justify."
+p326_286,22.22222222222222,22.22222222222222,20.454545454545457,18.75,"Sure, this is a very important event for me."," Sure, this is very important event for me"
+p326_287,0.0,0.0,2.631578947368421,2.564102564102564,We have to focus on what is important., We have to focus on what is important
+p326_288,50.0,37.5,46.15384615384615,34.285714285714285,They have to work so hard., they have to work so to have it
+p326_289,37.5,33.33333333333333,56.86274509803921,46.774193548387096,But their bodies were found at lunchtime yesterday., but her bodies were found at lunch time yesterday
+p326_290,0.0,0.0,15.384615384615385,14.285714285714285,"Well, was it?"," well, was it"
+p326_291,0.0,0.0,4.166666666666666,4.0,That's my big challenge., That's my big challenge
+p326_292,0.0,0.0,4.545454545454546,4.444444444444445,The problems are a result of that shortfall., the problems are a result of that shortfall
+p326_293,0.0,0.0,6.451612903225806,6.25,We have to adapt to this level., we have to adapt to this level
+p326_294,0.0,0.0,20.833333333333336,20.0,So what is it with Nato?, so what is it with NATO
+p326_295,0.0,0.0,9.090909090909092,8.695652173913043,We won't let you down., we won't let you down
+p326_296,0.0,0.0,11.11111111111111,10.81081081081081,"Inclusion and Autism, Is It Working?"," Inclusion and autism, is it working?"
+p326_297,0.0,0.0,6.896551724137931,6.666666666666667,There's a strong involvement., there's a strong involvement
+p326_298,71.42857142857143,62.5,23.809523809523807,21.27659574468085,The observer saw no evidence ofr fighting., they observe us so no evidence of fighting
+p326_299,28.57142857142857,28.57142857142857,25.0,23.809523809523807,He was visited by UK consular officials., He is visited by UK concealer officials
+p326_300,0.0,0.0,5.172413793103448,5.084745762711865,"So we shall remain vigilant, and keep the pressure on him.", so we shall remain vigilant and keep the pressure on him
+p326_301,0.0,0.0,2.7027027027027026,2.631578947368421,English is the language of pop music., English is the language of pop music
+p326_302,0.0,0.0,1.8181818181818181,1.7857142857142856,The Israeli government is destroying the peace process., The Israeli government is destroying the peace process
+p326_303,0.0,0.0,8.333333333333332,8.0,It is a simple equation., it is a simple equation
+p326_304,0.0,0.0,7.4074074074074066,7.142857142857142,It makes a huge difference., it makes a huge difference
+p326_305,0.0,0.0,0.0,0.0,"By that time, however, it was already too late."," By that time, however, it was already too late."
+p326_306,0.0,0.0,12.903225806451612,12.5,"She has seen, or heard, it all.", she has seen or heard it all
+p326_307,12.5,12.5,6.122448979591836,5.88235294117647,Which Scot is likely to emulate his achievements?, which Scott is likely to emulate his achievements
+p326_308,16.666666666666664,16.666666666666664,32.142857142857146,31.03448275862069,Could you put it in writing?, could you put it in rising
+p326_309,50.0,50.0,24.137931034482758,20.0,They play together perfectly., they're played together perfectly
+p326_310,75.0,75.0,100,84.0,We will meet again., little mace again
+p326_311,0.0,0.0,4.878048780487805,4.761904761904762,"It's a record label, not a form of music."," it's a record label, not a form of music"
+p326_312,0.0,0.0,5.0,4.878048780487805,The other conditions were not specified., the other conditions were not specified
+p326_313,0.0,0.0,5.88235294117647,5.714285714285714,They should use it on the catwalk., they should use it on the catwalk
+p326_314,33.33333333333333,33.33333333333333,41.935483870967744,39.39393939393939,Perhaps it is the Crown Estate., perhaps it is the corona state
+p326_315,25.0,25.0,30.612244897959183,27.77777777777778,We're looking at the Citizens Theatre the Lyceum.," we're looking at the citizen's theatre, the lassetian"
+p326_316,50.0,50.0,54.54545454545454,43.90243902439025,It certainly sounded it at times., they certainly see Androdi at times
+p326_317,0.0,0.0,8.333333333333332,8.0,Anyone can take a photo., anyone can take a photo
+p326_318,10.0,10.0,6.896551724137931,6.779661016949152,"We were very happy with our results, which were excellent."," We are very happy with our results, which were excellent."
+p326_319,14.285714285714285,12.5,11.904761904761903,10.638297872340425,They treated me with respect and courtesy., they treated me with the respect and courtesy
+p326_320,0.0,0.0,6.896551724137931,6.666666666666667,He is involved in everything., he is involved in everything
+p326_321,0.0,0.0,10.0,9.523809523809524,"Family, if you like."," family, if you like"
+p326_322,37.5,75.0,100,75.43859649122807,A ceasefire is a ceasefire is a ceasefire., the safe are is the safe are is the safe are
+p326_323,0.0,0.0,3.125,3.0303030303030303,I don't want to change anything., I don't want to change anything
+p326_324,0.0,0.0,3.3333333333333335,3.225806451612903,I've only met him three times., I've only met him three times
+p326_325,33.33333333333333,33.33333333333333,30.76923076923077,29.629629629629626,"You see, my back has gone.", you say my back is gone
+p326_326,0.0,0.0,4.761904761904762,4.651162790697675,It's a logical consequence of the Formula., It's a logical consequence of the formula
+p326_327,12.5,12.5,12.195121951219512,11.627906976744185,Part of Johnny was found some days after., part of johnnie was found some days after
+p326_328,40.0,40.0,25.0,20.689655172413794,We are the weakest link., really are the weakest links
+p326_329,0.0,0.0,8.0,7.6923076923076925,It had been on the cards., it had been on the cards
+p326_330,20.0,20.0,18.51851851851852,17.24137931034483,"She looked very, very poor."," just looked very, very poor"
+p326_331,0.0,0.0,9.090909090909092,8.695652173913043,"He did, and he missed."," he did, and he missed"
+p326_332,42.857142857142854,42.857142857142854,38.63636363636363,33.33333333333333,Nato has completed planning for air strikes., Nata has completed planning for asteroids
+p326_333,20.0,20.0,13.333333333333334,12.5,Many innocent people will die., Many innocent people would die
+p326_334,75.0,60.0,66.66666666666666,53.84615384615385,The mood was defiant., the maid was to fly
+p326_335,0.0,0.0,4.545454545454546,4.3478260869565215,We have now no choice., We have now no choice
+p326_336,12.5,12.5,11.904761904761903,11.363636363636363,I'm sure that clubs will all be delighted., I'm sure that clouds will all be delighted
+p326_337,14.285714285714285,14.285714285714285,11.76470588235294,11.428571428571429,Butcher has only one idea in mind., putcha has only one idea in mind
+p326_338,0.0,0.0,8.0,7.6923076923076925,It's our worst nightmare., it's our worst nightmare
+p326_339,80.0,66.66666666666666,54.54545454545454,46.15384615384615,We gave them the goal., we guys are in the go
+p326_340,50.0,42.857142857142854,63.888888888888886,47.91666666666667,Self control is just one instalment., Self-control is just warning so many
+p326_341,12.5,12.5,10.81081081081081,10.256410256410255,It would be a massive boost for them., you would be a massive boost for them
+p326_342,0.0,0.0,8.0,7.6923076923076925,You never had it so good., you never had it so good
+p326_343,50.0,50.0,17.857142857142858,17.24137931034483,Both are national treasures., Bois and national treasures
+p326_344,0.0,0.0,0.0,0.0,The then secretary was not amused., The then secretary was not amused.
+p326_345,20.0,20.0,18.181818181818183,17.391304347826086,I can't speak for him., i can't speak to him
+p326_346,25.0,22.22222222222222,37.5,31.25,It is also claimed that he was murdered., it is also a client that he was murdered
+p326_347,50.0,36.36363636363637,52.5,38.18181818181819,Hopefully we can use this as a platform., I don't know if we can use this as a platform
+p326_348,0.0,0.0,6.451612903225806,6.25,I can't see him reversing that., i can't see him reversing that
+p326_349,0.0,0.0,5.555555555555555,5.263157894736842,He was on a horse., He was on a horse
+p326_350,0.0,0.0,3.0303030303030303,2.941176470588235,I'm really looking forward to it., I'm really looking forward to it
+p326_351,28.57142857142857,28.57142857142857,35.0,32.55813953488372,Capital gains tax is also being reduced., cable against tax is also being reduced
+p326_352,10.0,10.0,15.09433962264151,14.814814814814813,"I think, at last, the company will find itself again.", I think at last the county will find itself again
+p326_353,0.0,0.0,6.0606060606060606,5.88235294117647,And that gives a kind of freedom., and that gives a kind of freedom
+p326_354,100,80.0,97.43589743589743,65.51724137931035,I have also been delighted with Stevie., I've also been to a lot of biz-stady
+p326_355,0.0,0.0,8.695652173913043,8.333333333333332,He's on the wrong side., he's on the wrong side
+p326_356,9.090909090909092,9.090909090909092,9.615384615384617,9.25925925925926,"If he saw somebody in trouble, he would try to help."," if you saw somebody in trouble, he would try to help"
+p326_357,33.33333333333333,28.57142857142857,34.375,29.72972972972973,My husband was born in Zimbabwe., my husband was born in zenba boy
+p326_358,0.0,0.0,5.88235294117647,5.714285714285714,Labour is providing none of these., labour is providing none of these
+p326_359,0.0,0.0,6.8181818181818175,6.666666666666667,"So, in a sense, it was a government subsidy."," so in a sense, it was a government subsidy"
+p326_360,25.0,25.0,20.0,18.75,There is no musical background in his family., there was no musical background in this family
+p326_361,22.22222222222222,20.0,41.509433962264154,34.375,"However, BBC Scotland was not interested in his work."," however, baby sees scotland was not interested in his work"
+p326_362,33.33333333333333,33.33333333333333,30.0,28.125,The mix with Tiger is perfect., The next for tiger is perfect
+p326_363,14.285714285714285,14.285714285714285,11.363636363636363,11.11111111111111,There were no immediate reports of injuries., There are no immediate reports of injuries
+p326_364,0.0,0.0,4.0,3.9215686274509802,"Well, it happened to me, so it's happening to him."," well, it happened to me, so it's happening to him"
+p326_366,0.0,0.0,6.666666666666667,6.451612903225806,Finally action had been taken., finally action had been taken
+p326_367,0.0,0.0,8.333333333333332,8.0,We're not travel agents., we're not travel agents
+p326_368,0.0,0.0,11.76470588235294,11.11111111111111,It's hard not to., it's hard not to
+p326_369,33.33333333333333,33.33333333333333,23.333333333333332,21.875,Broke down and can't be fixed., broke down and caught me fixed
+p326_370,0.0,0.0,2.7777777777777777,2.7027027027027026,I'm desperate to play in this match., I'm desperate to play in this match
+p326_371,0.0,0.0,3.0303030303030303,2.941176470588235,"That's always the case, isn't it?"," that's always the case, isn't it?"
+p326_372,25.0,22.22222222222222,25.0,21.818181818181817,"However, there are no plans for injecting rooms.", how about there are no plans for injecting rooms
+p326_373,20.0,20.0,39.62264150943396,32.8125,"Since then, they have fallen by more than two thirds."," since then, they're fallen by more than two-thirds"
+p326_374,100.0,80.0,100,75.0,It is patently true., we just pay something true
+p326_375,0.0,0.0,6.896551724137931,6.666666666666667,They did not threaten anyone., they did not threaten anyone
+p326_376,0.0,0.0,3.6363636363636362,3.571428571428571,"There is no hiding place in it, no room for passengers."," there is no hiding place in it, no room for passengers"
+p326_377,37.5,33.33333333333333,29.268292682926827,25.0,That is the position the MoD has adopted., that is a position the MO Daddy has adopted
+p326_378,28.57142857142857,28.57142857142857,32.432432432432435,28.57142857142857,But sometimes it works out all right., but sometimes it works out alright
+p326_379,0.0,0.0,4.545454545454546,4.444444444444445,"What are you supposed to do, just walk away?"," what are you supposed to do, just walk away"
+p326_380,75.0,75.0,95.0,71.69811320754717,Even then he was in the media spotlight., even then using the media spotlight
+p326_381,100,100.0,100,80.55555555555556,Therein lies the problem., they're in lots of problems
+p326_382,0.0,0.0,10.526315789473683,10.0,You feel the pride., you feel the pride
+p326_383,0.0,0.0,5.405405405405405,5.263157894736842,But this is not just a Tibetan issue., but this is not just a Tibetan issue
+p326_384,0.0,0.0,0.0,0.0,The distinction is also supported by doctors., The distinction is also supported by doctors.
+p326_385,0.0,0.0,3.571428571428571,3.4482758620689653,I have to keep working hard., I have to keep working hard
+p326_386,0.0,0.0,5.454545454545454,5.263157894736842,"Mrs Thatcher was in the right place, at the right time.", Mrs. Thatcher was in the right place at the right time
+p326_387,33.33333333333333,33.33333333333333,21.875,20.0,Art is still a risky investment.," ah, it's still a risky investment"
+p326_388,0.0,0.0,7.142857142857142,6.896551724137931,That is difficult to answer., that is difficult to answer
+p326_389,66.66666666666666,57.14285714285714,84.84848484848484,58.333333333333336,"A century on, little has changed."," century on, the digital has changed"
+p326_390,20.0,20.0,16.129032258064516,15.151515151515152,Wrong decisions Address in full, wrong decisions address him full
+p326_391,25.0,22.22222222222222,26.82926829268293,23.404255319148938,My father had been unwell for many years., my father had been on will for many years
+p326_392,25.0,22.22222222222222,20.930232558139537,19.148936170212767,She said she would not welcome the flowers., She said she would not work on the flowers
+p326_393,0.0,0.0,4.545454545454546,4.444444444444445,It is a temptation which should be resisted., it is a temptation which should be resisted
+p326_394,33.33333333333333,33.33333333333333,34.090909090909086,33.33333333333333,"However, his remarks were heavily qualified."," however, his remarks are heavily coliform"
+p326_395,66.66666666666666,57.14285714285714,52.0,43.333333333333336,It was like the old days., she was a lot of old days
+p326_396,83.33333333333334,83.33333333333334,93.54838709677419,72.5,A great deal has been achieved., great deal with spinach eggs
+p326_397,0.0,0.0,6.896551724137931,6.666666666666667,My future is in the marathon., my future is in the marathon
+p326_398,20.0,20.0,23.809523809523807,21.73913043478261,Then he did it twice., then you did it twice
+p326_399,0.0,0.0,6.25,6.0606060606060606,So is the rest of British sport., so is the rest of British sport
+p326_400,0.0,0.0,6.25,6.0606060606060606,It had until tomorrow to comply., it had until tomorrow to comply
