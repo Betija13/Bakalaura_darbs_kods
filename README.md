@@ -5,6 +5,8 @@ Koda lapa bakalaura darbam
 # Rezultāti
 Visi iegūtie rezultāti ir aplūkojami mapītē `Transcript_results`, kur visiem runātāju un atsevišķajam datu kopas modelim ir sava mapīte.
 
+Rezultāti apkopotā viedā ir aplūkojami `RESULTS.xlsx`
+
 # Datu kopa
 
 Ielādējot datu kopu (VCTK), palaiž (./dataset_configurations):
