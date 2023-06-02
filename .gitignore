@@ -3,9 +3,7 @@
 /.idea/
 
 /whisper/results/
-/results/GPU_finetuned_models/
-/results/GPU_run_results/
-/results/GPU_transcripts_wer_cer/previous/
+/results/
 /whisper/example_whisper_finetune.py
 /whisper/example_whisper_finetune_2.py
 /pythorch_work_script.py
