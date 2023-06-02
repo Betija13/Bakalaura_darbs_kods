@@ -3,7 +3,6 @@ from tqdm import tqdm
 import re
 import time
 DEBUGGING = False
-#TODO SATĪRĪT ŠO KODU
 
 def append_CER(true_ar, gen_ar,true_ts_word, gen_ts_word, error_type):
     true_ts_char = [*true_ts_word]

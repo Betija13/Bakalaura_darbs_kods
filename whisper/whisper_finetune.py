@@ -268,8 +268,8 @@ if __name__ == "__main__":
     # )
 
     # print("feature_extr, tokenizer, processor, model")
-    # model_path = f"./pretrained_models/whisper-{args.model_size}"
-    model_path = f"./pretrained_models/whisper-base_en-finetuned-VCTK/17_05/checkpoint-12700"
+    model_path = f"./pretrained_models/whisper-{args.model_size}"
+    # model_path = f"./pretrained_models/whisper-base_en-finetuned-VCTK/17_05/checkpoint-12700"
     # model_path = f"./"
     if not os.path.exists(model_path):
         print("Bruh Wrong model path")
@@ -383,5 +383,5 @@ if __name__ == "__main__":
     )
     # print("processor save pretrained")
     processor.save_pretrained(training_args.output_dir)
-    trainer.train(resume_from_checkpoint=model_path)
-    # trainer.train()
+    # trainer.train(resume_from_checkpoint=model_path)
+    trainer.train()
