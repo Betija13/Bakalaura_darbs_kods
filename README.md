@@ -34,7 +34,7 @@ pārvieto arī mērķa runātāja mapīti uz `outdir` mapīti (freevc_pxxx)
 
 Palaiž `write_metadata.py`, nomainot `user_finetuning = True` un `specific_user = 'pxxx'` (pxxx vietā ieliek mērķa runātāju). Ja nepieciešams, nomaina `path_to_audio` uz to mapīti, kurā saglabāti visi pārveidotie faili. 
 
-## Transkriptu iegūšana
+# Transkriptu iegūšana
 
 Trenētie modeļi tika glabāti mapītē `pretrained_models`, ar nosaukumiem `whisper-{whisper_model_size}-finetuned-{pxxx/VCTK}/{training_date}/{checkpoint}`, kur `{pxxx/VCTK}` ir atkarīgs vai ir `finetuned_on_user`.
 
@@ -56,7 +56,7 @@ Lai iegūtu atsevišķiem teikumiem WER un CER palaiž `wer_and_cer.py` (./whisp
 
 # Cits info
 
-# Conda envs
+## Conda envs
 
 See current enviornments: conda info --envs
 
@@ -64,7 +64,7 @@ Create a new env: conda create --name `env_name`
 
 Activate environment: conda activate `env_name`
 
-# Packages
+## Packages
 
 - python 3.9 (?) at least that is what I did/use
 - torch (conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia `https://pytorch.org/get-started/locally/`)
